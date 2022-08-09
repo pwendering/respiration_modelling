@@ -1,0 +1,65 @@
+name,ec_number,in_vitro,in_vivo,in_vitro_confidence
+PGA kinase,2.7.2.3,540,192.433863214599,1
+TP isomerase,5.3.1.1,3406,121.045759773944,1
+FBP aldolase,4.1.2.13,0.002,31.1519542008997,2
+FBPase,3.1.3.11,26.4,104.3896602963,2
+F6P transketolase,2.2.1.1,26.87,200.285611304396,2
+S7P transketolase,2.2.1.1,28.642,200.285611304396,2
+Ru5P epimerase,5.1.3.1,7100,637.207016436289,0
+R5P isomerase,5.3.1.6,3440,73.4526254579222,0
+TP isomerase,5.3.1.1,3406,121.045759773944,1
+FBP aldolase,4.1.2.13,0.002,31.1519542008997,2
+FBPase,3.1.3.11,26.4,104.3896602963,2
+Enolase,4.2.1.11,34.07,10277.4931381653,2
+PGA mutase,5.4.2.1,0,18852.5248966868,0
+PGA kinase,2.7.2.3,540,192.433863214599,1
+GAP dehydrogenase,1.2.1.12,50,125.197581250718,0
+GAP dehydrogenase,1.2.1.9,0,NaN,0
+6-Phosphofructokinase,2.7.1.11,4328,NaN,2
+6-Phosphofructokinase,2.7.1.11,4328,NaN,2
+GAP dehydrogenase,1.2.1.12,50,125.197581250718,0
+PGA mutase,5.4.2.1,0,18852.5248966868,0
+Enolase,4.2.1.11,230,10277.4931381653,0
+Pyr kinase,2.7.1.40,6.68,NaN,3
+Pyr kinase,2.7.1.40,6.68,NaN,3
+DHL dehydrogenase,1.8.1.4,899,92.203928382005,2
+Cit synthase,2.3.3.1,208,55.9305775521734,2
+Aconitase dehydration,4.2.1.3,5.3,78.5297629566615,2
+Aconitase hydration,4.2.1.3,3.3,78.5297629566615,2
+iCit dehydrogenase,1.1.1.41,30,0.310730887348337,2
+KG dehydrogenase,1.2.4.2,6.7,NaN,0
+DHL succinyltransferase,2.3.1.61,186,NaN,0
+SCA-CoA ligase,6.2.1.5,201,NaN,2
+SCA dehydrogenase (Q),1.3.5.1,167,10.5689915623361,2
+Fum hydratase,4.2.1.2,690,634.83117697228,2
+Mal dehydrogenase,1.1.1.37,4729,3742.60386775624,2
+NADH dehydrogenase (Q),1.6.5.3,0,3956.70881521485,0
+Cytc reductase,1.10.2.2,0,976.564867471418,0
+Cytc oxidase,1.9.3.1,296,41.9593283892394,0
+ATP synthase,3.6.3.14,0,748.781495895571,0
+G6P dehydrogenase,1.1.1.49,571,NaN,2
+6-Phosphogluconolactonase,3.1.1.31,14.3,NaN,0
+6PG dehydrogenase,1.1.1.44,73,NaN,2
+6PG dehydrogenase,1.1.1.44,73,NaN,2
+Transaldolase,2.2.1.2,13,80.1641485000713,2
+PGA kinase,2.7.2.3,2633,192.433863214599,2
+TP isomerase,5.3.1.1,800,121.045759773944,2
+FBP aldolase,4.1.2.13,2.95,31.1519542008997,3
+F6P transketolase,2.2.1.1,0.0187,200.285611304396,2
+S7P transketolase,2.2.1.1,0.0187,200.285611304396,2
+Ru5P epimerase,5.1.3.1,7100,637.207016436289,0
+R5P isomerase,5.3.1.6,3440,73.4526254579222,0
+TP isomerase,5.3.1.1,800,121.045759773944,2
+FBP aldolase,4.1.2.13,2.95,31.1519542008997,3
+Enolase,4.2.1.11,230,10277.4931381653,0
+PGA mutase,5.4.2.1,0,18852.5248966868,0
+PGA kinase,2.7.2.3,2633,192.433863214599,2
+GAP dehydrogenase,1.2.1.12,73.56,125.197581250718,2
+GAP dehydrogenase,1.2.1.12,73.56,125.197581250718,2
+PGA mutase,5.4.2.1,0,18852.5248966868,0
+Enolase,4.2.1.11,34.07,10277.4931381653,2
+Mal dehydrogenase,1.1.1.37,608,3742.60386775624,3
+ATP synthase,3.6.3.14,0,748.781495895571,0
+6PG dehydrogenase,1.1.1.44,98,NaN,0
+6PG dehydrogenase,1.1.1.44,98,NaN,0
+Transaldolase,2.2.1.2,4.9,80.1641485000713,2

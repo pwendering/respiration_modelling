@@ -1,0 +1,1266 @@
+Reactions that produce compound from New SmartTable with CO2	Matches	EC-Number	METANETX	Spontaneous?	In-Pathway	Object ID	Data-Source	Regulated-By	Requirements
+RXN1F-93	CARBON-DIOXIDE	EC-1.14.20.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107965</a>		PWY-3101	RXN1F-93			
+RXN-8450	CARBON-DIOXIDE	EC-1.14.20.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140837</a>		PWY-3101 // PWY-5391	RXN-8450			
+RXN-527	CARBON-DIOXIDE	EC-1.14.20.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107338</a>		PWY-3101 // PWY-5390	RXN-527			
+RXN-15821	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119650</a>		PWY-7557	RXN-15821			
+RXN-16344	CARBON-DIOXIDE	EC-1.14.20.8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114508</a>		PWY-7749 // PWY-5479	RXN-16344			
+R214-RXN	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111781</a>		P241-PWY	R214-RXN			
+R218-RXN	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116195</a>		P241-PWY	R218-RXN			
+RXN-21743	CARBON-DIOXIDE	EC-1.14.11			PWY-8179	RXN-21743			
+RXN-13288	CARBON-DIOXIDE	EC-1.14.14	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117997</a>		PWY-7035	RXN-13288			
+RXN-17695	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR114864</a>	T	PWY-5770	RXN-17695			
+RXN-7970	CARBON-DIOXIDE	EC-1.1.1.87 // EC-1.1.1.286	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107239</a>		LYSINE-AMINOAD-PWY // PWY-3081	RXN-7970			
+RXN-17689	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR114862</a>	T	PWY-5770	RXN-17689			
+1.3.1.53-RXN	CARBON-DIOXIDE	EC-1.3.1.53	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107100</a>		PWY-7795	1.3.1.53-RXN			
+RXN-21178	CARBON-DIOXIDE	EC-1.14.19			PWY-6682	RXN-21178			
+RXN-17707	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121103</a>		PWY-6660 // RXN-17711	RXN-17707			
+RXN-17706	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR140680</a>	T		RXN-17706			
+RXN-15311	CARBON-DIOXIDE	EC-1.14.11.46	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114042</a>		PWY-7447	RXN-15311			
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.44	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115592</a>		PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN			
+RXN-22204	CARBON-DIOXIDE	EC-1.1.1.418			PWY-8238	RXN-22204			
+RXN-11938	CARBON-DIOXIDE	EC-1.1.1.418	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117240</a>		PWY-2541	RXN-11938			
+RXN-20495	CARBON-DIOXIDE				PWY-8049	RXN-20495			
+RXN-20453	CARBON-DIOXIDE	EC-2.3.1			PWY-8045	RXN-20453			
+RXN-9869	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR123041</a>		PWY-6107	RXN-9869			
+RXN-9755	CARBON-DIOXIDE	EC-1.17.99	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122976</a>		PWY-6053	RXN-9755			
+RXN-14981	CARBON-DIOXIDE	EC-1.14.20.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119049</a>			RXN-14981			
+RXN-13158	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113436</a>			RXN-13158			
+RXN-7745	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106779</a>		PWY-5101	RXN-7745			
+RXN-602	CARBON-DIOXIDE	EC-1.14.20.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140784</a>			RXN-602			
+RXN-7785	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109285</a>		PWY-5153	RXN-7785			
+LEUCPEL-RXN	CARBON-DIOXIDE	EC-1.14.20.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108780</a>		PWY-7267	LEUCPEL-RXN			
+RXN-16827	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120414</a>		PWY-7687	RXN-16827			
+RXN-21302	CARBON-DIOXIDE					RXN-21302			
+RXN-7800	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR102180</a>	T	LEUSYN-PWY // PWY-6871 // RXN-13158	RXN-7800			
+RXN-18439	CARBON-DIOXIDE	EC-2.3.1.156			PWY-7857	RXN-18439			
+RXN-21612	CARBON-DIOXIDE	EC-2.3.1.300			PWY-8173	RXN-21612			
+RXN-19265	CARBON-DIOXIDE	EC-1.14.20.12			PWY-7956	RXN-19265			
+RXN-19268	CARBON-DIOXIDE	EC-1.14.20.11			PWY-7957	RXN-19268			
+RXN-19262	CARBON-DIOXIDE	EC-1.14.20.9			PWY-7955	RXN-19262			
+RXN-19266	CARBON-DIOXIDE	EC-1.14.20.10			PWY-7960	RXN-19266			
+RXN-7922	CARBON-DIOXIDE	EC-1.14.11.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143547</a>		PWY-5152	RXN-7922			
+RXN-7775	CARBON-DIOXIDE	EC-1.14.11.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108319</a>		PWY1F-823	RXN-7775			
+RXN-7687	CARBON-DIOXIDE	EC-1.14.20.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108277</a>		PWY-5060	RXN-7687			
+RXN-13029	CARBON-DIOXIDE	EC-4.1.1.94	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113354</a>			RXN-13029			
+RXN-8957	CARBON-DIOXIDE	EC-1.3.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112723</a>		PWY-7854 // PWY-5741	RXN-8957			
+NARINGENIN-3-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107509</a>		PWY1F-FLAVSYN // PWY-6787	NARINGENIN-3-DIOXYGENASE-RXN			
+RXN-7686	CARBON-DIOXIDE	EC-1.14.20.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107510</a>		PWY-2083 // PWY-5060	RXN-7686			
+RXN-7648	CARBON-DIOXIDE	EC-1.14.11.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111576</a>		PWY-5059	RXN-7648			
+RXN-8379	CARBON-DIOXIDE	EC-1.14.20.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139592</a>		PWY-5363	RXN-8379			
+RXN-17152	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120695</a>	T	PWY-7734	RXN-17152			
+RXN-10883	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116565</a>	T	PWY-7006 // PWY-6336	RXN-10883			
+RXN-20409	CARBON-DIOXIDE	EC-4.1.1.83				RXN-20409			
+RXN-21830	CARBON-DIOXIDE	EC-1.1.1.418			PWY-8239	RXN-21830			
+RXN-20434	CARBON-DIOXIDE	EC-1.1.1.418			PWY18C3-1	RXN-20434			
+RXN-10246	CARBON-DIOXIDE	EC-4.1.1.77	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140168</a>		PWY-5645	RXN-10246			
+4.1.1.77-RXN	CARBON-DIOXIDE	EC-4.1.1.77	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139995</a>		PWY-7009 // PWY-7480 // PWY-5654 // PWY-6210 // PWY-5647 // PWY-6214 // PWY-7006 // PWY-5419 // 2ASDEG-PWY // PWY-6336	4.1.1.77-RXN			
+4.1.1.68-RXN	CARBON-DIOXIDE	EC-4.1.1.68	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143760</a>		3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	4.1.1.68-RXN			
+CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR115744</a>		4.1.1.68-RXN	CARBOXY-OXOHEPT-ENEDIOATE-DECARBOXY-RXN			
+HYDROXYGLUTAMATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.16	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108680</a>			HYDROXYGLUTAMATE-DECARBOXYLASE-RXN			
+RXN-21813	CARBON-DIOXIDE				TRYPTOPHAN-2-DIOXYGENASE-RXN	RXN-21813			
+RXN-19503	CARBON-DIOXIDE	EC-1.2.7.7			PWY-8184	RXN-19503			
+METHYLVALERATE-RXN	CARBON-DIOXIDE	EC-1.2.4.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116060</a>		2KETO-3METHYLVALERATE-RXN	METHYLVALERATE-RXN			
+2KETO-3METHYLVALERATE-RXN	CARBON-DIOXIDE	EC-1.2.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102174</a>		PWY-8173 // ILEUDEG-PWY	2KETO-3METHYLVALERATE-RXN			
+4.1.1.72-RXN	CARBON-DIOXIDE	EC-4.1.1.72	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94925</a>		PWY-5078	4.1.1.72-RXN			
+RXN-8949	CARBON-DIOXIDE	EC-1.14.20.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113757</a>		PWY-5737	RXN-8949			
+RXN-14671	CARBON-DIOXIDE	EC-1.13.11.83	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110510</a>		PWY-7303	RXN-14671			
+4.1.1.83-RXN	CARBON-DIOXIDE	EC-4.1.1.83	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139522</a>		PWY-7514	4.1.1.83-RXN			
+RXN-20485	CARBON-DIOXIDE	EC-2.3.1			PWY-8049	RXN-20485			
+RXN-21575	CARBON-DIOXIDE	EC-4.1.1			PWY-5956	RXN-21575			
+6-BETA-HYDROXYHYOSCYAMINE-EPOXIDASE-RXN	CARBON-DIOXIDE	EC-1.14.20.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108385</a>		PWY-5317	6-BETA-HYDROXYHYOSCYAMINE-EPOXIDASE-RXN			
+RXN-18571	CARBON-DIOXIDE			T		RXN-18571			
+RXN-9618	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122902</a>		PWY-5987	RXN-9618			
+RXN-7575	CARBON-DIOXIDE	EC-2.3.1.M47	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121959</a>		PWY-84	RXN-7575			
+RXN-21007	CARBON-DIOXIDE				PWY-8104 // RXN-7575	RXN-21007			
+RXN-12963	CARBON-DIOXIDE	EC-1.14.11.62	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117824</a>		PWY-7398 // PWY-6982	RXN-12963			
+RXN-7822	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122051</a>		PWY-6316	RXN-7822			
+RXN-7577	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121960</a>		PWY-84	RXN-7577			
+NARINGENIN-CHALCONE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107087</a>		PWY-7897 // PWY-7397 // PWY-5135	NARINGENIN-CHALCONE-SYNTHASE-RXN			
+RXN-87	CARBON-DIOXIDE	EC-2.3.1.95	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107088</a>		PWY-84	RXN-87			
+RXN-3142	CARBON-DIOXIDE	EC-2.3.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110355</a>		PWY1F-FLAVSYN	RXN-3142			
+RXN-12668	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117686</a>		PWY-6920	RXN-12668			
+RXN-11223	CARBON-DIOXIDE	EC-2.3.1.219	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112301</a>			RXN-11223			
+RXN-11225	CARBON-DIOXIDE	EC-2.3.1.219	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112303</a>			RXN-11225			
+RXN-11220	CARBON-DIOXIDE	EC-2.3.1.218	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112299</a>		PWY-6432 // PWY-6438	RXN-11220			
+RXN-8458	CARBON-DIOXIDE	EC-2.3.1.212	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113593</a>		PWY-5393	RXN-8458			
+RXN-8841	CARBON-DIOXIDE	EC-4.1.1.77	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140863</a>		PWY-5644	RXN-8841			
+RXN-19128	CARBON-DIOXIDE	EC-2.3.1.M47				RXN-19128			
+RXN-16762	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120361</a>		PWY-5349	RXN-16762			
+GLUTACONYL-COA-DECARBOXYLASE-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR107899</a>		PWY-7401 // PWY-5177 // GLUTARYL-COA-DEHYDROGENASE-RXN	GLUTACONYL-COA-DECARBOXYLASE-RXN			
+RXN-19739	CARBON-DIOXIDE	EC-7.2.4.5			P162-PWY // PWY-8190	RXN-19739			
+RXN-20090	CARBON-DIOXIDE	EC-4.1.1.115				RXN-20090			
+1.2.7.8-RXN	CARBON-DIOXIDE	EC-1.2.7.8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114964</a>			1.2.7.8-RXN			
+4.1.1.74-RXN	CARBON-DIOXIDE	EC-4.1.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100837</a>		TRPIAACAT-PWY // PWY-5081	4.1.1.74-RXN			
+RXNDQC-2	CARBON-DIOXIDE	EC-1.14.13.168	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113547</a>		PWY-581	RXNDQC-2			
+RXN-20650	CARBON-DIOXIDE	EC-1.14.18.12			PWY-7119	RXN-20650			
+DIMETHYLMALATE-DEHYDROGENASE-RXN	CARBON-DIOXIDE	EC-1.1.1.84	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106868</a>			DIMETHYLMALATE-DEHYDROGENASE-RXN			
+RXN-15649	CARBON-DIOXIDE	EC-4.1.1.110	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119518</a>		PWY-7524	RXN-15649			
+RXN-22657	CARBON-DIOXIDE	EC-1.14.11.ay				RXN-22657			
+RXN-22658	CARBON-DIOXIDE				PWY-8320 // RXN-22657	RXN-22658			
+RXN-22659	CARBON-DIOXIDE				PWY-8320 // RXN-22657	RXN-22659			
+P-PANTOCYSDECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.36	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103098</a>		PWY-8342	P-PANTOCYSDECARB-RXN			
+RXN-18355	CARBON-DIOXIDE	EC-3.5.1			PWY-7850	RXN-18355			
+RXN-14823	CARBON-DIOXIDE	EC-1.14.11.44	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113873</a>			RXN-14823			
+RXN-8275	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122215</a>		CAMALEXIN-SYN // RXN-18199	RXN-8275			
+1.1.1.83-RXN	CARBON-DIOXIDE	EC-1.1.1.83	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101339</a>		PWY0-1465	1.1.1.83-RXN			
+RXN-14822	CARBON-DIOXIDE	EC-1.14.11.44	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113870</a>			RXN-14822			
+RXN-22924	CARBON-DIOXIDE				PWY-8343	RXN-22924			
+RXN0-310	CARBON-DIOXIDE	EC-4.1.1.M5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123164</a>		PWY0-43	RXN0-310			
+RXN-18384	CARBON-DIOXIDE	EC-1.3.1.85			PWY-7854	RXN-18384			
+DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.33	<a href='https://www.metanetx.org/equa_info/~A'>MNXR97776</a>		PWY-922	DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN			
+RXN-8947	CARBON-DIOXIDE	EC-2.3.1.226	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113823</a>		PWY-5737	RXN-8947			
+RXN-6081	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121834</a>	T	PWY-6389	RXN-6081			
+ACETOLACTATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95270</a>		PWY-5939	ACETOLACTATE-DECARBOXYLASE-RXN			
+RXN-6201	CARBON-DIOXIDE	EC-4.1.1.97	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110386</a>		PWY-5691 // PWY-7394 // PWY-7849	RXN-6201			
+4-HYDROXYMANDELATE-OXIDASE-RXN	CARBON-DIOXIDE	EC-1.1.3.19	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107658</a>			4-HYDROXYMANDELATE-OXIDASE-RXN			
+HYOSCYAMINE-6-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108445</a>		PWY-5317	HYOSCYAMINE-6-DIOXYGENASE-RXN			
+RXN-14821	CARBON-DIOXIDE	EC-1.14.11.43	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113825</a>			RXN-14821			
+RXN-19631	CARBON-DIOXIDE	EC-1.13.12.4				RXN-19631			
+RXN-16819	CARBON-DIOXIDE	EC-4.1.1.101	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114376</a>		PWY-7685	RXN-16819			
+RXN-19748	CARBON-DIOXIDE	EC-1.1.1.39				RXN-19748			
+1.1.1.39-RXN	CARBON-DIOXIDE	EC-1.1.1.38	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101446</a>		PWY-7115 // PWY-7118 // GLUCONEO-PWY // PWY-7686 // PWY-3641 // PWY-7384	1.1.1.39-RXN			
+MALIC-NADP-RXN	CARBON-DIOXIDE	EC-1.1.1.40	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101443</a>		PWY-7117 // PWY-241 // GLUCONEO-PWY	MALIC-NADP-RXN			
+RXN-14820	CARBON-DIOXIDE	EC-1.14.11.43	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113858</a>			RXN-14820			
+METHYLMALONYL-COA-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.94	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101656</a>			METHYLMALONYL-COA-DECARBOXYLASE-RXN			
+RXN-19738	CARBON-DIOXIDE	EC-7.2.4.3			PWY-8086	RXN-19738			
+UREIDOGLYCOLATE-HYDROLASE-RXN	CARBON-DIOXIDE	EC-3.5.1.116	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105091</a>		PWY-5692	UREIDOGLYCOLATE-HYDROLASE-RXN			
+RXN-12895	CARBON-DIOXIDE	EC-3.5.1.110	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113346</a>			RXN-12895			
+RXN-12894	CARBON-DIOXIDE	EC-3.5.1.110	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113344</a>			RXN-12894			
+RXN-17063	CARBON-DIOXIDE	EC-4.1.1.M3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120627</a>			RXN-17063			
+RXN-17064	CARBON-DIOXIDE	EC-4.1.1.M3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120628</a>			RXN-17064			
+1.3.1.68-RXN	CARBON-DIOXIDE	EC-1.3.1.68	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109475</a>			1.3.1.68-RXN			
+RXN-9098	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122641</a>		PWY-5795	RXN-9098			
+RXN0-7275	CARBON-DIOXIDE					RXN0-7275			
+IGPSYN-RXN	CARBON-DIOXIDE	EC-4.1.1.48	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100814</a>		TRPSYN-PWY	IGPSYN-RXN			
+RXN-20066	CARBON-DIOXIDE			T	PWY-5169	RXN-20066			
+2.7.8.23-RXN	CARBON-DIOXIDE	EC-2.7.8.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109366</a>			2.7.8.23-RXN			
+RXN-12651	CARBON-DIOXIDE	EC-1.14.11.35	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113523</a>		PWY-6919 // PWY-6915	RXN-12651			
+RXN-12763	CARBON-DIOXIDE	EC-1.14.13.135	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117742</a>			RXN-12763			
+RXN-18739	CARBON-DIOXIDE	EC-1.14.11.33				RXN-18739			
+RXN0-7280	CARBON-DIOXIDE	EC-1.14.11.33				RXN0-7280			
+RXN-22717	CARBON-DIOXIDE	EC-2.3.1			PWY-5317	RXN-22717			
+RXN-9202	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122701</a>		PWY-5843	RXN-9202			
+RXN-15677	CARBON-DIOXIDE	EC-2.3.1.235	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114267</a>			RXN-15677			
+RXN-14827	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118957</a>	T	PWY-7352	RXN-14827			
+RXN-19283	CARBON-DIOXIDE	EC-1.14.20.14			PWY-7958	RXN-19283			
+RXN-19284	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19284			
+RXN-14864	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118981</a>			RXN-14864			
+RXN-14867	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118984</a>			RXN-14867			
+RXN-14866	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118983</a>	T		RXN-14866			
+RXN-14862	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118979</a>			RXN-14862			
+RXN-13958	CARBON-DIOXIDE	EC-2.3.1.211	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113592</a>			RXN-13958			
+1.2.3.13-RXN	CARBON-DIOXIDE	EC-1.2.3.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR138953</a>		PWY-7514	1.2.3.13-RXN			
+RXN-15414	CARBON-DIOXIDE	EC-1.10.3.15	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114038</a>		PWY-7153	RXN-15414			
+RXN-15813	CARBON-DIOXIDE	EC-6.3.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140579</a>		PWY-7556	RXN-15813			
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.39	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103435</a>		PWY-5532 // PWY-5723	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN			
+RXN-12361	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117499</a>		PWY-6799	RXN-12361			
+RXN-20475	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20475			
+RXN-22755	CARBON-DIOXIDE	EC-2.3.1.M106			PWY-8327	RXN-22755			
+RXN-22748	CARBON-DIOXIDE	EC-2.3.1.M105				RXN-22748			
+1.2.2.3-RXN	CARBON-DIOXIDE	EC-1.17.2.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139185</a>		PWY-8303	1.2.2.3-RXN			
+FORMYLMETHANOFURAN-DEHYDROGENASE-RXN	CARBON-DIOXIDE	EC-1.2.7.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115887</a>		PWY-8305 // PWY-5209 // PWY-7784	FORMYLMETHANOFURAN-DEHYDROGENASE-RXN			
+RXN-16835	CARBON-DIOXIDE	EC-1.17.1.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120421</a>			RXN-16835			
+GLYOCARBOLIG-RXN	CARBON-DIOXIDE	EC-4.1.1.47	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100303</a>		GLYCOLATEMET-PWY	GLYOCARBOLIG-RXN			
+RXN-15064	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119111</a>		PWY-7677 // PWY-7415	RXN-15064			
+ACETOLACTSYN-RXN	CARBON-DIOXIDE	EC-2.2.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95271</a>		VALSYN-PWY // PWY-5938 // PWY-5939 // PWY-6389 // PWY-7111	ACETOLACTSYN-RXN			
+RXN-15885	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119684</a>		PWY-7561	RXN-15885			
+RXN-15897	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119694</a>		PWY-7563	RXN-15897			
+RXN-19848	CARBON-DIOXIDE	EC-2.3.1.M60			PWY-8012	RXN-19848			
+RXN-16072	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119820</a>		PWY-7599	RXN-16072			
+RXN-15917	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119708</a>		PWY-7565	RXN-15917			
+HEMN-RXN	CARBON-DIOXIDE	EC-1.3.98.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96881</a>		PWY-5531 // HEMESYN2-PWY	HEMN-RXN			
+RXN-15942	CARBON-DIOXIDE	EC-1.3.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119730</a>			RXN-15942			
+RXN-15808	CARBON-DIOXIDE	EC-1.3.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119638</a>		PWY-7552	RXN-15808			
+2.1.1.132-RXN	CARBON-DIOXIDE	EC-2.1.1.132	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109355</a>			2.1.1.132-RXN			
+RXN-7983	CARBON-DIOXIDE	EC-1.14.11.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110878</a>		PWY-5925	RXN-7983			
+1.14.11.24-RXN	CARBON-DIOXIDE	EC-1.14.11.24	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110876</a>		PWY-5925	1.14.11.24-RXN			
+1.14.11.10-RXN	CARBON-DIOXIDE	EC-1.14.11.10	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107538</a>			1.14.11.10-RXN			
+1.14.11.3-RXN	CARBON-DIOXIDE	EC-1.14.11.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107212</a>			1.14.11.3-RXN			
+O-PYROCATECHUATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.46	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106705</a>			O-PYROCATECHUATE-DECARBOXYLASE-RXN			
+RXN-13172	CARBON-DIOXIDE	EC-1.14.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117938</a>		PWY-7009	RXN-13172			
+23-DIHYDROXYINDOLE-23-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.11.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106772</a>			23-DIHYDROXYINDOLE-23-DIOXYGENASE-RXN			
+RXN-9863	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109567</a>		PWY-6085	RXN-9863			
+RXN-7586	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR139577</a>		PWY-5033	RXN-7586			
+RXN-12610	CARBON-DIOXIDE	EC-2.5.1.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114031</a>		PWY-6907	RXN-12610			
+RXN-18199	CARBON-DIOXIDE	EC-1.14.19.52	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121491</a>			RXN-18199			
+RXN-16198	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119935</a>		PWY-5706	RXN-16198			
+RXN-17713	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121109</a>		RXN-17715	RXN-17713			
+3.5.1.66-RXN	CARBON-DIOXIDE	EC-3.5.1.66	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108866</a>			3.5.1.66-RXN			
+AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN	CARBON-DIOXIDE	EC-4.1.1.45	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115698</a>		PWY-5654 // PWY-5652 // PWY-5647	AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN			
+RXN-18843	CARBON-DIOXIDE				PWY-7913	RXN-18843			
+RXN-48	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR140775</a>			RXN-48			
+RXN-7	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR140788</a>		PWY-1	RXN-7			
+RXN-15078	CARBON-DIOXIDE	EC-2.7.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119125</a>		PWY-7419	RXN-15078			
+RXN-18091	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121400</a>	T	PWY-7823	RXN-18091			
+4.1.1.76-RXN	CARBON-DIOXIDE	EC-4.1.1.76	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109374</a>			4.1.1.76-RXN			
+RXN-14466	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113838</a>			RXN-14466			
+RXN-14465	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118701</a>	T	PWY-7275 // RXN-14466	RXN-14465			
+RXN-10443	CARBON-DIOXIDE	EC-1.14.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116376</a>			RXN-10443			
+RXN-7568	CARBON-DIOXIDE	EC-2.5.1.130	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121957</a>		PWY-5027	RXN-7568			
+RXN-21401	CARBON-DIOXIDE	EC-4.1.1			PWY-6959	RXN-21401			
+RXN-9901	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123064</a>			RXN-9901			
+2-CHLOROBENZOATE-12-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106799</a>		PWY-6221	2-CHLOROBENZOATE-12-DIOXYGENASE-RXN			
+RXN-20181	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20181			
+RXN-10442	CARBON-DIOXIDE	EC-1.14.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116375</a>			RXN-10442			
+RXN-13706	CARBON-DIOXIDE	EC-1.14.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140344</a>			RXN-13706			
+RXN-18113	CARBON-DIOXIDE	EC-4.1.1.M8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121416</a>			RXN-18113			
+RXN-667	CARBON-DIOXIDE	EC-4.1.1.M8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR144038</a>		PWY-5163	RXN-667			
+RXN-18112	CARBON-DIOXIDE	EC-4.1.1.M8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121415</a>			RXN-18112			
+RXN-12910	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117800</a>	T		RXN-12910			
+RXN-12008	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117286</a>		PWY-6682	RXN-12008			
+RXN-9066	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122619</a>	T	PWY-5776	RXN-9066			
+RXN-10444	CARBON-DIOXIDE	EC-1.14.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116377</a>			RXN-10444			
+KETAMID-RXN	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108685</a>		LYSDEGII-PWY	KETAMID-RXN			
+RXN-13391	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118063</a>			RXN-13391			
+RXN-9174	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122676</a>		PWY-5826	RXN-9174			
+2-KETO-ADIPATE-DEHYDROG-RXN	CARBON-DIOXIDE	EC-1.2.1.105	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94818</a>		PWY66-425 // LYSINE-DEG1-PWY	2-KETO-ADIPATE-DEHYDROG-RXN			
+RXN-21282	CARBON-DIOXIDE	EC-1.13.11.M16			PWY-5283	RXN-21282			
+RXN-8167	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122165</a>			RXN-8167			
+2-OXOBUTYRATE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-1.2.7.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106860</a>		2OXOBUTYRATECAT-PWY // PWY-5104	2-OXOBUTYRATE-SYNTHASE-RXN			
+RXN-7790	CARBON-DIOXIDE	EC-1.2.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102133</a>		PWY66-428	RXN-7790			
+2-OXOGLUTARATE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-1.2.7.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106859</a>		P23-PWY // PWY-5392 // PWY-6969 // REDCITCYC // PWY-7254	2-OXOGLUTARATE-SYNTHASE-RXN			
+2OXOGLUTDECARB-RXN	CARBON-DIOXIDE	EC-1.2.4.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115229</a>		2OXOGLUTARATEDEH-RXN // PWY-5084	2OXOGLUTDECARB-RXN			
+RXN-22839	CARBON-DIOXIDE	EC-1.14.11.az				RXN-22839			
+2OXOGLUTARATEDEH-RXN	CARBON-DIOXIDE	EC-1.2.1.105	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95655</a>		TCA-1 // PWY66-398 // PWY-5690 // TCA	2OXOGLUTARATEDEH-RXN			
+OXOGLUTARATE-DEHYDROGENASE-NADP+-RXN	CARBON-DIOXIDE	EC-1.2.1.52	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106444</a>			OXOGLUTARATE-DEHYDROGENASE-NADP+-RXN			
+RXN-12538	CARBON-DIOXIDE	EC-1.13.12.19	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113188</a>		PWY-6853 // PWY-7126 // PWY-7124 // RXN-12535	RXN-12538			
+2-HYDROXY-3-OXOADIPATE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.2.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106547</a>			2-HYDROXY-3-OXOADIPATE-SYNTHASE-RXN			
+RXN-7774	CARBON-DIOXIDE	EC-4.1.1.71	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102243</a>		P105-PWY	RXN-7774			
+RXN-14123	CARBON-DIOXIDE	EC-1.14.11.39	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113787</a>			RXN-14123			
+R224-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR111879</a>		P241-PWY	R224-RXN			
+RXN-14985	CARBON-DIOXIDE	EC-4.1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119051</a>		PWY-7396	RXN-14985			
+RXN-12611	CARBON-DIOXIDE	EC-2.5.1.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114610</a>		PWY-6894	RXN-12611			
+RXN-19821	CARBON-DIOXIDE	EC-4.1.1.117			PWY-8008	RXN-19821			
+RXN-18198	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121490</a>	T	PWY-1186	RXN-18198			
+RXN18C3-236	CARBON-DIOXIDE	EC-1.14.11			PWY18C3-3 // PWY18C3-2	RXN18C3-236			
+RXN-20295	CARBON-DIOXIDE	EC-1.14.15			PWY-8036	RXN-20295			
+RXN-12535	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117616</a>			RXN-12535			
+RXN-20463	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20463			
+RXN-20487	CARBON-DIOXIDE				PWY-8049 // RXN-20497	RXN-20487			
+RXN-16717	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120319</a>		PWY-7672	RXN-16717			
+RXN-17845	CARBON-DIOXIDE	EC-2.3.1.253	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114274</a>			RXN-17845			
+RXN-15055	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119108</a>		PWY-7412	RXN-15055			
+RXN-7645	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111570</a>			RXN-7645			
+PINOSYLVIN-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.146	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107550</a>		PWY-5045	PINOSYLVIN-SYNTHASE-RXN			
+RXN-16180	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119919</a>		PWY-7612	RXN-16180			
+RXN-19213	CARBON-DIOXIDE				PWY-7951	RXN-19213			
+34-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.69	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107101</a>		PWY5F9-3233	34-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN			
+RXN-16842	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120428</a>			RXN-16842			
+RXN-11977	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143824</a>		PWY-6679	RXN-11977			
+RXN-13666	CARBON-DIOXIDE	EC-4.4.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118233</a>		PWY-7105	RXN-13666			
+1.3.1.25-RXN	CARBON-DIOXIDE	EC-1.3.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96366</a>		PWY-2503	1.3.1.25-RXN			
+RXN-13663	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118230</a>		PWY-5140 // RXN-7852 // PWY-7105	RXN-13663			
+RXN-15457	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119376</a>	T		RXN-15457			
+RXN-15456	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119375</a>		PWY-6633	RXN-15456			
+RXN-13058	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117885</a>		PWY-5316 // PWY-7342	RXN-13058			
+RXN-20885	CARBON-DIOXIDE	EC-4.1.1			PWY-8085	RXN-20885			
+RXN-13844	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143889</a>		PWY-7150	RXN-13844			
+RXN-13839	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118342</a>		PWY-7151	RXN-13839			
+RXN-11985	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117275</a>	T	PWY-6679	RXN-11985			
+RXN-9979	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR123092</a>		PWY-6133	RXN-9979			
+RXN-16495	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120133</a>		PWY-7649	RXN-16495			
+1.13.11.46-RXN	CARBON-DIOXIDE	EC-1.13.11.46	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109830</a>			1.13.11.46-RXN			
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.11.27	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94843</a>		PWY-1422	4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN			
+4.1.1.80-RXN	CARBON-DIOXIDE	EC-4.1.1.80	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108106</a>		PWY-3581 // PWY3O-4108	4.1.1.80-RXN			
+RXN-11210	CARBON-DIOXIDE	EC-3.5.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109033</a>		PWY-6430	RXN-11210			
+RXN-10831	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116535</a>		PWY-7769 // PWY-6322	RXN-10831			
+RXN-12573	CARBON-DIOXIDE	EC-4.2.1.155	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114245</a>			RXN-12573			
+RXN3O-73	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94901</a>		PWY-7230	RXN3O-73			
+RXN-10859	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116547</a>		PWY-6326	RXN-10859			
+RXN-15019	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR119078</a>		PWY-7403	RXN-15019			
+RXN-20327	CARBON-DIOXIDE	EC-2.3.1.M77			PWY-8040	RXN-20327			
+RXN-20290	CARBON-DIOXIDE	EC-2.3.1			PWY-8036	RXN-20290			
+RXN-22933	CARBON-DIOXIDE				PWY-8344	RXN-22933			
+RXN-9594	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122887</a>		PWY-5984	RXN-9594			
+RXN-20269	CARBON-DIOXIDE	EC-2.3.1			PWY-8035	RXN-20269			
+RXN-19113	CARBON-DIOXIDE				PWY-7934 // PWY-7935 // RXN-19114	RXN-19113			
+RXN-19062	CARBON-DIOXIDE				PWY-7929 // RXN-19063	RXN-19062			
+RXN-18201	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121493</a>	T	PWYQT-4450 // RXNQT-4178	RXN-18201			
+RXN-15423	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107711</a>		PWY-7480	RXN-15423			
+RXN-18209	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121501</a>	T	PWYQT-4450 // RXNQT-4165	RXN-18209			
+RXN-18207	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121499</a>	T	PWYQT-4450 // RXNQT-4168	RXN-18207			
+RXN-18205	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121497</a>	T	PWYQT-4450 // RXNQT-4171	RXN-18205			
+RXN-18203	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121495</a>	T	PWYQT-4450 // RXNQT-4174	RXN-18203			
+RXN-9873	CARBON-DIOXIDE	EC-1.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123044</a>		PWY-6088	RXN-9873			
+RXN-18575	CARBON-DIOXIDE	EC-4.1.1.114				RXN-18575			
+RXN-18589	CARBON-DIOXIDE	EC-4.1.1.104			PWY-7873 // PWY-7872 // RXN-18601	RXN-18589			
+RXN-18588	CARBON-DIOXIDE	EC-4.1.1.104			PWY-7874 // PWY-7871 // RXN-18600	RXN-18588			
+DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.34	<a href='https://www.metanetx.org/equa_info/~A'>MNXR138227</a>		PWY-5525	DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN			
+RXN0-705	CARBON-DIOXIDE	EC-4.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100935</a>		PWY0-301 // PWY-6961	RXN0-705			
+RXN-18554	CARBON-DIOXIDE	EC-4.1.1.114				RXN-18554			
+RXN-18211	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121503</a>	T	RXN-14986	RXN-18211			
+RXN-14986	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119052</a>		PWY-7396	RXN-14986			
+RXN-8921	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122549</a>		PWY-5701	RXN-8921			
+RXN-18577	CARBON-DIOXIDE	EC-4.1.1.114				RXN-18577			
+4.1.1.51-RXN	CARBON-DIOXIDE	EC-4.1.1.51	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108186</a>		PWY-5499	4.1.1.51-RXN			
+2.3.1.151-RXN	CARBON-DIOXIDE	EC-2.3.1.151	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109067</a>		PWY-5002	2.3.1.151-RXN			
+RXN-9285	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122746</a>		PWY-5872	RXN-9285			
+RXN-9288	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122749</a>		PWY-5873	RXN-9288			
+RXN-9284	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122745</a>		PWY-5871	RXN-9284			
+RXN-9283	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122744</a>		PWY-5870	RXN-9283			
+1.2.7.7-RXN	CARBON-DIOXIDE	EC-1.2.7.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110859</a>		PWY-8183	1.2.7.7-RXN			
+1.2.4.4-RXN	CARBON-DIOXIDE	EC-1.2.4.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114962</a>		1.2.1.25-RXN // PWY-5046	1.2.4.4-RXN			
+1.2.1.25-RXN	CARBON-DIOXIDE	EC-1.2.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102173</a>		PWY-8175 // VALDEG-PWY	1.2.1.25-RXN			
+RXN-7643	CARBON-DIOXIDE	EC-4.1.1.72	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94922</a>		PWY-7396 // PWY-5057 // PWY-7111	RXN-7643			
+RXN-7825	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122052</a>			RXN-7825			
+RXN-7826	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122053</a>			RXN-7826			
+2.3.1.156-RXN	CARBON-DIOXIDE	EC-2.3.1.156	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109489</a>		PWY-5808 // PWY-5132	2.3.1.156-RXN			
+RXN-21610	CARBON-DIOXIDE	EC-2.3.1.300			PWY-8174	RXN-21610			
+3-OXOLAURATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.56	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108394</a>		PWY-6585	3-OXOLAURATE-DECARBOXYLASE-RXN			
+RXN-16002	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR110575</a>	T	RXN-16008 // RXN-16003	RXN-16002			
+RXN-11669	CARBON-DIOXIDE	EC-4.1.1.56	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117083</a>		PWY-6585	RXN-11669			
+RXN-15283	CARBON-DIOXIDE	EC-4.1.1.56	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119261</a>		PWY-6585	RXN-15283			
+RXN-20937	CARBON-DIOXIDE	EC-4.1.1.120			PWY-8091	RXN-20937			
+RXN-20935	CARBON-DIOXIDE	EC-4.1.1.121			PWY-8090	RXN-20935			
+RXN-9958	CARBON-DIOXIDE	EC-1.2.1.18	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123086</a>		PWY-6373	RXN-9958			
+RXN-2902	CARBON-DIOXIDE	EC-1.2.1.18	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101665</a>		PWY-7574	RXN-2902			
+1.2.1.18-RXN	CARBON-DIOXIDE	EC-1.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106650</a>			1.2.1.18-RXN			
+RXN-16013	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR110693</a>		PWY-6048 // RXN-12573	RXN-16013			
+RXN-10815	CARBON-DIOXIDE	EC-1.13.11.27	<a href='https://www.metanetx.org/equa_info/~A'>MNXR126511</a>		PWY-6318	RXN-10815			
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.43	<a href='https://www.metanetx.org/equa_info/~A'>MNXR125761</a>		PWY-5079	PHENYLPYRUVATE-DECARBOXYLASE-RXN			
+RXN-7611	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121972</a>		PWY-5045	RXN-7611			
+RXN-15076	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119123</a>		PWY-7419	RXN-15076			
+4.1.1.82-RXN	CARBON-DIOXIDE	EC-4.1.1.82	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108622</a>		PWY-6839 // PWY-6682 // PWY-5757 // PWY-8067 // PWY-7769 // PWY-6322 // PWY-7510	4.1.1.82-RXN			
+SULFINOALANINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.29	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107527</a>		PWY-5331	SULFINOALANINE-DECARBOXYLASE-RXN			
+R231-RXN	CARBON-DIOXIDE	EC-4.1.1.79	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104480</a>		PWY-6643 // PWY-6637	R231-RXN			
+BETA-UREIDOPROPIONASE-RXN	CARBON-DIOXIDE	EC-3.5.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96347</a>		PWY-3982	BETA-UREIDOPROPIONASE-RXN			
+RXNQT-4165	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112145</a>			RXNQT-4165			
+RXN-18563	CARBON-DIOXIDE	EC-4.1.1.114			PWY-7027	RXN-18563			
+RXNQT-4168	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112149</a>			RXNQT-4168			
+RXNQT-4171	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112156</a>			RXNQT-4171			
+RXNQT-4174	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112161</a>			RXNQT-4174			
+RXNQT-4178	CARBON-DIOXIDE	EC-1.1.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112165</a>			RXNQT-4178			
+RXN-21281	CARBON-DIOXIDE	EC-1.14.11.75				RXN-21281			
+RXN-20302	CARBON-DIOXIDE	EC-1.14.15			PWY-5984	RXN-20302			
+RXN-20299	CARBON-DIOXIDE	EC-1.14.15			PWY-8037	RXN-20299			
+RXN-20957	CARBON-DIOXIDE			T	PWY-6032	RXN-20957			
+RXN-20100	CARBON-DIOXIDE	EC-1.1.1.417				RXN-20100			
+1.1.1.170-RXN	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114883</a>			1.1.1.170-RXN			
+RXN-20095	CARBON-DIOXIDE				1.1.1.170-RXN	RXN-20095			
+RXN-20468	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20468			
+RXN-16276	CARBON-DIOXIDE	EC-2.3.1.246	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110403</a>			RXN-16276			
+RXN-16698	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120302</a>		PWY-7670	RXN-16698			
+RXN-16738	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120340</a>		PWY-7673	RXN-16738			
+RXN-16980	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120553</a>		PWY-7705	RXN-16980			
+RXN-16981	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120554</a>		PWY-7705	RXN-16981			
+RXN-22087	CARBON-DIOXIDE	EC-2.3.1			PWY-8210	RXN-22087			
+45-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.55	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107102</a>			45-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN			
+RXN-22762	CARBON-DIOXIDE			T	RXN-22718	RXN-22762			
+RXN-22719	CARBON-DIOXIDE					RXN-22719			
+RXN-22718	CARBON-DIOXIDE	EC-1.14.13			PWY-5317 // PWY-5318	RXN-22718			
+RXN-22716	CARBON-DIOXIDE				PWY-5317	RXN-22716			
+RXN-7704	CARBON-DIOXIDE	EC-4.1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122006</a>		PWY-5082	RXN-7704			
+RXN-12539	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117618</a>	T	PWY-6854	RXN-12539			
+RXN-16873	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140638</a>		PWY-7690	RXN-16873			
+RXN-20193	CARBON-DIOXIDE	EC-1.3.1.121			PWY-8032	RXN-20193			
+RXN-22578	CARBON-DIOXIDE	EC-2.4.2.54				RXN-22578			
+AMINOBENZOATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.24	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107207</a>			AMINOBENZOATE-DECARBOXYLASE-RXN			
+4-AMINOBENZOATE-1-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.13.27	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115591</a>			4-AMINOBENZOATE-1-MONOOXYGENASE-RXN			
+RXN-15954	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119737</a>		PWY-6722	RXN-15954			
+RXN-9864	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123038</a>		PWY-6086	RXN-9864			
+RXN-11720	CARBON-DIOXIDE	EC-1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117118</a>		PWY-6627	RXN-11720			
+RXN-9912	CARBON-DIOXIDE	EC-1.14.13.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123074</a>		PWY-6107	RXN-9912			
+RXN-802	CARBON-DIOXIDE	EC-4.1.1.102	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107848</a>			RXN-802			
+RXN-21157	CARBON-DIOXIDE				PWY-6432 // RXN-11223	RXN-21157			
+RXN-21158	CARBON-DIOXIDE				PWY-6432 // RXN-11224	RXN-21158			
+RXN-16372	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120036</a>		PWY-7632	RXN-16372			
+RXN-16367	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR143967</a>		PWY-7632	RXN-16367			
+RXN-16368	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120035</a>		PWY-7632	RXN-16368			
+RXN-9231	CARBON-DIOXIDE	EC-4.1.1.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122723</a>		PWY-5857	RXN-9231			
+RXN-9223	CARBON-DIOXIDE	EC-4.1.1.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122715</a>		PWY-5855	RXN-9223			
+RXN-9238	CARBON-DIOXIDE	EC-4.1.1.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122730</a>		PWY-6978 // PWY-5856	RXN-9238			
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102201</a>		PWY-6708	3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN			
+RXN-14670	CARBON-DIOXIDE	EC-1.13.12.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110511</a>		PWY-7303	RXN-14670			
+RXN-16959	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120536</a>		PWY-7702	RXN-16959			
+RXN-19124	CARBON-DIOXIDE	EC-4.1.1.105			PWY-7936	RXN-19124			
+RXN-19063	CARBON-DIOXIDE	EC-1.14.19.55				RXN-19063			
+RXN-8124	CARBON-DIOXIDE	EC-2.4.2.54	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114402</a>		PWY-6148	RXN-8124			
+4-HYDROXYBENZOATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.61	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106877</a>			4-HYDROXYBENZOATE-DECARBOXYLASE-RXN			
+1.14.13.64-RXN	CARBON-DIOXIDE	EC-1.14.13.64	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114928</a>			1.14.13.64-RXN			
+RXN-17211	CARBON-DIOXIDE	EC-2.3.1.261	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120751</a>		PWY-7742	RXN-17211			
+RXN-17236	CARBON-DIOXIDE	EC-2.3.1.261	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120767</a>		PWY-7742	RXN-17236			
+RXN-16974	CARBON-DIOXIDE	EC-1.14.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114496</a>		PWY-7703	RXN-16974			
+HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107657</a>		4-HYDROXYMANDELATE-DEGRADATION-PWY	HYDROXYBENZOYLFORMATE-DECARBOXYLASE-RXN			
+RXN-19534	CARBON-DIOXIDE	EC-1.2.7.7			PWY-8185	RXN-19534			
+KETOISOCAPROATE-RXN	CARBON-DIOXIDE	EC-1.2.4.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115997</a>		2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	KETOISOCAPROATE-RXN			
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	CARBON-DIOXIDE	EC-1.2.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102172</a>		PWY-8174 // LEU-DEG2-PWY	2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN			
+RXN-13640	CARBON-DIOXIDE	EC-1.13.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103504</a>			RXN-13640			
+RXN-7692	CARBON-DIOXIDE	EC-4.1.1.72	<a href='https://www.metanetx.org/equa_info/~A'>MNXR137950</a>		PWY-6871 // PWY-5076	RXN-7692			
+RXN-10078	CARBON-DIOXIDE	EC-1.14.13.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110664</a>		PWY-6184	RXN-10078			
+RXN-20242	CARBON-DIOXIDE	EC-2.3.1.290				RXN-20242			
+RXN-20241	CARBON-DIOXIDE	EC-2.3.1.289				RXN-20241			
+RXN-18576	CARBON-DIOXIDE	EC-4.1.1.114				RXN-18576			
+RXN-18601	CARBON-DIOXIDE	EC-1.1.1.409				RXN-18601			
+RXN-18600	CARBON-DIOXIDE	EC-1.1.1.408				RXN-18600			
+RXN-13179	CARBON-DIOXIDE	EC-1.1.1.262	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109874</a>		PYRIDOXSYN-PWY	RXN-13179			
+RXN-11389	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116897</a>		PWY-6493	RXN-11389			
+RXN-19088	CARBON-DIOXIDE			T	PWY-7937	RXN-19088			
+RXN-11928	CARBON-DIOXIDE	EC-1.1.1.418	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117230</a>		PWY-2541	RXN-11928			
+RXN66-313	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123713</a>		PWY66-341 // PWY-6074	RXN66-313			
+RXN-20373	CARBON-DIOXIDE	EC-1.1.1.418				RXN-20373			
+RXN66-18	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123692</a>		PWY66-3	RXN66-18			
+RXN-20441	CARBON-DIOXIDE	EC-1.1.1.418			PWY18C3-1	RXN-20441			
+RXN-11959	CARBON-DIOXIDE	EC-1.1.1.418	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117259</a>		PWY-8191	RXN-11959			
+RXN66-318	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123718</a>		PWY-8239 // PWY66-341 // PWY-6074	RXN66-318			
+RXN66-23	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123703</a>		PWY66-3	RXN66-23			
+RXN-11933	CARBON-DIOXIDE	EC-1.1.1.418	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117235</a>		PWY-2541	RXN-11933			
+RXN-20412	CARBON-DIOXIDE	EC-4.1.1			PWY-7154	RXN-20412			
+RXN-20116	CARBON-DIOXIDE	EC-1.1.1.417			PWY-8026	RXN-20116			
+RXN-20125	CARBON-DIOXIDE	EC-1.1.1.417			PWY-8026	RXN-20125			
+RXN-20411	CARBON-DIOXIDE	EC-4.4.1			PWY-7154	RXN-20411			
+RXN-9931	CARBON-DIOXIDE	EC-2.3.1.233	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114272</a>		PWY-7513	RXN-9931			
+RXN-11	CARBON-DIOXIDE	EC-2.3.1.216	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139774</a>		PWY-12	RXN-11			
+RXN-22057	CARBON-DIOXIDE	EC-4.1.1			PWY-6309	RXN-22057			
+AIRCARBOXY-RXN	CARBON-DIOXIDE	EC-4.1.1.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108735</a>		PWY-6124	AIRCARBOXY-RXN			
+R62-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR109088</a>		P164-PWY // PWY-5497	R62-RXN			
+RXN-10897	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112713</a>		PWY-6340	RXN-10897			
+RXN-9874	CARBON-DIOXIDE	EC-1.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123045</a>		PWY-6088	RXN-9874			
+RXN-11718	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117116</a>		PWY-6627	RXN-11718			
+RXN-9914	CARBON-DIOXIDE	EC-1.14.13.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123076</a>		PWY-6107	RXN-9914			
+4.2.1.41-RXN	CARBON-DIOXIDE	EC-4.2.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107425</a>		PWY-6497 // PWY-6486 // PWY-6499 // PWY-6501	4.2.1.41-RXN			
+4.1.1.75-RXN	CARBON-DIOXIDE	EC-4.1.1.75	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102132</a>		PWY-7523	4.1.1.75-RXN			
+RXN3DJ-170	CARBON-DIOXIDE	EC-4.1.1.28	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139134</a>		PWY-6030	RXN3DJ-170			
+RXN-16489	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120127</a>		PWY-7648	RXN-16489			
+RXN-20893	CARBON-DIOXIDE	EC-4.1.1				RXN-20893			
+RXN-11898	CARBON-DIOXIDE	EC-1.14.13.218	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117215</a>		PWY-6666	RXN-11898			
+RXN-10079	CARBON-DIOXIDE	EC-1.14.13.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116308</a>		PWY-6184	RXN-10079			
+R128-RXN	CARBON-DIOXIDE	EC-3.5.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109170</a>		P164-PWY // PWY-5497	R128-RXN			
+RXN-1744	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120914</a>		PWY-804	RXN-1744			
+RXN-10725	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116489</a>		PWY-6310	RXN-10725			
+RXN-18628	CARBON-DIOXIDE	EC-2.3.1.281			PWY-7880	RXN-18628			
+RXN-8243	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122198</a>	T	PWY-5311	RXN-8243			
+RXN-22598	CARBON-DIOXIDE	EC-4.1.1.M24			PWY-6262	RXN-22598			
+RXN-14909	CARBON-DIOXIDE	EC-4.1.1.M24	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119015</a>		PWY-7372	RXN-14909			
+RXN-16902	CARBON-DIOXIDE	EC-1.14.11.M1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120486</a>		PWY-7693	RXN-16902			
+RXN-7573	CARBON-DIOXIDE	EC-1.14.13.114	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95097</a>		PWY-722	RXN-7573			
+6-METHYLSALICYLATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.52	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108258</a>		PWY-7490	6-METHYLSALICYLATE-DECARBOXYLASE-RXN			
+RXN-10733	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116494</a>		PWY-6310	RXN-10733			
+RXN-20287	CARBON-DIOXIDE	EC-2.3.1			PWY-8036	RXN-20287			
+RXN-9602	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122891</a>		PWY-5984	RXN-9602			
+RXN-20272	CARBON-DIOXIDE				PWY-8035	RXN-20272			
+RXN-11795	CARBON-DIOXIDE	EC-1.14.19	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117157</a>		PWY-6831	RXN-11795			
+RXN-20454	CARBON-DIOXIDE	EC-1.14.11.70			PWY-8045	RXN-20454			
+RXN-20448	CARBON-DIOXIDE	EC-1.14.11.70			PWY-8045	RXN-20448			
+RXN-16407	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120061</a>		PWY-6733	RXN-16407			
+RXN-14538	CARBON-DIOXIDE	EC-1.14.11.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118755</a>			RXN-14538			
+RXN-21545	CARBON-DIOXIDE					RXN-21545			
+RXN-10734	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116495</a>		PWY-6312	RXN-10734			
+RXN-10735	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116496</a>		PWY-6312	RXN-10735			
+RXN1A0-6297	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123430</a>		PWY1A0-6325	RXN1A0-6297			
+RXN-18507	CARBON-DIOXIDE				PWY-7863 // RXN-18512	RXN-18507			
+RXN-14656	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118834</a>		PWY-7298	RXN-14656			
+RXN-16867	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120453</a>		PWY-7689	RXN-16867			
+RXN-9502	CARBON-DIOXIDE	EC-1.14.14.117	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113676</a>		PWY-5960	RXN-9502			
+RXN-9497	CARBON-DIOXIDE	EC-1.14.14.117	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113675</a>		PWY-5959	RXN-9497			
+RXN-13625	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118208</a>		PWY-7100	RXN-13625			
+RXN-16882	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120468</a>		PWY-7692	RXN-16882			
+RXN-21629	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8173	RXN-21629			
+RXN-21634	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8173	RXN-21634			
+RXN-4122	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121692</a>	T	PWY-2501	RXN-4122			
+RXN-21180	CARBON-DIOXIDE	EC-1.14.18.12				RXN-21180			
+RXN-17679	CARBON-DIOXIDE	EC-1.14.20.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121091</a>			RXN-17679			
+RXN-18348	CARBON-DIOXIDE	EC-1.14.20.4			RXN-18385 // PWY-641 // PWY-5125	RXN-18348			
+RXN-18385	CARBON-DIOXIDE	EC-1.14.20.4				RXN-18385			
+1.14.11.9-RXN	CARBON-DIOXIDE	EC-1.14.11.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114917</a>			1.14.11.9-RXN			
+RXN-19852	CARBON-DIOXIDE	EC-4.1.1.M16			PWY-8012	RXN-19852			
+RXN-22675	CARBON-DIOXIDE	EC-1.14.11.ay				RXN-22675			
+RXN-22673	CARBON-DIOXIDE				RXN-22675	RXN-22673			
+RXN-22674	CARBON-DIOXIDE				RXN-22675	RXN-22674			
+RXN-20489	CARBON-DIOXIDE	EC-1.14.13			PWY-8049	RXN-20489			
+RXN-19849	CARBON-DIOXIDE	EC-2.3.1.M61			PWY-8012	RXN-19849			
+RXN0-2141	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123134</a>		PWY-7858	RXN0-2141			
+RXN1G-26	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123515</a>		PWYG-321	RXN1G-26			
+RXN-16615	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120236</a>		PWY-7664	RXN-16615			
+RXN-21617	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8173	RXN-21617			
+RXN-8391	CARBON-DIOXIDE	EC-2.3.1.179	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122301</a>		PWY-5367	RXN-8391			
+RXN-10654	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116436</a>		PWY-6282	RXN-10654			
+RXN1G-306	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123535</a>		PWYG-321	RXN1G-306			
+RXN-16621	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120241</a>		PWY-7664	RXN-16621			
+RXN-21621	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8173	RXN-21621			
+RXN1G-218	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123507</a>		PWYG-321	RXN1G-218			
+RXN-16625	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120245</a>		PWY-7664	RXN-16625			
+RXN-10658	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116440</a>		PWY-6282	RXN-10658			
+RXN-21701	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8175	RXN-21701			
+RXN-21669	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8174	RXN-21669			
+RXN-17215	CARBON-DIOXIDE	EC-2.3.1.292	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120753</a>		PWY-7742	RXN-17215			
+RXN-17246	CARBON-DIOXIDE	EC-2.3.1.292	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120775</a>		PWY-7742	RXN-17246			
+RXN-15782	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119614</a>		PWY-7547	RXN-15782			
+4.1.1.64-RXN	CARBON-DIOXIDE	EC-4.1.1.64	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108479</a>			4.1.1.64-RXN			
+3-OXOACYL-ACP-SYNTH-RXN	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115237</a>		FASYN-ELONG-PWY	3-OXOACYL-ACP-SYNTH-RXN			
+RXN-21236	CARBON-DIOXIDE	EC-1.14.11				RXN-21236			
+RXN-14474	CARBON-DIOXIDE	EC-1.2.7.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113849</a>			RXN-14474			
+PYRUVATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106617</a>			PYRUVATE-DECARBOXYLASE-RXN			
+RXN-20497	CARBON-DIOXIDE	EC-2.3.1.M81				RXN-20497			
+RXN-20308	CARBON-DIOXIDE	EC-2.3.1			PWY-8038	RXN-20308			
+RXN-19853	CARBON-DIOXIDE	EC-2.3.1.M63			PWY-8012	RXN-19853			
+RXN66-470	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123741</a>		PWY66-387	RXN66-470			
+RXN-15784	CARBON-DIOXIDE	EC-4.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119616</a>		PWY-7547	RXN-15784			
+RXN1A0-6114	CARBON-DIOXIDE	EC-2.3.1			PWY1A0-6120	RXN1A0-6114			
+RXN-13248	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117971</a>	T	PWY-7007	RXN-13248			
+RXN1A0-6097	CARBON-DIOXIDE				PWY1A0-6120	RXN1A0-6097			
+RXN-20102	CARBON-DIOXIDE	EC-1.1.1.170				RXN-20102			
+RXN-13926	CARBON-DIOXIDE	EC-1.1.1.170	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118416</a>			RXN-13926			
+RXN-20374	CARBON-DIOXIDE	EC-1.1.1.418				RXN-20374			
+RXN-20109	CARBON-DIOXIDE	EC-1.1.1.417				RXN-20109			
+RXN-19083	CARBON-DIOXIDE	EC-2.3.1			PWY-7930	RXN-19083			
+RXN-15309	CARBON-DIOXIDE	EC-4.1.1.98	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119270</a>			RXN-15309			
+RXN-21680	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8175	RXN-21680			
+RXN-21649	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8174	RXN-21649			
+RXN-22601	CARBON-DIOXIDE	EC-4.1.1.M24				RXN-22601			
+RXN-21685	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8175	RXN-21685			
+RXN-20305	CARBON-DIOXIDE	EC-2.3.1			PWY-8038	RXN-20305			
+RXN-21654	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8174	RXN-21654			
+RXN-21659	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8174	RXN-21659			
+RXN-17222	CARBON-DIOXIDE	EC-2.3.1.292	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120756</a>		PWY-7741	RXN-17222			
+RXN66-618	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-618			
+RXN-9516	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109245</a>		PWY-7388 // PWY-5971 // PWY-8279 // PWY1A0-6120	RXN-9516			
+RXN-9648	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122922</a>		PWY66-430	RXN-9648			
+RXN-21239	CARBON-DIOXIDE	EC-1.3.98.7			PWY-8122	RXN-21239			
+RXN-17269	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120797</a>			RXN-17269			
+RXN1G-32	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123538</a>		PWYG-321	RXN1G-32			
+RXN1G-1015	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123456</a>		PWYG-321	RXN1G-1015			
+RXN1G-424	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123570</a>		PWYG-321	RXN1G-424			
+RXN1G-1212	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123468</a>		PWYG-321	RXN1G-1212			
+RXN1G-660	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123605</a>		PWYG-321	RXN1G-660			
+RXN1G-94	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123629</a>		PWYG-321	RXN1G-94			
+RXN1G-883	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123624</a>		PWYG-321	RXN1G-883			
+RXN1G-374	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123557</a>		PWYG-321	RXN1G-374			
+RXN1G-582	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123597</a>		PWYG-321	RXN1G-582			
+RXN1G-202	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123503</a>		PWYG-321	RXN1G-202			
+RXN1G-79	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123612</a>		PWYG-321	RXN1G-79			
+RXN1G-89	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123626</a>		PWYG-321	RXN1G-89			
+RXN1G-334	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123543</a>		PWYG-321	RXN1G-334			
+RXN1G-172	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123495</a>		PWYG-321	RXN1G-172			
+RXN1G-557	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123594</a>		PWYG-321	RXN1G-557			
+RXN1G-580	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123596</a>		PWYG-321	RXN1G-580			
+RXN1G-818	CARBON-DIOXIDE	EC-2.3.1.294	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123618</a>		PWYG-321	RXN1G-818			
+RXN-18558	CARBON-DIOXIDE	EC-4.1.1.114			PWY-7869	RXN-18558			
+RXN1G-236	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123509</a>		PWYG-321	RXN1G-236			
+RXN1G-324	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123541</a>		PWYG-321	RXN1G-324			
+RXN1G-840	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123620</a>		PWYG-321	RXN1G-840			
+RXN1G-1003	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123454</a>		PWYG-321	RXN1G-1003			
+RXN1G-132	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123473</a>		PWYG-321	RXN1G-132			
+RXN1G-138	CARBON-DIOXIDE	EC-2.3.1.293	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123476</a>		PWYG-321	RXN1G-138			
+RXN1G-296	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123531</a>		PWYG-321	RXN1G-296			
+RXN1G-98	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123632</a>		PWYG-321	RXN1G-98			
+RENILLA-LUCIFERIN-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116246</a>			RENILLA-LUCIFERIN-2-MONOOXYGENASE-RXN			
+RXN-18866	CARBON-DIOXIDE				RENILLA-LUCIFERIN-2-MONOOXYGENASE-RXN // PWY-7914	RXN-18866			
+RXN66-630	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-630			
+RXN-9531	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109254</a>		PWY-8279 // PWY1A0-6120	RXN-9531			
+RXN-9652	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122925</a>		PWY66-430	RXN-9652			
+RXN1G-499	CARBON-DIOXIDE	EC-2.3.1.86	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123586</a>		PWYG-321	RXN1G-499			
+RXN66-635	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-635			
+RXN-9535	CARBON-DIOXIDE	EC-2.3.1.41 // EC-2.3.1.179	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109082</a>		PWY-8279	RXN-9535			
+RXN-9653	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122926</a>		PWY66-430	RXN-9653			
+RXN1A0-6094	CARBON-DIOXIDE				PWY1A0-6120	RXN1A0-6094			
+RXN-16919	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143975</a>		PWY-7694	RXN-16919			
+FORMATE-DEHYDROGENASE-CYTOCHROME-RXN	CARBON-DIOXIDE	EC-1.2.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115884</a>			FORMATE-DEHYDROGENASE-CYTOCHROME-RXN			
+RXN-8000	CARBON-DIOXIDE	EC-1.14.20.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111026</a>			RXN-8000			
+RXN-11479	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113492</a>		PWY-6519	RXN-11479			
+RXN-13259	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117980</a>			RXN-13259			
+RXN66-622	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-622			
+RXN-9479	CARBON-DIOXIDE	EC-2.3.1.221	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113597</a>		PWY-5954	RXN-9479			
+RXN-9523	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109248</a>		PWY-7388 // PWY-5971 // PWY-8279 // PWY1A0-6120	RXN-9523			
+RXN-9650	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122923</a>		PWY66-430	RXN-9650			
+RXN-21114	CARBON-DIOXIDE				PWY-8117	RXN-21114			
+RXN-20206	CARBON-DIOXIDE				RXN-20241 // PWY-8033	RXN-20206			
+RXN-20234	CARBON-DIOXIDE				RXN-20242 // PWY-8034	RXN-20234			
+RXN-12183	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117400</a>			RXN-12183			
+RXN-10059	CARBON-DIOXIDE	EC-2.3.1.86	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116299</a>		PWY-6113	RXN-10059			
+RXN-17272	CARBON-DIOXIDE	EC-2.3.1.292	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120801</a>			RXN-17272			
+RXN-19209	CARBON-DIOXIDE	EC-4.1.1.106				RXN-19209			
+RXN-13243	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117966</a>		PWY-7026	RXN-13243			
+RXN-17254	CARBON-DIOXIDE	EC-2.3.1.252	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120782</a>		PWY-7738	RXN-17254			
+RXN-1026	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116352</a>			RXN-1026			
+2.3.1.41-RXN	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107714</a>			2.3.1.41-RXN			
+RXN-18051	CARBON-DIOXIDE	EC-2.3.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121366</a>			RXN-18051			
+MYCOCEROSATE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116070</a>			MYCOCEROSATE-SYNTHASE-RXN			
+RXN-18052	CARBON-DIOXIDE	EC-2.3.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121367</a>		PWY-7743	RXN-18052			
+RXN1G-368	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123555</a>		PWYG-321	RXN1G-368			
+RXN1G-445	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123574</a>		PWYG-321	RXN1G-445			
+MALONYL-ACPDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.M15	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101327</a>		PWY-8012	MALONYL-ACPDECARBOX-RXN			
+RXN-11474	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113490</a>		PWY-6519	RXN-11474			
+RXN-20474	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20474			
+RXN-20473	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20473			
+RXN-20476	CARBON-DIOXIDE	EC-2.3.1			PWY-8047	RXN-20476			
+RXN-20480	CARBON-DIOXIDE	EC-4.1.1.M15			PWY-8047	RXN-20480			
+RXN-9730	CARBON-DIOXIDE	EC-4.1.1.87	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122956</a>		PWY-5794	RXN-9730			
+RXN-20488	CARBON-DIOXIDE				PWY-8049 // RXN-20497	RXN-20488			
+RXN-20499	CARBON-DIOXIDE	EC-4.1.1.M15			PWY-8049	RXN-20499			
+RXN-17308	CARBON-DIOXIDE	EC-2.3.1.295	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120823</a>		PWY-7740	RXN-17308			
+RXN-20947	CARBON-DIOXIDE	EC-2.3.1.41				RXN-20947			
+RXN-12353	CARBON-DIOXIDE	EC-1.14.11.33	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117495</a>			RXN-12353			
+RXN66-639	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-639			
+RXN-9539	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109257</a>		PWY-8279	RXN-9539			
+RXN-9654	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122927</a>			RXN-9654			
+2.3.1.179-RXN	CARBON-DIOXIDE	EC-2.3.1.179	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115071</a>		PWY-5973	2.3.1.179-RXN			
+RXN-17323	CARBON-DIOXIDE	EC-2.3.1.287	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120837</a>		PWY-7746	RXN-17323			
+RXN-17202	CARBON-DIOXIDE	EC-2.3.1.287	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120742</a>			RXN-17202			
+RXN-17324	CARBON-DIOXIDE	EC-2.3.1.287	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120838</a>			RXN-17324			
+RXN-17321	CARBON-DIOXIDE	EC-2.3.1.287	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120836</a>			RXN-17321			
+RXN3O-1803	CARBON-DIOXIDE	EC-2.3.1.86	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111351</a>		PWYG-321 // PWY3O-355	RXN3O-1803			
+RXN-9632	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122910</a>		PWY-8280	RXN-9632			
+RXN-13258	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117979</a>			RXN-13258			
+RXN-17270	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120799</a>			RXN-17270			
+PHOSPHASERDECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.65	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116127</a>		PWY-5669	PHOSPHASERDECARB-RXN			
+RXN-11484	CARBON-DIOXIDE	EC-2.3.1.47	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95855</a>		PWY-8203	RXN-11484			
+RXN-17674	CARBON-DIOXIDE	EC-1.14.11.77	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121087</a>			RXN-17674			
+RXN-16843	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120429</a>			RXN-16843			
+RXN-21719	CARBON-DIOXIDE	EC-2.3.1.86			PWYG-321	RXN-21719			
+RXN-13261	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117982</a>			RXN-13261			
+RXN1G-297	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123532</a>		PWYG-321	RXN1G-297			
+RXN1G-295	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123530</a>		PWYG-321	RXN1G-295			
+RXN0-7090	CARBON-DIOXIDE	EC-1.14.11.47	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123382</a>			RXN0-7090			
+RXN-15241	CARBON-DIOXIDE	EC-1.3.99.36	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119234</a>			RXN-15241			
+RXN-20640	CARBON-DIOXIDE	EC-1.14.11.68				RXN-20640			
+RXN-20624	CARBON-DIOXIDE				RXN-20640	RXN-20624			
+RXN-20643	CARBON-DIOXIDE	EC-1.14.11.69				RXN-20643			
+RXN-20625	CARBON-DIOXIDE				RXN-20643	RXN-20625			
+RXN-20622	CARBON-DIOXIDE				RXN-20594	RXN-20622			
+RXN-20594	CARBON-DIOXIDE	EC-1.14.11.67				RXN-20594			
+RXN-20626	CARBON-DIOXIDE					RXN-20626			
+RXN-20642	CARBON-DIOXIDE	EC-1.14.11.66				RXN-20642			
+RXN-20623	CARBON-DIOXIDE				RXN-20642	RXN-20623			
+RXN-20630	CARBON-DIOXIDE				RXN-20640	RXN-20630			
+RXN-13186	CARBON-DIOXIDE	EC-1.14.11.27	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117940</a>			RXN-13186			
+RXN-20631	CARBON-DIOXIDE				RXN-20643 // RXN-13186	RXN-20631			
+RXN-20632	CARBON-DIOXIDE					RXN-20632			
+RXN-20641	CARBON-DIOXIDE	EC-1.14.11.65				RXN-20641			
+RXN-20629	CARBON-DIOXIDE				RXN-20641 // RXN-20642	RXN-20629			
+RXN-20636	CARBON-DIOXIDE					RXN-20636			
+RXN-20637	CARBON-DIOXIDE				RXN-13186	RXN-20637			
+RXN-20638	CARBON-DIOXIDE	EC-1.14.11				RXN-20638			
+RXN-20635	CARBON-DIOXIDE				RXN-20641	RXN-20635			
+RXN-20628	CARBON-DIOXIDE				RXN-20594	RXN-20628			
+RXN-20634	CARBON-DIOXIDE				RXN-20594	RXN-20634			
+RXN-20627	CARBON-DIOXIDE					RXN-20627			
+RXN-20633	CARBON-DIOXIDE					RXN-20633			
+RXN-20639	CARBON-DIOXIDE					RXN-20639			
+RXN-11321	CARBON-DIOXIDE	EC-1.14.11.30	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116853</a>			RXN-11321			
+RXN-11320	CARBON-DIOXIDE	EC-1.14.11.29	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116852</a>			RXN-11320			
+RXN-17702	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121099</a>		PWY-6660 // PWY-6661 // RXN-17710	RXN-17702			
+PROCOLLAGEN-LYSINE-5-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116151</a>		PWY-7894	PROCOLLAGEN-LYSINE-5-DIOXYGENASE-RXN			
+1.14.11.2-RXN	CARBON-DIOXIDE	EC-1.14.11.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114916</a>		PWY-7894	1.14.11.2-RXN			
+PROCOLLAGEN-PROLINE-3-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116152</a>		PWY-7894	PROCOLLAGEN-PROLINE-3-DIOXYGENASE-RXN			
+RXN-10683	CARBON-DIOXIDE	EC-4.1.1.90	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116461</a>		PWY-7999	RXN-10683			
+RXN-8660	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122415</a>			RXN-8660			
+RXN-8661	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122416</a>			RXN-8661			
+RXN-20590	CARBON-DIOXIDE	EC-1.14.11.73				RXN-20590			
+PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.16	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116111</a>			PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN			
+RXN-20177	CARBON-DIOXIDE	EC-1.14.11.63				RXN-20177			
+RXN-20595	CARBON-DIOXIDE	EC-1.14.11.M17				RXN-20595			
+RXN-20591	CARBON-DIOXIDE				RXN-20595	RXN-20591			
+RXN-20597	CARBON-DIOXIDE	EC-1.14.11.M18				RXN-20597			
+RXN-20593	CARBON-DIOXIDE				RXN-20597	RXN-20593			
+RXN-20592	CARBON-DIOXIDE				RXN-20597 // RXN-20595	RXN-20592			
+RXN1A0-6112	CARBON-DIOXIDE				PWY1A0-6120	RXN1A0-6112			
+1.8.1.5-RXN	CARBON-DIOXIDE	EC-1.8.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109777</a>		PWY-5534	1.8.1.5-RXN			
+ACETOACETATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95442</a>		PWY-5451 // PWY-7466 // PWY-6876 // PWY66-367 // PWY-6588	ACETOACETATE-DECARBOXYLASE-RXN			
+RXN-16017	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119774</a>		PWY-7585	RXN-16017			
+RXN-16253	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119975</a>		PWY-7624	RXN-16253			
+RXN-20493	CARBON-DIOXIDE				PWY-8049	RXN-20493			
+RXN-22566	CARBON-DIOXIDE	EC-2.3.3.M4			PWY-8305	RXN-22566			
+CDHMSARC-RXN	CARBON-DIOXIDE	EC-2.3.3.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115749</a>			CDHMSARC-RXN			
+RXN-7404	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110312</a>		PWY-4922	RXN-7404			
+RXN-18833	CARBON-DIOXIDE	EC-2.3.1				RXN-18833			
+RXN-18834	CARBON-DIOXIDE	EC-2.3.1				RXN-18834			
+RXN-18836	CARBON-DIOXIDE	EC-2.3.1.M46			PWY-8084	RXN-18836			
+2.3.1.165-RXN	CARBON-DIOXIDE	EC-2.3.1.165	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110937</a>		PWY-7490	2.3.1.165-RXN			
+RXN-18828	CARBON-DIOXIDE				PWY-8326 // RXN-22747 // RXN-18833 // RXN-22748 // PWY-7911 // RXN-18834	RXN-18828			
+RXN-22745	CARBON-DIOXIDE	EC-2.3.1				RXN-22745			
+RXN-22756	CARBON-DIOXIDE				RXN-22755	RXN-22756			
+RXN-21096	CARBON-DIOXIDE	EC-2.3.1.M91			PWY-8116	RXN-21096			
+RXN-7405	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121939</a>		PWY-4922	RXN-7405			
+RXN-15689	CARBON-DIOXIDE	EC-2.3.1.237	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114425</a>			RXN-15689			
+RXN-10794	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116522</a>			RXN-10794			
+RXN-15688	CARBON-DIOXIDE	EC-2.3.1.236	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114424</a>			RXN-15688			
+RXN-10796	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116524</a>		PWY-6314	RXN-10796			
+RXN-12914	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117803</a>		PWY-6971	RXN-12914			
+RXN-7342	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121936</a>		PWY-4801	RXN-7342			
+RXN-16531	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120164</a>		PWY-7653	RXN-16531			
+RXN-16920	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120501</a>		PWY-7695	RXN-16920			
+RXN-16855	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120441</a>		PWY-7689	RXN-16855			
+RXN-13431	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118078</a>		PWY-7050	RXN-13431			
+RXN-16016	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119773</a>		PWY-7583	RXN-16016			
+RXN-11975	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR143823</a>		PWY-6679 // PWY-7485 // RXN-15677 // PWY-7483	RXN-11975			
+2.3.1.180-RXN	CARBON-DIOXIDE	EC-2.3.1.180	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100913</a>		PWY1A0-6120	2.3.1.180-RXN			
+RXN-22569	CARBON-DIOXIDE	EC-2.3.3.M5				RXN-22569			
+RXN-11725	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117123</a>		PWY-6627	RXN-11725			
+RXN-15810	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119640</a>		PWY-7555	RXN-15810			
+RXN-11497	CARBON-DIOXIDE	EC-2.3.1.194	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112946</a>			RXN-11497			
+FATTY-ACID-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.85	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109383</a>			FATTY-ACID-SYNTHASE-RXN			
+FATTY-ACYL-COA-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.86	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115871</a>			FATTY-ACYL-COA-SYNTHASE-RXN			
+RXN-22747	CARBON-DIOXIDE	EC-2.3.1.M104				RXN-22747			
+4.1.1.78-RXN	CARBON-DIOXIDE	EC-4.1.1.78	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106435</a>			4.1.1.78-RXN			
+RXNQT-4301	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR144160</a>		PWY-8308	RXNQT-4301			
+RXN-22494	CARBON-DIOXIDE	EC-3.5.1.137				RXN-22494			
+RXN-9358	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122774</a>		PWY-5890	RXN-9358			
+RXN-9360	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122776</a>		PWY-5892	RXN-9360			
+RXN-9190	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122691</a>		PWY-5839	RXN-9190			
+RXN-9217	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122711</a>		PWY-5853	RXN-9217			
+RXN-9204	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122703</a>		PWY-5851	RXN-9204			
+RXN-2761	CARBON-DIOXIDE	EC-2.5.1.117	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112278</a>		PWY-1581	RXN-2761			
+DMK-RXN	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR97408</a>		PWY-5852	DMK-RXN			
+RXN-10623	CARBON-DIOXIDE	EC-2.5.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116422</a>			RXN-10623			
+RXN-9365	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122781</a>		PWY-5895	RXN-9365			
+RXN-9359	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122775</a>		PWY-5891	RXN-9359			
+ALLANTOATE-DEIMINASE-RXN	CARBON-DIOXIDE	EC-3.5.3.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107497</a>		PWY-5698	ALLANTOATE-DEIMINASE-RXN			
+RXN-11275	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116824</a>		PWY-6449	RXN-11275			
+RXN-20795	CARBON-DIOXIDE	EC-1.14.11			PWY-8075	RXN-20795			
+RXN-13257	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR143845</a>			RXN-13257			
+RXN-19287	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19287			
+RXN-19286	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19286			
+RXN-19289	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19289			
+RXN-19290	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19290			
+RXN-19288	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19288			
+RXN-19770	CARBON-DIOXIDE	EC-4.1.1.12				RXN-19770			
+RXN-9354	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122771</a>		PWY-5888	RXN-9354			
+RXN-9357	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122773</a>		PWY-5889	RXN-9357			
+RXN-21625	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8173	RXN-21625			
+RXN-21695	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8175	RXN-21695			
+RXN-21664	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8174	RXN-21664			
+RXN-21690	CARBON-DIOXIDE	EC-2.3.1.179			PWY-8175	RXN-21690			
+3-OXOACYL-ACP-SYNTH-BASE-RXN	CARBON-DIOXIDE	EC-2.3.1.41 // EC-2.3.1.179	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100912</a>		PWY-7388 // FASYN-INITIAL-PWY	3-OXOACYL-ACP-SYNTH-BASE-RXN			
+RXN66-648	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86				RXN66-648			
+RXN-13260	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117981</a>		PWY-7029	RXN-13260			
+RXN-18862	CARBON-DIOXIDE				RXN-18879 // PWY-7915	RXN-18862			
+RXN-11047	CARBON-DIOXIDE	EC-2.5.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140200</a>			RXN-11047			
+RXN-18879	CARBON-DIOXIDE	EC-1.13.12.24				RXN-18879			
+RXN-17224	CARBON-DIOXIDE	EC-2.3.1.292	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120758</a>			RXN-17224			
+RXN-21723	CARBON-DIOXIDE	EC-2.3.1.86			PWYG-321	RXN-21723			
+RXN-13214	CARBON-DIOXIDE	EC-4.1.1.95	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117947</a>		PWY-7019	RXN-13214			
+RXN-18174	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR121466</a>		RXN-18175	RXN-18174			
+RXN-18175	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121467</a>			RXN-18175			
+RXN-19538	CARBON-DIOXIDE	EC-1.14.20.15				RXN-19538			
+RXN-16989	CARBON-DIOXIDE	EC-1.14.11.M2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120559</a>		PWY-7706	RXN-16989			
+3.5.1.77-RXN	CARBON-DIOXIDE	EC-3.5.1.77	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107363</a>			3.5.1.77-RXN			
+3.5.1.87-RXN	CARBON-DIOXIDE	EC-3.5.1.87	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109833</a>			3.5.1.87-RXN			
+RXN-21351	CARBON-DIOXIDE	EC-3.5.1.M21 // EC-3.5.1.M20				RXN-21351			
+RXN-22491	CARBON-DIOXIDE	EC-3.5.1.137				RXN-22491			
+RXN0-986	CARBON-DIOXIDE	EC-1.14.11.33	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123424</a>			RXN0-986			
+RXN-18737	CARBON-DIOXIDE	EC-1.14.11.33				RXN-18737			
+RXN-17810	CARBON-DIOXIDE	EC-1.14.11.54	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121182</a>			RXN-17810			
+RXN-21233	CARBON-DIOXIDE	EC-1.14.11.54				RXN-21233			
+FORMYLTETRAHYDROFOLATE-DEHYDROGENASE-RXN	CARBON-DIOXIDE	EC-1.5.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115888</a>			FORMYLTETRAHYDROFOLATE-DEHYDROGENASE-RXN			
+RXN-18738	CARBON-DIOXIDE	EC-1.14.11.33				RXN-18738			
+RXN-21235	CARBON-DIOXIDE	EC-1.14.11.54				RXN-21235			
+RXN-17812	CARBON-DIOXIDE	EC-1.14.11.51	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114642</a>			RXN-17812			
+RXN-17811	CARBON-DIOXIDE	EC-1.14.11.53	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121183</a>			RXN-17811			
+RXN66-626	CARBON-DIOXIDE	EC-2.3.1.85 // EC-2.3.1.86			PWY-5994	RXN66-626			
+RXN-9527	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109251</a>		PWY-8279 // PWY1A0-6120	RXN-9527			
+RXN-9651	CARBON-DIOXIDE	EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122924</a>		PWY66-430	RXN-9651			
+RXN-16629	CARBON-DIOXIDE	EC-2.3.1.179 // EC-2.3.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120249</a>		PWY-7663	RXN-16629			
+RXN-18677	CARBON-DIOXIDE	EC-1.14.11.58				RXN-18677			
+RXN-19847	CARBON-DIOXIDE	EC-2.3.1.294				RXN-19847			
+RXN-19846	CARBON-DIOXIDE	EC-2.3.1.293				RXN-19846			
+RXN-16093	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119841</a>		PWY-7599	RXN-16093			
+RXN-7927	CARBON-DIOXIDE	EC-4.1.1.24	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106776</a>			RXN-7927			
+1.14.12.1-RXN	CARBON-DIOXIDE	EC-1.14.12.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114918</a>		PWY-6079	1.14.12.1-RXN			
+RXN-15021	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119080</a>		PWY-7407 // PWY-7405	RXN-15021			
+RXN-17710	CARBON-DIOXIDE	EC-2.3.1.262	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121106</a>			RXN-17710			
+RXN-14426	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118679</a>		PWY-7253	RXN-14426			
+RXN-13242	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117965</a>			RXN-13242			
+RXN-17180	CARBON-DIOXIDE	EC-2.3.1.252	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120720</a>			RXN-17180			
+RXN-10067	CARBON-DIOXIDE	EC-4.1.1.99	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113891</a>		PWY-6174	RXN-10067			
+RXN-21591	CARBON-DIOXIDE	EC-4.1.1			PWY-8166	RXN-21591			
+RXN-9337	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR112531</a>		PWY-5883	RXN-9337			
+RXN-7481	CARBON-DIOXIDE	EC-2.3.1.220	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107512</a>		PWY-7169 // PWY-5001	RXN-7481			
+2.3.1.177-RXN	CARBON-DIOXIDE	EC-2.3.1.177	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113036</a>		PWY-7739	2.3.1.177-RXN			
+RXN-22821	CARBON-DIOXIDE	EC-1.3.3.17				RXN-22821			
+RXN-11276	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116825</a>		PWY-6437	RXN-11276			
+RXN-20180	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20180			
+RXN-13939	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR112463</a>	T	3.1.1.82-RXN	RXN-13939			
+RXN-17268	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120796</a>			RXN-17268			
+RXN-17266	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120794</a>		PWY-7741	RXN-17266			
+RXN-17262	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120790</a>		PWY-7742	RXN-17262			
+RXN-17264	CARBON-DIOXIDE	EC-4.1.1.M4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120792</a>		PWY-7742	RXN-17264			
+RXN1G-181	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123496</a>		PWYG-321	RXN1G-181			
+RXN-7859	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122064</a>	T	PWY-5140	RXN-7859			
+RXN-7858	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122063</a>	T	PWY-5140	RXN-7858			
+RXN0-5222	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR96481</a>	T	PWY0-1471 // PWY-5703 // PWY-5169 // PWY-8025 // ALLOPHANATE-HYDROLASE-RXN // PWY0-41 // CITRULLINE-DEG-PWY // CYANCAT-PWY // RXN-12895 // RXN-12894 // RXN-12893	RXN0-5222			
+RXN-21085	CARBON-DIOXIDE	EC-3.5.1.137			PWY-8111	RXN-21085			
+RXN-22229	CARBON-DIOXIDE	EC-3.5.1.137			PWY-8288	RXN-22229			
+RXN-14638	CARBON-DIOXIDE	EC-3.13.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113869</a>			RXN-14638			
+1.2.7.4-RXN	CARBON-DIOXIDE	EC-1.2.7.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114963</a>		RXN-12907 // RXN-22569 // RXN-22566 // CODH-PWY // PWY-7784 // PWY-6780 // PWY-5372 // METH-ACETATE-PWY // CDHMSARC-RXN	1.2.7.4-RXN			
+RXN-17357	CARBON-DIOXIDE	EC-1.2.5.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120864</a>		PWY-7750	RXN-17357			
+RXN-12907	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117797</a>			RXN-12907			
+RXN-21452	CARBON-DIOXIDE	EC-1.2.5.3				RXN-21452			
+RXN-1901	CARBON-DIOXIDE	EC-3.13.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113866</a>		PWY-7926 // PWY-743 // RXN-14638 // PWY-5336 // PWY-1164	RXN-1901			
+RXN-9380	CARBON-DIOXIDE	EC-4.1.1.96	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112526</a>		PWY-6562	RXN-9380			
+RXN-10828	CARBON-DIOXIDE	EC-2.7.8.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112361</a>		PWY-7769 // PWY-6322	RXN-10828			
+RXN-11564	CARBON-DIOXIDE	EC-4.1.1.96	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96935</a>		PWY-6559	RXN-11564			
+RXN-21372	CARBON-DIOXIDE	EC-3.5.1.M21 // EC-3.5.1.M20				RXN-21372			
+RXN-17429	CARBON-DIOXIDE	EC-3.1.1.100	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120908</a>		PWY-7760	RXN-17429			
+RXN-21365	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21365			
+RXN-10924	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR139848</a>		PWY-6345 // PWY-6346	RXN-10924			
+RXN-803	CARBON-DIOXIDE	EC-4.1.1.102	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114372</a>			RXN-803			
+1.3.1.67-RXN	CARBON-DIOXIDE	EC-1.3.1.67	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114970</a>			1.3.1.67-RXN			
+ACONITATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107402</a>		PWY-5750	ACONITATE-DECARBOXYLASE-RXN			
+TRANS-RXN0-545	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR96810</a>	T		TRANS-RXN0-545			
+RXN-8152	CARBON-DIOXIDE	EC-1.14.11.32	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112826</a>		PWY-5270	RXN-8152			
+RXN-3361	CARBON-DIOXIDE	EC-1.13.12.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121667</a>			RXN-3361			
+WATASEMIA-LUCIFERIN-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR124099</a>			WATASEMIA-LUCIFERIN-2-MONOOXYGENASE-RXN			
+RXN-18873	CARBON-DIOXIDE				WATASEMIA-LUCIFERIN-2-MONOOXYGENASE-RXN // PWY-7916	RXN-18873			
+RXN0-1461	CARBON-DIOXIDE	EC-1.3.3.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96880</a>		HEME-BIOSYNTHESIS-II-1	RXN0-1461			
+RXN-12893	CARBON-DIOXIDE	EC-4.2.1.104	<a href='https://www.metanetx.org/equa_info/~A'>MNXR138188</a>			RXN-12893			
+R524-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR139204</a>		CYANCAT-PWY // RXN-12893	R524-RXN			
+RXN-16976	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120549</a>		PWY-7704	RXN-16976			
+CYPRIDINA-LUCIFERIN-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115793</a>			CYPRIDINA-LUCIFERIN-2-MONOOXYGENASE-RXN			
+4.1.1.84-RXN	CARBON-DIOXIDE	EC-4.1.1.84	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110985</a>			4.1.1.84-RXN			
+1.13.12.7-RXN	CARBON-DIOXIDE	EC-1.13.12.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114915</a>			1.13.12.7-RXN			
+6PGLUCONDEHYDROG-RXN	CARBON-DIOXIDE	EC-1.1.1.351	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115649</a>		P122-PWY	6PGLUCONDEHYDROG-RXN			
+RXN-3341	CARBON-DIOXIDE	EC-1.1.1.343	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113581</a>		RUMP-PWY	RXN-3341			
+RXN-9952	CARBON-DIOXIDE	EC-1.1.1.44	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100389</a>		OXIDATIVEPENT-PWY	RXN-9952			
+RXN-20176	CARBON-DIOXIDE	EC-4.1.1.116				RXN-20176			
+RXN-20175	CARBON-DIOXIDE	EC-4.1.1.116				RXN-20175			
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	CARBON-DIOXIDE	EC-1.1.1.286 // EC-1.1.1.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115984</a>		PWY-6549 // PWY-5690 // PWY66-398	ISOCITRATE-DEHYDROGENASE-NAD+-RXN			
+ISOCITDEH-RXN	CARBON-DIOXIDE	EC-1.1.1.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115983</a>		P23-PWY // PWY-6549 // P105-PWY // PWY-6969 // PWY-7254 // PWY-5913 // PWY-6728 // TCA // PWY-7268 // PWY-7124 // FERMENTATION-PWY // REDCITCYC	ISOCITDEH-RXN			
+1.14.11.26-RXN	CARBON-DIOXIDE	EC-1.14.11.26	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109405</a>		PWY-5631	1.14.11.26-RXN			
+1.14.11.20-RXN	CARBON-DIOXIDE	EC-1.14.11.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109891</a>		PWY-5292	1.14.11.20-RXN			
+RXN-16243	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119968</a>			RXN-16243			
+RXN-20187	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20187			
+RXN-16977	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120550</a>		PWY-7704	RXN-16977			
+RXN-22114	CARBON-DIOXIDE				PWY-8216	RXN-22114			
+RXN-11722	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117120</a>		PWY-6627	RXN-11722			
+RXN-7857	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122062</a>	T	PWY-5140	RXN-7857			
+1.14.11.21-RXN	CARBON-DIOXIDE	EC-1.14.11.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109608</a>		PWY-5679	1.14.11.21-RXN			
+RXN-13345	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR114433</a>	T	PWY-7040	RXN-13345			
+RXN-6685	CARBON-DIOXIDE	EC-1.14.11.59	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121872</a>		PWY-6950	RXN-6685			
+RXN-10845	CARBON-DIOXIDE	EC-1.13.12.17	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112984</a>		PWY-6324	RXN-10845			
+RXN-11468	CARBON-DIOXIDE	EC-2.3.1.74	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116965</a>		PWY-7897 // PWY-6515	RXN-11468			
+RXN-6267	CARBON-DIOXIDE	EC-1.14.11.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109611</a>		PWY-5679	RXN-6267			
+RXN-19528	CARBON-DIOXIDE	EC-1.13.12.M3				RXN-19528			
+DIHYDROXYFUMARATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.54	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139172</a>			DIHYDROXYFUMARATE-DECARBOXYLASE-RXN			
+RXN-20783	CARBON-DIOXIDE	EC-1.14.11.M27			PWY-8076	RXN-20783			
+RXN-20926	CARBON-DIOXIDE					RXN-20926			
+RXN-21366	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21366			
+RXN-20188	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20188			
+3.5.1.29-RXN	CARBON-DIOXIDE	EC-3.5.1.29	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107106</a>		PWY-5499	3.5.1.29-RXN			
+RXN-18394	CARBON-DIOXIDE	EC-1.14.11.55				RXN-18394			
+RXN-21383	CARBON-DIOXIDE			T	4.1.1.78-RXN	RXN-21383			
+RXN-17519	CARBON-DIOXIDE	EC-1.3.98.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120970</a>			RXN-17519			
+RXN-19755	CARBON-DIOXIDE				PWY-7766 // RXN-17519	RXN-19755			
+RXN-21367	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21367			
+RXN-14071	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118508</a>		PWY-7186	RXN-14071			
+RXN-801	CARBON-DIOXIDE	EC-4.1.1.102	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114373</a>			RXN-801			
+RXN-21156	CARBON-DIOXIDE				PWY-6432 // RXN-11225	RXN-21156			
+RXN-21155	CARBON-DIOXIDE				PWY-6432 // RXN-11226	RXN-21155			
+RXN-12349	CARBON-DIOXIDE	EC-1.14.11.61	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114842</a>		PWY-7398 // PWY-6792	RXN-12349			
+RXN-11224	CARBON-DIOXIDE	EC-2.3.1.217	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112302</a>			RXN-11224			
+RXN-11226	CARBON-DIOXIDE	EC-2.3.1.217	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112304</a>			RXN-11226			
+RXN-11221	CARBON-DIOXIDE	EC-2.3.1.218	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112300</a>		PWY-6432	RXN-11221			
+RXN-18848	CARBON-DIOXIDE				1.13.12.7-RXN // PWY-7913	RXN-18848			
+RXN-21369	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21369			
+RXN-21040	CARBON-DIOXIDE	EC-2.2.1.3				RXN-21040			
+RXN0-3281	CARBON-DIOXIDE	EC-1.17.98.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123169</a>		FHLMULTI-RXN // PWY-7616	RXN0-3281			
+RIBONUCLEOSIDE-TRIP-REDUCT-RXN	CARBON-DIOXIDE	EC-1.1.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116254</a>			RIBONUCLEOSIDE-TRIP-REDUCT-RXN			
+RXN-11237	CARBON-DIOXIDE	EC-1.17.5.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116792</a>			RXN-11237			
+RXN-15617	CARBON-DIOXIDE	EC-1.17.98.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119493</a>			RXN-15617			
+RXN-12274	CARBON-DIOXIDE	EC-1.17.98.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117458</a>			RXN-12274			
+RXN0-745	CARBON-DIOXIDE	EC-1.1.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123413</a>		PWY-7220	RXN0-745			
+RXN0-723	CARBON-DIOXIDE	EC-1.1.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123403</a>		PWY0-166	RXN0-723			
+RXN0-746	CARBON-DIOXIDE	EC-1.1.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123414</a>		PWY-7222	RXN0-746			
+FHLMULTI-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR99594</a>		PWY-6772 // PWY-8086 // FERMENTATION-PWY	FHLMULTI-RXN			
+1.2.1.2-RXN	CARBON-DIOXIDE	EC-1.17.1.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR99475</a>		P164-PWY // PWY-5497	1.2.1.2-RXN			
+FORMATE-DEHYDROGENASE-NADP+-RXN	CARBON-DIOXIDE	EC-1.17.1.10	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106403</a>		CODH-PWY	FORMATE-DEHYDROGENASE-NADP+-RXN			
+RXN0-724	CARBON-DIOXIDE	EC-1.1.98.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123408</a>		PWY0-166	RXN0-724			
+FORMATEDEHYDROG-RXN	CARBON-DIOXIDE	EC-1.17.5.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143770</a>		PWY0-1585 // PWY0-1355 // PWY0-1356 // PWY0-1321	FORMATEDEHYDROG-RXN			
+RXN-15082	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119129</a>		PWY-7419	RXN-15082			
+RXN-14407	CARBON-DIOXIDE	EC-1.14.11.38	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118672</a>		PWY-7526	RXN-14407			
+RXN-13093	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR113576</a>		PWY-6995	RXN-13093			
+RXN-15600	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119482</a>		PWY-6659	RXN-15600			
+RXN-15593	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119475</a>		PWY-7517	RXN-15593			
+GALLATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.59	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108044</a>		P3-PWY	GALLATE-DECARBOXYLASE-RXN			
+1.14.11.1-RXN	CARBON-DIOXIDE	EC-1.14.11.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96215</a>		PWY-3621 // PWY-6100	1.14.11.1-RXN			
+RXN-17555	CARBON-DIOXIDE	EC-4.1.1.103	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114650</a>		PWY-7773 // PWY-7772	RXN-17555			
+RXN-14655	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118833</a>		PWY-7298	RXN-14655			
+GENTISATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.62	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107540</a>			GENTISATE-DECARBOXYLASE-RXN			
+RXN-19668	CARBON-DIOXIDE	EC-2.5.1.74			PWY-7997	RXN-19668			
+RXN-14929	CARBON-DIOXIDE	EC-2.5.1.116	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114027</a>		PWY-7436	RXN-14929			
+RXN-115	CARBON-DIOXIDE	EC-1.14.11.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107885</a>		PWY-102	RXN-115			
+RXN-947	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122837</a>		PWY-102	RXN-947			
+RXN-6544	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121859</a>		PWY-5036	RXN-6544			
+RXN1F-162	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143567</a>		PWY-5070	RXN1F-162			
+RXN-7624	CARBON-DIOXIDE	EC-1.14.14	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121978</a>		PWY-5047	RXN-7624			
+RXN-6542	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121857</a>			RXN-6542			
+RXN-7589	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121963</a>		PWY-5036	RXN-7589			
+RXN-7619	CARBON-DIOXIDE	EC-1.14.14	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121976</a>		PWY-5047	RXN-7619			
+RXN-7680	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121999</a>			RXN-7680			
+RXN1F-163	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR143568</a>		PWY-5070	RXN1F-163			
+RXN-6522	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR144037</a>		PWY-5036	RXN-6522			
+RXN-6546	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121861</a>			RXN-6546			
+RXN1F-101	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123437</a>		PWY-5035	RXN1F-101			
+RXN1F-169	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123445</a>		PWY-5035	RXN1F-169			
+RXN1F-170	CARBON-DIOXIDE	EC-1.14.11.15	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107886</a>		PWY-5035	RXN1F-170			
+RXN-113	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108443</a>		PWY-102	RXN-113			
+RXN1F-99	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123452</a>		PWY-5070	RXN1F-99			
+RXN-6523	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110155</a>		PWY-5070	RXN-6523			
+RXN1F-164	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123443</a>		PWY-5070	RXN1F-164			
+RXN-6541	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121856</a>		PWY-5070	RXN-6541			
+RXN-6543	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121858</a>			RXN-6543			
+RXN-6547	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121862</a>			RXN-6547			
+RXN-114	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116905</a>		PWY-102	RXN-114			
+RXN-292	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121642</a>		PWY-102	RXN-292			
+RXN-7591	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121965</a>		PWY-5036	RXN-7591			
+RXN-7590	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121964</a>		PWY-5036	RXN-7590			
+RXN-6550	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110158</a>		PWY-102	RXN-6550			
+RXN-886	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122523</a>		PWY-102	RXN-886			
+RXN-14318	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118613</a>		PWY-7232	RXN-14318			
+RXN-14327	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118619</a>		PWY-7232	RXN-14327			
+RXN-172	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120740</a>		PWY-102	RXN-172			
+RXN-991	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123072</a>		PWY-102	RXN-991			
+RXN1F-167	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109315</a>		PWY-5035	RXN1F-167			
+RXN-118	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117162</a>		PWY-102	RXN-118			
+RXN1F-165	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110156</a>		PWY-5070	RXN1F-165			
+RXN-171	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110157</a>		PWY-102	RXN-171			
+RXN1F-168	CARBON-DIOXIDE	EC-1.14.11.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108441</a>		PWY-5035	RXN1F-168			
+RXN-6524	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121855</a>		PWY-5035	RXN-6524			
+RXN-20772	CARBON-DIOXIDE				PWY-6409	RXN-20772			
+RXN0-7316	CARBON-DIOXIDE	EC-1.14.11.64			PWY1G01-4 // PWY0-461	RXN0-7316			
+RXN-22027	CARBON-DIOXIDE				PWY-8203	RXN-22027			
+GLUTARYL-COA-DEHYDROGENASE-RXN	CARBON-DIOXIDE	EC-1.3.8.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115932</a>			GLUTARYL-COA-DEHYDROGENASE-RXN			
+1.4.99.5-RXN	CARBON-DIOXIDE	EC-1.4.99.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114981</a>			1.4.99.5-RXN			
+GCVMULTI-RXN	CARBON-DIOXIDE	EC-1.4.1.27	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115907</a>		PWY-8303 // PWY-2201 // PWY-181 // 1CMET2-PWY // PWY-3841	GCVMULTI-RXN			
+GCVP-RXN	CARBON-DIOXIDE	EC-1.4.4.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115908</a>		GLYCINE-SYN2-PWY // GCVMULTI-RXN // GLYCLEAV-PWY	GCVP-RXN			
+5-AMINOLEVULINIC-ACID-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.37	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95695</a>		PWY-7536 // PWY-5189	5-AMINOLEVULINIC-ACID-SYNTHASE-RXN			
+RXN-16911	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120492</a>			RXN-16911			
+RXN-16900	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120484</a>		PWY-7693	RXN-16900			
+RXN-19285	CARBON-DIOXIDE	EC-1.14.20.14				RXN-19285			
+RXN-19756	CARBON-DIOXIDE				PWY-7766 // RXN-17519	RXN-19756			
+RXN-10731	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116492</a>		PWY-6310	RXN-10731			
+RXN-17206	CARBON-DIOXIDE	EC-2.3.1.295	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120746</a>			RXN-17206			
+RXN-20184	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20184			
+RXN-13662	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118229</a>		PWY-5140 // RXN-7852 // PWY-7105	RXN-13662			
+RXN-10688	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR128038</a>			RXN-10688			
+RXN-10689	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116464</a>			RXN-10689			
+RXN-7852	CARBON-DIOXIDE	EC-2.3.1.206	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113537</a>			RXN-7852			
+RXN-10687	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116462</a>			RXN-10687			
+RXN-20183	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20183			
+RXN0-5224	CARBON-DIOXIDE	EC-4.2.1.1			PWY-5789 // PWY-7115 // PWY-241 // PWY-7117 // PWYQT-4429 // CYANCAT-PWY // PWY-6142 // PWY-5744	RXN0-5224			
+RXN-21229	CARBON-DIOXIDE	EC-1.2.1.104				RXN-21229			
+HYDROXYPYRUVATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.40	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100700</a>			HYDROXYPYRUVATE-DECARBOXYLASE-RXN			
+RXN-21515	CARBON-DIOXIDE	EC-4.1.1			PWY-8158	RXN-21515			
+RXN-17185	CARBON-DIOXIDE	EC-2.3.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120725</a>			RXN-17185			
+RXN-12341	CARBON-DIOXIDE	EC-4.1.1.92	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112910</a>			RXN-12341			
+RXN-3945	CARBON-DIOXIDE	EC-4.1.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121688</a>		PWY-8087	RXN-3945			
+RXN-7805	CARBON-DIOXIDE	EC-2.3.1.156	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114876</a>		PWY-5808	RXN-7805			
+RXN-21611	CARBON-DIOXIDE	EC-2.3.1.300			PWY-8175	RXN-21611			
+2.5.1.64-RXN	CARBON-DIOXIDE	EC-2.2.1.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115179</a>		PWY-5837	2.5.1.64-RXN			
+RXN-20752	CARBON-DIOXIDE	EC-4.1.1.118				RXN-20752			
+RXN-22492	CARBON-DIOXIDE	EC-3.5.1.137				RXN-22492			
+RXN-21352	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21352			
+RXN-14401	CARBON-DIOXIDE	EC-1.14.11.37	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113668</a>		PWY-7000	RXN-14401			
+4.1.1.86-RXN	CARBON-DIOXIDE	EC-4.1.1.86	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111249</a>		PWY-761	4.1.1.86-RXN			
+THREOSPON-RXN	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR95851</a>	T	PWY-7378 // THRDLCTCAT-PWY // RXN-16001 // RXN-14249	THREOSPON-RXN			
+RXN-16001	CARBON-DIOXIDE	EC-1.1.1.381	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114166</a>			RXN-16001			
+RXN-21710	CARBON-DIOXIDE	EC-3.5.3.M1			PWY-4981	RXN-21710			
+RXN-14542	CARBON-DIOXIDE	EC-1.14.11.41	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112792</a>		PWY-6853 // RXN-13396	RXN-14542			
+RXN-13396	CARBON-DIOXIDE	EC-1.14.20.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113189</a>		PWY-7126 // RXN-12535	RXN-13396			
+RXN-12537	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139751</a>		PWY-7274	RXN-12537			
+ARGININE-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106583</a>		ARGDEG-V-PWY	ARGININE-2-MONOOXYGENASE-RXN			
+ARGDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.19	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95940</a>		PWY-6834	ARGDECARBOX-RXN			
+CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	CARBON-DIOXIDE	EC-4.2.1.91	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95958</a>		PWY-3462	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN			
+RXN-14476	CARBON-DIOXIDE	EC-1.3.1.79	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118703</a>			RXN-14476			
+CYCLOHEXADIENYL-DEHYDROGENASE-RXN	CARBON-DIOXIDE	EC-1.3.1.43	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106658</a>		PWY-6120	CYCLOHEXADIENYL-DEHYDROGENASE-RXN			
+RXN-5682	CARBON-DIOXIDE	EC-1.3.1.78	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106659</a>		PWY-3461	RXN-5682			
+ETHYL-RXN	CARBON-DIOXIDE	EC-1.14.17.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR140048</a>		ETHYL-PWY	ETHYL-RXN			
+ASPDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96077</a>		PWY-5155	ASPDECARBOX-RXN			
+ASPARTATE-4-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96078</a>			ASPARTATE-4-DECARBOXYLASE-RXN			
+RXN-21800	CARBON-DIOXIDE	EC-1.13.12.1				RXN-21800			
+CARNITINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107486</a>			CARNITINE-DECARBOXYLASE-RXN			
+CITRULLINASE-RXN	CARBON-DIOXIDE	EC-3.5.1.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106633</a>			CITRULLINASE-RXN			
+CYSTAUR-RXN	CARBON-DIOXIDE	EC-4.1.1.29	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101032</a>		PWY-5331	CYSTAUR-RXN			
+RXNQT-4309	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123820</a>		PWYQT-4471	RXNQT-4309			
+RXN-19275	CARBON-DIOXIDE	EC-4.1.1.107				RXN-19275			
+RXN66-221	CARBON-DIOXIDE	EC-4.1.1.28	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107302</a>		PWY-8110	RXN66-221			
+RXN-11403	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR108330</a>	T	PWY-6498	RXN-11403			
+RXN-14541	CARBON-DIOXIDE	EC-1.14.11.40	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113755</a>			RXN-14541			
+RXN-21520	CARBON-DIOXIDE	EC-1.14.11.76			PWY-8158	RXN-21520			
+RXN-18512	CARBON-DIOXIDE	EC-2.6.1.114				RXN-18512			
+GLUTDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.15	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95942</a>		PWY-8346 // PWY0-1305	GLUTDECARBOX-RXN			
+RXNQT-4313	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123824</a>		PWYQT-4475	RXNQT-4313			
+HISTIDINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.22	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100581</a>		PWY-6173	HISTIDINE-DECARBOXYLASE-RXN			
+RXN-21801	CARBON-DIOXIDE	EC-1.13.12.1				RXN-21801			
+RXN-2206	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR144010</a>		PWY-1187	RXN-2206			
+RXN-16497	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120135</a>		PWY-7649	RXN-16497			
+1.14.13.117-RXN	CARBON-DIOXIDE	EC-1.14.14.39	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114921</a>			1.14.13.117-RXN			
+RXN-13635	CARBON-DIOXIDE	EC-1.14.11.45	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114041</a>			RXN-13635			
+RXN-21280	CARBON-DIOXIDE	EC-1.14.11.74				RXN-21280			
+RXN-20853	CARBON-DIOXIDE	EC-1.14.14.M43				RXN-20853			
+RXN-13636	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118218</a>			RXN-13636			
+RXN-16488	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120126</a>		PWY-7648	RXN-16488			
+LYSINE-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101258</a>		PWY-5280	LYSINE-2-MONOOXYGENASE-RXN			
+LYSDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.18	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101256</a>		PWY-6328 // PWY-5468	LYSDECARBOX-RXN			
+RXN-13638	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118220</a>			RXN-13638			
+METHIONINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.57	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106629</a>			METHIONINE-DECARBOXYLASE-RXN			
+ORNDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.17	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102209</a>		PWY-46 // ORNDEG-PWY	ORNDECARBOX-RXN			
+RXNQT-4312	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123823</a>		PWYQT-4474	RXNQT-4312			
+RXN-4602	CARBON-DIOXIDE	EC-1.14.14.40	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121733</a>			RXN-4602			
+PHENYLALANINE-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106645</a>			PHENYLALANINE-2-MONOOXYGENASE-RXN			
+PHENYLALANINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.28 // EC-4.1.1.53	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102650</a>		PWY-5751	PHENYLALANINE-DECARBOXYLASE-RXN			
+RXN-8990	CARBON-DIOXIDE	EC-4.1.1.109	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122572</a>		PWY-5751	RXN-8990			
+1.14.11.28-RXN	CARBON-DIOXIDE	EC-1.14.11.28	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112989</a>			1.14.11.28-RXN			
+RXN-14244	CARBON-DIOXIDE	EC-1.14.11.56	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118578</a>			RXN-14244			
+RXN490-3641	CARBON-DIOXIDE	EC-1.14.11.57	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103186</a>			RXN490-3641			
+RXN-16692	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120299</a>		PWY-7669	RXN-16692			
+RXN-5641	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104335</a>		PWY-7782	RXN-5641			
+RXN-16008	CARBON-DIOXIDE	EC-1.1.1.387	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114291</a>			RXN-16008			
+RXN-16003	CARBON-DIOXIDE	EC-1.1.1.276	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114289</a>			RXN-16003			
+TARTRATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.73	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104719</a>			TARTRATE-DECARBOXYLASE-RXN			
+RXNQT-4311	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123822</a>		PWYQT-4473	RXNQT-4311			
+RXN-13639	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118221</a>			RXN-13639			
+RXN-14249	CARBON-DIOXIDE	EC-1.1.1.103	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118582</a>			RXN-14249			
+4.1.1.81-RXN	CARBON-DIOXIDE	EC-4.1.1.81	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104843</a>		PWY-5443	4.1.1.81-RXN			
+RXNQT-4310	CARBON-DIOXIDE	EC-1.14.14.42	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123821</a>		PWYQT-4472	RXNQT-4310			
+RXN-1402	CARBON-DIOXIDE	EC-1.14.14.156	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111737</a>			RXN-1402			
+TRYPTOPHAN-2-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.99.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106640</a>			TRYPTOPHAN-2-DIOXYGENASE-RXN			
+TRYPTOPHAN-2-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.13.12.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106639</a>		PWY-3161	TRYPTOPHAN-2-MONOOXYGENASE-RXN			
+RXN-5402	CARBON-DIOXIDE	EC-1.13.99	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121797</a>		PWY-3162	RXN-5402			
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.28 // EC-4.1.1.105	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101250</a>		PWY-5290	AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN			
+RXN-13187	CARBON-DIOXIDE	EC-1.14.14.36	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117941</a>			RXN-13187			
+RXN-19274	CARBON-DIOXIDE	EC-4.1.1.108				RXN-19274			
+TYROSINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.28 // EC-4.1.1.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104990</a>		PWY-3581 // PWY-6133 // PWY-7826 // PWY-5474 // PWY-5254 // PWY-7297 // PWY-6802	TYROSINE-DECARBOXYLASE-RXN			
+1.14.13.118-RXN	CARBON-DIOXIDE	EC-1.14.14.38	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114922</a>			1.14.13.118-RXN			
+VALINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.14	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106990</a>			VALINE-DECARBOXYLASE-RXN			
+1.14.99.21-RXN	CARBON-DIOXIDE	EC-1.14.99.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114943</a>			1.14.99.21-RXN			
+RXN1G-460	CARBON-DIOXIDE	EC-2.3.1.301	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123576</a>		PWYG-321	RXN1G-460			
+RXN-13256	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117977</a>			RXN-13256			
+RXN-15526	CARBON-DIOXIDE	EC-3.5.1.M21 // EC-3.5.1.M19 // EC-3.5.1.M20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119419</a>		PWY-7496	RXN-15526			
+RXN-14423	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118677</a>		PWY-7252	RXN-14423			
+RXN-16577	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120205</a>		PWY-7659	RXN-16577			
+RXN-17985	CARBON-DIOXIDE	EC-2.3.1.260	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121315</a>		PWY-7811	RXN-17985			
+RXN-17590	CARBON-DIOXIDE	EC-1.8.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121022</a>		PWY-7776	RXN-17590			
+RXN-19735	CARBON-DIOXIDE	EC-4.1.1.88				RXN-19735			
+RXN-9774	CARBON-DIOXIDE	EC-7.2.4.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112905</a>			RXN-9774			
+RXN-20379	CARBON-DIOXIDE	EC-2.3.1.199			PWY-7035	RXN-20379			
+RXN-20375	CARBON-DIOXIDE	EC-2.3.1.199			PWY-7035	RXN-20375			
+RXN-20383	CARBON-DIOXIDE	EC-2.3.1.199				RXN-20383			
+RXN-13442	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118084</a>		PWY-7727	RXN-13442			
+RXN-20384	CARBON-DIOXIDE	EC-2.3.1.199				RXN-20384			
+RXN-20386	CARBON-DIOXIDE	EC-2.3.1.199				RXN-20386			
+RXN-16082	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119830</a>		PWY-7606	RXN-16082			
+RXN-20385	CARBON-DIOXIDE	EC-2.3.1.199				RXN-20385			
+RXN-15103	CARBON-DIOXIDE	EC-2.3.1.239	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110263</a>		PWY-7422	RXN-15103			
+RXN-15105	CARBON-DIOXIDE	EC-2.3.1.240	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110264</a>		PWY-7421	RXN-15105			
+RXN-7697	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122003</a>		PWY-5080	RXN-7697			
+RXN-16081	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119829</a>		PWY-7726	RXN-16081			
+RXN-13441	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118083</a>		PWY-7724 // PWY-7602 // PWY-7619	RXN-13441			
+RXN66-613	CARBON-DIOXIDE	EC-2.3.1.86 // EC-2.3.1.85			PWY-5966-1	RXN66-613			
+RXN-16079	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119827</a>		PWY-7726	RXN-16079			
+RXN-13295	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118001</a>		PWY-7036	RXN-13295			
+RXN-20332	CARBON-DIOXIDE	EC-2.3.1.199			PWY-8041	RXN-20332			
+RXN-16153	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119895</a>		PWY-6433	RXN-16153			
+RXN-13297	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103458</a>		PWY-7036	RXN-13297			
+RXN-20344	CARBON-DIOXIDE	EC-2.3.1.199			PWY-8041	RXN-20344			
+RXN-12777	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117744</a>		PWY-7592	RXN-12777			
+MALONYL-COA-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.9	<a href='https://www.metanetx.org/equa_info/~A'>MNXR101412</a>		PWY-7485 // RXN-15677	MALONYL-COA-DECARBOXYLASE-RXN			
+RXN-9646	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122920</a>			RXN-9646			
+RXN-13296	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118002</a>		PWY-7036	RXN-13296			
+RXN-16094	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119842</a>		PWY-7725 // PWY-6598	RXN-16094			
+RXN-9647	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122921</a>			RXN-9647			
+RXN-21108	CARBON-DIOXIDE				PWY-8117	RXN-21108			
+RXN-20336	CARBON-DIOXIDE	EC-2.3.1.199			PWY-8041	RXN-20336			
+RXN-13322	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118023</a>		PWY-7035 // PWY-6433	RXN-13322			
+RXN-9543	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR94939</a>		PWY-5972	RXN-9543			
+RXN-14492	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118715</a>		PWY-6433	RXN-14492			
+RXN-16019	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119776</a>		PWY-7049	RXN-16019			
+RXN-13294	CARBON-DIOXIDE	EC-2.3.1.199	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103450</a>		PWY-7036	RXN-13294			
+RXN-20348	CARBON-DIOXIDE	EC-2.3.1.199			PWY-8041	RXN-20348			
+RXN-20340	CARBON-DIOXIDE	EC-2.3.1.199			PWY-8041	RXN-20340			
+DIAMINOPIMDECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR97141</a>		DAPLYSINESYN-PWY // PWY-2941 // PWY-2942 // PWY-5097	DIAMINOPIMDECARB-RXN			
+3.5.3.21-RXN	CARBON-DIOXIDE	EC-3.5.3.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109370</a>			3.5.3.21-RXN			
+RXN-7746	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR106780</a>		PWY-5103	RXN-7746			
+RXN-20740	CARBON-DIOXIDE	EC-1.14.11.71			PWY-8066	RXN-20740			
+RXN-21373	CARBON-DIOXIDE	EC-3.5.1.M21 // EC-3.5.1.M20				RXN-21373			
+RXN-21370	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21370			
+RXN-21374	CARBON-DIOXIDE	EC-3.5.1.M21 // EC-3.5.1.M20				RXN-21374			
+RXN-14720	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118871</a>		PWY-7926	RXN-14720			
+RXN-21371	CARBON-DIOXIDE	EC-3.5.1.M21				RXN-21371			
+RXN-7982	CARBON-DIOXIDE	EC-1.14.11.25	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110877</a>		PWY-5925	RXN-7982			
+RXN-21131	CARBON-DIOXIDE				PWY-8117	RXN-21131			
+RXN-21130	CARBON-DIOXIDE				PWY-8117	RXN-21130			
+RXN-21126	CARBON-DIOXIDE				PWY-8117	RXN-21126			
+RXN-21116	CARBON-DIOXIDE				PWY-8117	RXN-21116			
+3.5.1.64-RXN	CARBON-DIOXIDE	EC-3.5.1.64	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107574</a>			3.5.1.64-RXN			
+RXN-13025	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117866</a>		RXNQT-4311	RXN-13025			
+RXN-13023	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117864</a>		RXNQT-4310	RXN-13023			
+RXN-13020	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117861</a>		RXNQT-4309	RXN-13020			
+RXN-9639	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR113414</a>		PWY-5990 // 1.14.13.117-RXN	RXN-9639			
+RXN-20909	CARBON-DIOXIDE				PWY-8081 // RXN-20853	RXN-20909			
+RXN-12068	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR112998</a>		PWY-2821 // PWY-7824 // RXN-4602	RXN-12068			
+RXN-7749	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR110880</a>		PWY-7901 // PWY-7088 // PWY-861 // RXN-13187	RXN-7749			
+RXN-5065	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR113418</a>		PWY-3022 // 1.14.13.118-RXN	RXN-5065			
+RXN-12991	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117839</a>		RXNQT-4313	RXN-12991			
+RXN-13016	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR143841</a>		RXN-2206	RXN-13016			
+RXN-13005	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117850</a>		RXNQT-4312	RXN-13005			
+RXN-20871	CARBON-DIOXIDE	EC-1.14.11			PWY-8083	RXN-20871			
+RXN-13200	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR109372</a>	T	3.5.3.21-RXN	RXN-13200			
+N-BENZYLOXYCARBONYLGLYCINE-HYDROLASE-RXN	CARBON-DIOXIDE	EC-3.5.1.58	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107573</a>			N-BENZYLOXYCARBONYLGLYCINE-HYDROLASE-RXN			
+UREIDOSUCCINASE-RXN	CARBON-DIOXIDE	EC-3.5.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106552</a>			UREIDOSUCCINASE-RXN			
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	CARBON-DIOXIDE	EC-3.5.1.53	<a href='https://www.metanetx.org/equa_info/~A'>MNXR96800</a>		PWY-43	N-CARBAMOYLPUTRESCINE-AMIDASE-RXN			
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	CARBON-DIOXIDE	EC-3.5.1.59	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107053</a>		PWY-4722	N-CARBAMOYLSARCOSINE-AMIDASE-RXN			
+RXN-19542	CARBON-DIOXIDE	EC-3.5.1.133				RXN-19542			
+RXN-20905	CARBON-DIOXIDE	EC-1.14.11				RXN-20905			
+2.3.1.159-RXN	CARBON-DIOXIDE	EC-2.3.1.159	<a href='https://www.metanetx.org/equa_info/~A'>MNXR110934</a>		PWY-5958	2.3.1.159-RXN			
+PANTOTHENOYLCYSTEINE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.30	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103047</a>			PANTOTHENOYLCYSTEINE-DECARBOXYLASE-RXN			
+RXN-13340	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118030</a>		PWY-7040	RXN-13340			
+RXN0-984	CARBON-DIOXIDE	EC-1.14.11.33	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123422</a>			RXN0-984			
+RXN-12063	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR113001</a>	T	CAMALEXIN-SYN // PWY-8024 // PWY-581 // PWY-601 // RXN-1402	RXN-12063			
+SUCCARGDIHYDRO-RXN	CARBON-DIOXIDE	EC-3.5.3.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104239</a>		AST-PWY	SUCCARGDIHYDRO-RXN			
+TRIMETHYLLYSINE-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108181</a>		PWY-6100	TRIMETHYLLYSINE-DIOXYGENASE-RXN			
+RXN-12662	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117682</a>		PWY-6919	RXN-12662			
+RXN-12663	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117683</a>		PWY-6919	RXN-12663			
+RXN-20186	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20186			
+RXN-15580	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR119462</a>		CARBAMOYL-SERINE-AMMONIA-LYASE-RXN	RXN-15580			
+CARBAMOYL-SERINE-AMMONIA-LYASE-RXN	CARBON-DIOXIDE	EC-4.3.1.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106434</a>			CARBAMOYL-SERINE-AMMONIA-LYASE-RXN			
+RXN-11608	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117044</a>		PWY-6574	RXN-11608			
+RXN-14460	CARBON-DIOXIDE	EC-6.3.3.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113809</a>		PWY-7274	RXN-14460			
+RXN-15324	CARBON-DIOXIDE	EC-4.1.99	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119282</a>			RXN-15324			
+RXN-17711	CARBON-DIOXIDE	EC-2.3.1.230	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121107</a>			RXN-17711			
+RXN-17715	CARBON-DIOXIDE	EC-2.3.1.230	<a href='https://www.metanetx.org/equa_info/~A'>MNXR121111</a>			RXN-17715			
+RXN-22746	CARBON-DIOXIDE	EC-2.3.1			PWY-8326 // RXN-22747	RXN-22746			
+RXN-13613	CARBON-DIOXIDE	EC-2.3.1.207	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113538</a>		PWY-7094	RXN-13613			
+RXN-20185	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20185			
+RXN-13255	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117976</a>			RXN-13255			
+RXN-8151	CARBON-DIOXIDE	EC-1.14.11.31	<a href='https://www.metanetx.org/equa_info/~A'>MNXR108351</a>		PWY-5270	RXN-8151			
+OROTPDECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102190</a>		PWY-7790 // PWY-7791	OROTPDECARB-RXN			
+ORSELLINATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.58	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107760</a>			ORSELLINATE-DECARBOXYLASE-RXN			
+RXN-12077	CARBON-DIOXIDE	EC-1.2.7.10	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112908</a>		PWY-6694	RXN-12077			
+OXALATE-OXIDASE-RXN	CARBON-DIOXIDE	EC-1.2.3.4	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106446</a>		PWY-6697	OXALATE-OXIDASE-RXN			
+OXALATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102233</a>		PWY-6698	OXALATE-DECARBOXYLASE-RXN			
+RXN-19736	CARBON-DIOXIDE	EC-7.2.4.2				RXN-19736			
+PEPCARBOXYKIN-RXN	CARBON-DIOXIDE	EC-4.1.1.49	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103099</a>		PWY-7117 // GLUCONEO-PWY // PWY-561	PEPCARBOXYKIN-RXN			
+4.1.1.38-RXN	CARBON-DIOXIDE	EC-4.1.1.38	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106483</a>			4.1.1.38-RXN			
+4.1.1.32-RXN	CARBON-DIOXIDE	EC-4.1.1.32	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102487</a>		PWY-7383 // PWY66-399	4.1.1.32-RXN			
+OXALODECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.112	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102097</a>		1.1.1.39-RXN // MALIC-NADP-RXN // PWY-6339 // METHYLGALLATE-DEGRADATION-PWY // P184-PWY	OXALODECARB-RXN			
+RXN-12481	CARBON-DIOXIDE	EC-4.1.1.32	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106653</a>		PWY-7383	RXN-12481			
+RXN-8642	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR105305</a>		ISOCITDEH-RXN	RXN-8642			
+OXALYL-COA-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102239</a>		PWY-7985	OXALYL-COA-DECARBOXYLASE-RXN			
+RXN-22495	CARBON-DIOXIDE	EC-3.5.1.137				RXN-22495			
+FATTY-ACID-PEROXIDASE-RXN	CARBON-DIOXIDE	EC-1.11.1.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107133</a>			FATTY-ACID-PEROXIDASE-RXN			
+RXN-19211	CARBON-DIOXIDE	EC-4.1.1.106				RXN-19211			
+RXN-13254	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117975</a>			RXN-13254			
+RXN-17257	CARBON-DIOXIDE	EC-2.3.1.M8	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120785</a>			RXN-17257			
+SERINE-C-PALMITOYLTRANSFERASE-RXN	CARBON-DIOXIDE	EC-2.3.1.50	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104347</a>		SPHINGOLIPID-SYN-PWY	SERINE-C-PALMITOYLTRANSFERASE-RXN			
+1.14.20.1-RXN	CARBON-DIOXIDE	EC-1.14.20.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109465</a>		PWY-5631	1.14.20.1-RXN			
+RXN-13751	CARBON-DIOXIDE	EC-1.14.11.36	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113513</a>			RXN-13751			
+RXN-12660	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR113511</a>		RXN-13751 // PWY-6915	RXN-12660			
+RXN-12655	CARBON-DIOXIDE	EC-1.14.11	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113512</a>		RXN-13751 // PWY-6915	RXN-12655			
+RXN-20182	CARBON-DIOXIDE	EC-1.14.11.77				RXN-20182			
+RXN-17175	CARBON-DIOXIDE	EC-1.14.13.218	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114870</a>			RXN-17175			
+RXN-20391	CARBON-DIOXIDE	EC-4.1.1.119				RXN-20391			
+PHENGLYOXRED-RXN	CARBON-DIOXIDE	EC-1.2	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116120</a>		PWY-1341	PHENGLYOXRED-RXN			
+1.2.1.58-RXN	CARBON-DIOXIDE	EC-1.2.1.58	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107514</a>			1.2.1.58-RXN			
+BENZOYLFORMATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107162</a>		PWY-8161 // PWY-1501	BENZOYLFORMATE-DECARBOXYLASE-RXN			
+3.1.1.82-RXN	CARBON-DIOXIDE	EC-3.1.1.82	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139663</a>		PWY-5098	3.1.1.82-RXN			
+RXN-15545	CARBON-DIOXIDE	EC-4.1.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119436</a>		PWY-7510	RXN-15545			
+RXN-17526	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR120976</a>	T		RXN-17526			
+1.14.11.18-RXN	CARBON-DIOXIDE	EC-1.14.11.18	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109782</a>			1.14.11.18-RXN			
+RXN-2541	CARBON-DIOXIDE	EC-2.5.1.115	<a href='https://www.metanetx.org/equa_info/~A'>MNXR100629</a>		PWY-1422	RXN-2541			
+7KAPSYN-RXN	CARBON-DIOXIDE	EC-2.3.1.47	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95854</a>		PWY-6578	7KAPSYN-RXN			
+RXN-21593	CARBON-DIOXIDE	EC-2.3.1			PWY-8166	RXN-21593			
+RXN-22921	CARBON-DIOXIDE	EC-2.3.1			PWY-8343	RXN-22921			
+RXN-13383	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118056</a>		PWY-7045	RXN-13383			
+3.1.1.78-RXN	CARBON-DIOXIDE	EC-3.1.1.78	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109863</a>		PWY-5301	3.1.1.78-RXN			
+RXN-16086	CARBON-DIOXIDE	EC-1.14.20	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119834</a>		PWY-7599	RXN-16086			
+RXN-20851	CARBON-DIOXIDE	EC-1.14.11			PWY-8080	RXN-20851			
+RXN-20852	CARBON-DIOXIDE	EC-1.14.11			PWY-8080	RXN-20852			
+RXN-13384	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118057</a>	T	PWY-7045	RXN-13384			
+RXN-21990	CARBON-DIOXIDE					RXN-21990			
+RXN-16263	CARBON-DIOXIDE	EC-4.1.1.100	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114243</a>		PWY-7626	RXN-16263			
+PREPHENATEDEHYDRAT-RXN	CARBON-DIOXIDE	EC-4.2.1.51	<a href='https://www.metanetx.org/equa_info/~A'>MNXR126086</a>		PWY-7432	PREPHENATEDEHYDRAT-RXN			
+PREPHENATEDEHYDROG-RXN	CARBON-DIOXIDE	EC-1.3.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103121</a>		PWY-7303 // TYRSYN	PREPHENATEDEHYDROG-RXN			
+PREPHENATE-DEHYDROGENASE-NADP+-RXN	CARBON-DIOXIDE	EC-1.3.1.13	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103122</a>			PREPHENATE-DEHYDROGENASE-NADP+-RXN			
+RXN-6266	CARBON-DIOXIDE	EC-1.14.11.21	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109610</a>		PWY-5679	RXN-6266			
+ERYTHRONOLIDE-SYNTHASE-RXN	CARBON-DIOXIDE	EC-2.3.1.94	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106751</a>		PWY-7106	ERYTHRONOLIDE-SYNTHASE-RXN			
+RXN-14846	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118967</a>		PWY-7352	RXN-14846			
+RXN-22493	CARBON-DIOXIDE	EC-3.5.1.137				RXN-22493			
+RXN-19114	CARBON-DIOXIDE	EC-1.14.19.55				RXN-19114			
+PROTOCATECHUATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.63	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106706</a>			PROTOCATECHUATE-DECARBOXYLASE-RXN			
+RXN-13346	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118034</a>	T	PWY-7040	RXN-13346			
+RXN-13347	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR118035</a>	T	PWY-7040	RXN-13347			
+RXN-16832	CARBON-DIOXIDE	EC-4.1.1.60	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120419</a>			RXN-16832			
+RXN-12388	CARBON-DIOXIDE	EC-4.1.1.93	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113198</a>			RXN-12388			
+RXN-15772	CARBON-DIOXIDE	EC-2.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119605</a>			RXN-15772			
+RXN-15771	CARBON-DIOXIDE	EC-2.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119604</a>			RXN-15771			
+RXN-15770	CARBON-DIOXIDE	EC-2.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119603</a>			RXN-15770			
+PYRUFLAVREDUCT-RXN	CARBON-DIOXIDE	EC-1.2.7.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103066</a>		PWY-8303 // PWY-5493 // P23-PWY // PWY-5392	PYRUFLAVREDUCT-RXN			
+RXN-15773	CARBON-DIOXIDE	EC-2.2.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119606</a>			RXN-15773			
+ACETOOHBUTSYN-RXN	CARBON-DIOXIDE	EC-2.2.1.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95260</a>		ILEUSYN-PWY // PWY-5101 // PWY-5103 // PWY-5104	ACETOOHBUTSYN-RXN			
+RXN-11496	CARBON-DIOXIDE	EC-1.2.5.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR116976</a>		PWY-7544 // PWY-7545	RXN-11496			
+RXN0-1134	CARBON-DIOXIDE	EC-1.2.4.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR123105</a>		PYRUVDEHYD-PWY // PYRUVDEH-RXN	RXN0-1134			
+RXN0-2022	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR123129</a>		PWY3O-440	RXN0-2022			
+RXN-15768	CARBON-DIOXIDE	EC-2.2.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119602</a>			RXN-15768			
+RXN-15766	CARBON-DIOXIDE	EC-2.2.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119600</a>			RXN-15766			
+RXN-15767	CARBON-DIOXIDE	EC-2.2.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119601</a>			RXN-15767			
+PYFLAVOXRE-RXN	CARBON-DIOXIDE	EC-1.2.7.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102515</a>			PYFLAVOXRE-RXN			
+PYRUVATE-OXIDASE-COA-ACETYLATING-RXN	CARBON-DIOXIDE	EC-1.2.3.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106433</a>			PYRUVATE-OXIDASE-COA-ACETYLATING-RXN			
+PYRUVDEH-RXN	CARBON-DIOXIDE	EC-1.2.1.104	<a href='https://www.metanetx.org/equa_info/~A'>MNXR102425</a>		PWY-7384 // PWY-7218 // PWY-6886 // GLYCOLYSIS-TCA-GLYOX-BYPASS // PWY-5537 // PWY-5482	PYRUVDEH-RXN			
+PYRUVATE-DEHYDROGENASE-NADP+-RXN	CARBON-DIOXIDE	EC-1.2.1.51	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106432</a>		PWY-6970	PYRUVATE-DEHYDROGENASE-NADP+-RXN			
+DXS-RXN	CARBON-DIOXIDE	EC-2.2.1.7	<a href='https://www.metanetx.org/equa_info/~A'>MNXR97831</a>		PWY-6892 // PWY-6891	DXS-RXN			
+RXN-10065	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116304</a>			RXN-10065			
+RXN-6161	CARBON-DIOXIDE	EC-4.1.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR103379</a>		RXN0-2022 // PWY-6873 // PWY-6330 // PWY3O-440 // PWY-5768 // PWY-5486	RXN-6161			
+1.2.3.3-RXN	CARBON-DIOXIDE	EC-1.2.3.3	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106431</a>			1.2.3.3-RXN			
+RXN-12583	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR102428</a>		RXN-22435 // RXN0-1134	RXN-12583			
+RXN-15769	CARBON-DIOXIDE	EC-2.2.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114440</a>		PWY-7547	RXN-15769			
+RXN-15774	CARBON-DIOXIDE	EC-2.2.1.12	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119607</a>			RXN-15774			
+RXN-11496-YEAST	CARBON-DIOXIDE	EC-1.2.5.1				RXN-11496-YEAST			
+RXN-20251	CARBON-DIOXIDE				RXN-20302	RXN-20251			
+RXN-20298	CARBON-DIOXIDE	EC-4.1.1			PWY-8037	RXN-20298			
+RXN-15718	CARBON-DIOXIDE	EC-2.3.1.244	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119565</a>		PWY-7535	RXN-15718			
+RXN-15894	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119691</a>		PWY-7563	RXN-15894			
+2.3.1.161-RXN	CARBON-DIOXIDE	EC-2.3.1.161	<a href='https://www.metanetx.org/equa_info/~A'>MNXR115068</a>		PWY-7535	2.3.1.161-RXN			
+RXN-16825	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120412</a>		PWY-7687	RXN-16825			
+RXN-14516	CARBON-DIOXIDE	EC-4.1.3.44	<a href='https://www.metanetx.org/equa_info/~A'>MNXR118736</a>		PWY-7286 // PWY-7285	RXN-14516			
+RXN-8766	CARBON-DIOXIDE	EC-2.1.1.196	<a href='https://www.metanetx.org/equa_info/~A'>MNXR111359</a>		PWY-7377	RXN-8766			
+RXN-16241	CARBON-DIOXIDE	EC-2.3.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119966</a>		PWY-7621	RXN-16241			
+RXN-20451	CARBON-DIOXIDE	EC-2.3.1			PWY-8045	RXN-20451			
+SAMDECARB-RXN	CARBON-DIOXIDE	EC-4.1.1.50	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95455</a>		PWY-6834 // ARGSPECAT-PWY	SAMDECARB-RXN			
+RXN-13824	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR140356</a>		PWY-7376 // 2.1.1.132-RXN	RXN-13824			
+RXN-9759	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR122980</a>		PWY-6054	RXN-9759			
+RXN-9756	CARBON-DIOXIDE	EC-4.1.1.M23	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122977</a>		PWY-6055	RXN-9756			
+RXN-11171	CARBON-DIOXIDE	EC-2.3.1.208	<a href='https://www.metanetx.org/equa_info/~A'>MNXR113539</a>		PWY-6418	RXN-11171			
+RXN-11736	CARBON-DIOXIDE	EC-4.1.1.91	<a href='https://www.metanetx.org/equa_info/~A'>MNXR112958</a>		PWY-6636	RXN-11736			
+SALICYLATE-1-MONOOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.13.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106704</a>		PWY-6183	SALICYLATE-1-MONOOXYGENASE-RXN			
+RXN-14406	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR96051</a>		PWY-6141	RXN-14406			
+RXN-20027	CARBON-DIOXIDE	EC-1.14.11.60				RXN-20027			
+RXN-12731	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR117717</a>		PWY-6935	RXN-12731			
+RXN-15805	CARBON-DIOXIDE	EC-4.1.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR119635</a>		PWY-7552 // PWY-7554	RXN-15805			
+RXN-19210	CARBON-DIOXIDE	EC-4.1.1.106				RXN-19210			
+RXN-13244	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR117967</a>			RXN-13244			
+RXN-17186	CARBON-DIOXIDE	EC-2.3.1.252	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120726</a>			RXN-17186			
+RXN-20396	CARBON-DIOXIDE	EC-2.3.1.50			SPHINGOLIPID-SYN-PWY	RXN-20396			
+RXN-17184	CARBON-DIOXIDE	EC-2.3.1.111	<a href='https://www.metanetx.org/equa_info/~A'>MNXR120724</a>			RXN-17184			
+STIPITATONATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.60	<a href='https://www.metanetx.org/equa_info/~A'>MNXR139223</a>		PWY-7687	STIPITATONATE-DECARBOXYLASE-RXN			
+RXN0-299	CARBON-DIOXIDE	EC-1.14.11.17	<a href='https://www.metanetx.org/equa_info/~A'>MNXR104730</a>		PWY0-981	RXN0-299			
+RXN-8147	CARBON-DIOXIDE	EC-1.14.11.31	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109337</a>		PWY-5270	RXN-8147			
+RXN-8149	CARBON-DIOXIDE	EC-1.14.11.32	<a href='https://www.metanetx.org/equa_info/~A'>MNXR109338</a>		PWY-5270	RXN-8149			
+THYMINE-DIOXYGENASE-RXN	CARBON-DIOXIDE	EC-1.14.11.6	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106977</a>			THYMINE-DIOXYGENASE-RXN			
+RXN-19902	CARBON-DIOXIDE	EC-4.1.1.113			PWY-8018	RXN-19902			
+RXN-21278	CARBON-DIOXIDE	EC-4.1.1.M22			PWY-8125	RXN-21278			
+RXN-21078	CARBON-DIOXIDE	EC-4.1.1.102				RXN-21078			
+RXN-20964	CARBON-DIOXIDE	EC-2.3.1.M86				RXN-20964			
+RXN-20998	CARBON-DIOXIDE				PWY-8103 // RXN-20964	RXN-20998			
+RXN-11255	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116808</a>		PWY-6438	RXN-11255			
+RXN-20996	CARBON-DIOXIDE				PWY-5059 // RXN-7645	RXN-20996			
+RXN-19074	CARBON-DIOXIDE	EC-4.1.1			PWY-7931	RXN-19074			
+UDP-GALACTURONATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.67	<a href='https://www.metanetx.org/equa_info/~A'>MNXR124086</a>			UDP-GALACTURONATE-DECARBOXYLASE-RXN			
+UDP-GLUCURONATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.35	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105068</a>		PWY-4821	UDP-GLUCURONATE-DECARBOXYLASE-RXN			
+RXN-7770	CARBON-DIOXIDE	EC-4.1.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106963</a>		PWY-5113	RXN-7770			
+RXN0-1861	CARBON-DIOXIDE	EC-1.1.1.305	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105064</a>		PWY0-1338	RXN0-1861			
+RXN-14397	CARBON-DIOXIDE	EC-1.14.11.49	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114356</a>			RXN-14397			
+RXN-10935	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR116596</a>		PWY-6141	RXN-10935			
+URACIL-5-CARBOXYLATE-DECARBOXYLASE-RXN	CARBON-DIOXIDE	EC-4.1.1.66	<a href='https://www.metanetx.org/equa_info/~A'>MNXR106767</a>			URACIL-5-CARBOXYLATE-DECARBOXYLASE-RXN			
+UREASE-RXN	CARBON-DIOXIDE	EC-3.5.1.5	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105153</a>		PWY-5704	UREASE-RXN			
+RXN-20064	CARBON-DIOXIDE				PWY-8025	RXN-20064			
+ALLOPHANATE-HYDROLASE-RXN	CARBON-DIOXIDE	EC-3.5.1.54	<a href='https://www.metanetx.org/equa_info/~A'>MNXR95786</a>			ALLOPHANATE-HYDROLASE-RXN			
+URETHANASE-RXN	CARBON-DIOXIDE	EC-3.5.1.75	<a href='https://www.metanetx.org/equa_info/~A'>MNXR107461</a>			URETHANASE-RXN			
+RXN-10642	CARBON-DIOXIDE	EC-4.1.1.37	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105141</a>			RXN-10642			
+UROGENDECARBOX-RXN	CARBON-DIOXIDE	EC-4.1.1.37	<a href='https://www.metanetx.org/equa_info/~A'>MNXR105140</a>		HEME-BIOSYNTHESIS-II-1	UROGENDECARBOX-RXN			
+RXN-17381	CARBON-DIOXIDE	EC-1.14.11.52	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114637</a>		PWY-5818	RXN-17381			
+RXN-18623	CARBON-DIOXIDE	EC-1.14.11.20			PWY-5292	RXN-18623			
+RXN-13343	CARBON-DIOXIDE		<a href='https://www.metanetx.org/equa_info/~A'>MNXR114436</a>	T	PWY-7040	RXN-13343			
+RXN-15841	CARBON-DIOXIDE	EC-1.14.11.48	<a href='https://www.metanetx.org/equa_info/~A'>MNXR114231</a>			RXN-15841			
+RXN-22278	CARBON-DIOXIDE				PWY-8249	RXN-22278			
+RXN-21275	CARBON-DIOXIDE	EC-1.14.11.72			PWY-8124	RXN-21275			
+RXN-9777	CARBON-DIOXIDE	EC-7.2.4.1	<a href='https://www.metanetx.org/equa_info/~A'>MNXR122990</a>		PWY-6060	RXN-9777			
