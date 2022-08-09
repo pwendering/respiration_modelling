@@ -1,0 +1,32 @@
+hv_ext
+CO2_ext
+H2O_ext
+Oxygen_ext
+Nitrate_ext
+NH3_ext
+Hydrogen sulfide_ext
+Sulfate_ext
+Enzyme N6-(dihydrolipoyl)lysine_m
+Glucose_ext
+Biomass_biomass
+Sucrose_ext
+Acyl-carrier protein_c
+Acyl-carrier protein_p
+Orthophosphate_ext
+5-Amino-6-(1-D-ribitylamino)uracil_c
+6-Carboxyhexanoate_c
+Sulfur_c
+Folate_biomass
+Riboflavin_biomass
+Biotin_biomass
+Chlorophyll a_biomass
+Ubiquinone_biomass
+Thiamin_biomass
+Nicotinamide_biomass
+CoA_biomass
+Maltose_ext
+L-Glutamate_ext
+L-Glutamine_ext
+L-Aspartate_ext
+L-Alanine_ext
+L-Serine_ext

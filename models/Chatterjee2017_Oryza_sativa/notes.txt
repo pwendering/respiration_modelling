@@ -1,0 +1,5 @@
+Oryza sativa indica
+
+1) changed biomass reaction directionality to sink reactions (given in "Model Files.xls"; sheet "Biomass transporters")
+2) set LB of biomass reactions to zero
+

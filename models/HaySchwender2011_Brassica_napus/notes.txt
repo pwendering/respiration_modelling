@@ -1,0 +1,3 @@
+model for embryo
+
+model in SBML format was copied out of the excel spreadsheet

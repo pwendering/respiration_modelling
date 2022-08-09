@@ -1,0 +1,6 @@
+sbml model file is for autotrophic growth with 200 umol/m2/s photon uptake
+
+also available:
+autotrophic with 100 umol/m2/s
+heterotrophic growth
+mixotropic growth

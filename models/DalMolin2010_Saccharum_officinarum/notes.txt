@@ -1,0 +1,9 @@
+Use biomass reaction formulation from Table III and update metabolite names to match IDs in the metabolic model
+added biomass reaction and sink for biomass
+
+biomassPrecursorCheck showed that nucleotides and desoxynucleotides cannot be produced
+
+added the exchange reactions for the following metabolites, but still no FBA solution:
+S_H_43__c[C_c]
+S_Orthophosphate_c[C_c]
+S_Sulfate_ext[C_ext]

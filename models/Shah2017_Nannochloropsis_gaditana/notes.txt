@@ -1,0 +1,4 @@
+# SBML not valid
+# remove a[0-9]*_ in the closing tag for species, must be </species>:
+
+sed -r 's/\/a[0-9]+:/\//g' Shah2017_iRJ1321_autotroph.xml | sed 's/\r//g' > Shah2017_iRJ1321_autotroph_updated.xml

@@ -1,0 +1,12 @@
+Downloaded from Darwin models on July 7 2022
+http://darwin.di.uminho.pt/models
+
+No biomass reaction found
+
+downloaded Table S1
+
+seeds exported and adapted to match model mets
+biomass exported and adapted to match model mets
+used values given in Table S1 to create a biomass reaction from these metabolites (the ones that were marked as producible)
+
+==> obtained a feasible flux distribution

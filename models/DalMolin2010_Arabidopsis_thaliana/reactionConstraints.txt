@@ -1,0 +1,28 @@
+reactionID	lb	ub	comment
+Ex13	0	0	Glucose_ext
+Ex15	0	0	Maltose_ext
+Ex6	0	0	Glutamate
+Ex7	0	0	Glutamine
+Ex8	0	0	Aspartate
+Ex9	0	0	Alanine
+Ex10	0	0	Serine
+BIO_L	0.11	0.11	Growth Rate
+Ex17	0	0	Sucrose_ext
+R01221_m	0	0	Limite flux through glycine synthase
+R00945_c	0	0	Stop glycine hydroxymethyltransferase
+R05875_p	0	0	constrain for photosynthetic cell
+R00093_p	0	0	GOGAT (NADH) in plastid
+R00114_c	0	0	GOGAT (NADPH) in cytoplasm
+R00343_m	0	0	constrain malate dehydrogenase (NADPH)in mitochondria
+TCX14	-10	10	"citrate transporters (correct high number, cyclic reactions with citate)"
+R00472_x	0	1000	malate syntase -constrained to rev =1;irreversible
+TCM22	0	0	constrain glutamine transport in mitochondria
+TCP27	0	0	constrain glutamine transport in chloroplast
+R00149_p	0	0	carbamoyl-P syn in plastid
+R01398_c	0	0	stop ornithine carbamoyltransferase
+R00243_c	0	1000	constrain reversibility: only in the forward direction cytoplasm
+R00243_m	0	1000	constrain reversibility: only in the forward direction mitoch
+R00253_p	0	1000	GS in the forward direction only
+R00253_m	0	1000	constrain reversibility:GS in the forward direction only
+R00086_c	0	1000	ATP hydrolysis only
+R01752_c	0	0	Constrain cyclic and duplicated reactions to avoid high fluxes
