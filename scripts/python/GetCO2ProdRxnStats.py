@@ -7,7 +7,6 @@ from collections import Counter, OrderedDict
 import seaborn as sns
 import re
 from itertools import compress
-from wordcloud import WordCloud, STOPWORDS
 
 class GetCO2ProdRxnStats:
 
@@ -147,7 +146,7 @@ class GetCO2ProdRxnStats:
         # write results to file
         c_labels = ["EC" + str(i) for i in range(1, 8)]
         inh_per_class_df = pd.DataFrame(inh_per_ec_class_viridiplantae, c_labels).T
-        inh_per_class_df.to_csv('inhibitors_per_ec_class.tsv', sep="\t")
+        inh_per_class_df.to_csv('../../data/inhibitors_per_ec_class.tsv', sep="\t")
 
         # write top ten inhibitors to file
         top_ten_single_string = []
@@ -157,7 +156,7 @@ class GetCO2ProdRxnStats:
             top_ten_single_string.append([labels[i] + " (" + str(data[i]) + ")" for i in range(0, len(labels))])
 
         top_ten_inh_df = pd.DataFrame(top_ten_single_string, c_labels).T
-        top_ten_inh_df.to_csv('top_ten_inhibitors_per_ec_class.tsv', sep="\t")
+        top_ten_inh_df.to_csv('../../data/top_ten_inhibitors_per_ec_class.tsv', sep="\t")
 
     def write_activators(self):
         viridiplantae_idx = [s == 1 for s in self.df['is_viridiplantae']]
@@ -180,7 +179,7 @@ class GetCO2ProdRxnStats:
         # write results to file
         c_labels = ["EC" + str(i) for i in range(1, 8)]
         act_per_class_df = pd.DataFrame(act_per_ec_class_viridiplantae, c_labels).T
-        act_per_class_df.to_csv('activators_per_ec_class.tsv', sep="\t")
+        act_per_class_df.to_csv('../../data/activators_per_ec_class.tsv', sep="\t")
 
         # write top ten activators to file
         top_ten_single_string = []
@@ -190,7 +189,7 @@ class GetCO2ProdRxnStats:
             top_ten_single_string.append([labels[i] + " (" + str(data[i]) + ")" for i in range(0, len(labels))])
 
         top_ten_act_df = pd.DataFrame(top_ten_single_string, c_labels).T
-        top_ten_act_df.to_csv('top_ten_activators_per_ec_class.tsv', sep="\t")
+        top_ten_act_df.to_csv('../../data/top_ten_activators_per_ec_class.tsv', sep="\t")
 
     def plot_kinetic_param(self, ec_level=1, param_type="kcat"):
 

@@ -8,9 +8,8 @@ from pathlib import Path
 
 class TissueGeneExpression:
 
-    def __init__(self, expr_file, tissue_dict_file, org_name="Arabidopsis thaliana", org_id_plantcyc="ARA"):
+    def __init__(self, expr_file, tissue_dict_file):
         self.expr_file = expr_file
-        self.gene_file_name = 'pw_genes.csv'
         self.tissue_expr_file = 'gene_expr_per_tissue.csv'
         self.geneIDs = [
             ["At1g59900", "At5g50850", "At1g24180"],  # EC 1.2.4.1
@@ -47,8 +46,6 @@ class TissueGeneExpression:
             "NAD-ME2 (mit)",
         ]
 
-        self.org_name = org_name
-        self.org_id_plantcyc = org_id_plantcyc
         self.tissue_dict = self.get_tissue_dict(tissue_dict_file)
 
     def get_tissue_dict(self, tissue_dict_file):
@@ -60,7 +57,7 @@ class TissueGeneExpression:
                 tissue_dict[split[1].strip()] = split[0]
         return tissue_dict
 
-    def create_expr_df(self, pathways=None, org=None, database="plantcyc"):
+    def create_expr_df(self):
         df_orig = pd.read_csv(self.expr_file, sep=";")
 
         print("Creating file for tissue-specific expression")
@@ -145,56 +142,8 @@ class TissueGeneExpression:
 
         ax.ax_row_dendrogram.set_visible(False)
         ax.ax_col_dendrogram.set_visible(False)
-        # plt.subplots_adjust(left=0.5, bottom=0.33, right=0.9, top=0.9, wspace=0.2, hspace=0.2)
         ax.figure.tight_layout()
-        # plt.show()
         plt.savefig("tissue_gene_expression_z_score", dpi=300, bbox_inches='tight')
-
-    def plot_diff_expr(self):
-
-
-        # read file with tissue-specific expression
-        p = Path(self.expr_file)
-        if not p.exists():
-            print("Expression data file not found")
-            exit(1)
-        else:
-            expr_df = pd.read_csv(self.tissue_expr_file)
-
-        plt.rcParams['font.family'] = "Arial"
-
-        for i in range(0, len(self.enzymes)):
-            ax = sb.violinplot(data=expr_df[expr_df['enzyme'] == self.enzymes[i]],
-                               x='enzyme',
-                               y='ibaq',
-                               hue='tissue',
-                               palette='pastel')
-            ax.get_legend().remove()
-            # ax.set_xticklabels([pw_names[i]], fontsize=14)
-            ax.set_xticklabels('')
-            ax.text(0.01, 0.95, self.enzymes[i], transform=ax.transAxes)
-            # ax.set_ylabel(r'$\mathrm{log_{2}\ Expression}$', fontsize=14)
-            ax.set_ylabel('')
-            ax.set_xlabel('')
-
-            for pos in ['right', 'top']:
-                ax.spines[pos].set_visible(False)
-            plt.subplots_adjust(left=0.04, bottom=0.1, right=0.98, top=0.9, wspace=0.2, hspace=0.2)
-            plt.tight_layout()
-
-            f = plt.gcf()
-            f.set_size_inches(cm2inch(20), cm2inch(8))
-            f.savefig('tissue_prot_expression_' + self.enzymes[i] + '.png', dpi=300, bbox_inches='tight')
-
-            if i < len(self.enzymes)-1:
-                plt.clf()
-
-        ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.1),
-                  ncol=4, fancybox=True, shadow=True)
-        f = plt.gcf()
-        f.set_size_inches(cm2inch(20), cm2inch(8))
-        f.savefig('tissue_prot_expression_legend.png', dpi=300, bbox_inches='tight')
-
 
 
 def cm2inch(cm):
