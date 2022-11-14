@@ -1,5 +1,5 @@
-% Determine net CO2 assimilation, carbon use efficiency, and maximum CO2
-% release/assimilation
+% Determine net CO2 assimilation, carbon use efficiency, maximum CO2
+% release/assimilation, and growth respiration
 
 clear;clc
 
@@ -126,8 +126,8 @@ end
 
 %% Solve FBA and extract flux sum through CO2 producing (and consuming) reactions
 % COBRA solver parameters
-changeCobraSolverParams('LP', 'feasTol', 1e-9)
-changeCobraSolverParams('MILP', 'feasTol', 1e-9)
+changeCobraSolverParams('LP', 'feasTol', 1e-9);
+changeCobraSolverParams('MILP', 'feasTol', 1e-9);
 changeCobraSolverParams('MILP', 'timeLimit', 180);
 
 sum_co2_prod = nan(numel(models), 1);
@@ -157,7 +157,7 @@ for i=1:numel(models)
     fba_sol = optimizeCbModel(model, 'max', 'one', false);
     bio_opt = fba_sol.f;
     if bio_opt > 0
-        % save sum up CO2 producing and consuming fluxes
+        % save sum of CO2-producing and consuming fluxes      
         sum_co2_prod(i) = sum(fba_sol.x(co2_prod_idx));
         sum_co2_cons(i) = sum(fba_sol.x(co2_cons_idx));
         model_flux{i} = fba_sol.x;
@@ -222,8 +222,9 @@ nz_idx = ~cellfun(@isempty, model_flux);
 net_fixation = sum_co2_cons - sum_co2_prod;
 net_fixation(net_fixation<1e-9) = 0;
 
+growth_respiration = sum_co2_prod;
 dark_resp = v_c_flux(nz_idx) - 0.5*v_o_flux(nz_idx) - net_fixation(nz_idx);
-cue = 1 - dark_resp ./ v_c_flux(nz_idx);
+cue = 1 - (0.5*v_o_flux + dark_resp) ./ v_c_flux(nz_idx);
 
 %% plot results
 x_lab = strrep(organisms_uniq(nz_idx), '_', ' ');
@@ -235,71 +236,134 @@ for i=1:numel(x_lab)
     end
 end
 
-letter_coords = [-0.17, 0.965];
-letter_fz = 20;
+letter_coords = [-0.12, 0.965];
+letter_fz = 10;
+axis_fz = 8;
+ylab_x_pos = -6.5;
 bg = [1 1 1];
 lw = 1.3;
 tl = [0.01 0.01];
+plot_pos = [0.3 0.6 0.1];
 
-tiledlayout(2, 2, 'Padding', 'none', 'TileSpacing', 'compact')
+close all
+figure
 
 % CO2 fixation in FBA solution
-nexttile
+subplot(5,1,1)
 bar(net_fixation(nz_idx), 'FaceColor', [.3 .4 .6])
-ylabel({'Net CO_2 assimilation', '[mmol/gDW/h]'})
-xticks(NaN)
 y_lim = get(gca, 'YLim');
-y_lim(1) = 5e-6;
-ylim(y_lim)
-set(gca, 'FontSize', 14, 'FontName', 'Arial', 'YScale', 'log',...
+ylabel({'A_{net} (pFBA)', '[mmol/gDW/h]'})
+hYLabel = get(gca,'YLabel');
+set(hYLabel,'rotation',0,'HorizontalAlignment','left',...
+    'VerticalAlignment', 'middle', 'Position', [ylab_x_pos 0.5*y_lim(2)],...
+    'Units', 'normalized')
+xticks(NaN)
+set(gca, 'FontSize', axis_fz, 'FontName', 'Arial', 'YScale', 'log',...
     'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
+yticks = logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 4);
+set(gca, 'YTick', logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 4),...
+    'YTickLabel', strtrim(cellstr(num2str(round(log10(yticks(:))), '10^{%d}'))))
 text(letter_coords(1), letter_coords(2), 'a', 'units', 'normalized',...
     'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
+axh = gca();
+axh.Position([1 3 4]) = plot_pos;
+axh.Position(2) = axh.Position(2) + 0.08;
 
 % carbon use efficiency
-nexttile
+subplot(5,1,2)
 bar(cue, 'FaceColor', [.3 .4 .6])
-ylabel('Carbon use efficiency')
-xticks(NaN)
 y_lim = get(gca, 'YLim');
-y_lim(1) = 1e-4;
 y_lim(2) = 1.3*max(cue(~isinf(cue)));
 ylim(y_lim)
-set(gca, 'FontSize', 14, 'FontName', 'Arial', 'YScale', 'log',...
+ylabel('CUE (pFBA)')
+hYLabel = get(gca,'YLabel');
+set(hYLabel,'rotation',0,'HorizontalAlignment','left',...
+    'VerticalAlignment', 'middle', 'Position', [ylab_x_pos 0.5*y_lim(2)],...
+    'Units', 'normalized')
+xticks(NaN)
+set(gca, 'FontSize', axis_fz, 'FontName', 'Arial', 'YScale', 'log',...
     'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
+yticks = logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 5);
+set(gca, 'YTick', logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 5),...
+    'YTickLabel', strtrim(cellstr(num2str(round(log10(yticks(:))), '10^{%d}'))))
 text(letter_coords(1), letter_coords(2), 'b', 'units', 'normalized',...
     'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
+axh = gca();
+axh.Position([1 3 4]) = plot_pos;
+axh.Position(2) = axh.Position(2) + 0.08;
 
 % maximum CO2 release
-nexttile
+subplot(5,1,3)
 bar(max_co2_prod(nz_idx), 'FaceColor', [.3 .4 .6])
-ylabel({'Maximum CO_2 release', '[mmol/gDW/h]'})
-xticks(1:sum(nz_idx))
-xticklabels(x_lab)
-xtickangle(45)
-set(gca, 'FontSize', 14, 'FontName', 'Arial', 'YScale', 'log',...
-    'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
-text(letter_coords(1), letter_coords(2), 'c', 'units', 'normalized',...
-    'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
 y_lim = get(gca, 'YLim');
-y_lim(1) = 5e-3;
 y_lim(2) = 1.3*max(max_co2_prod(nz_idx));
 ylim(y_lim)
 
+ylabel({'R_{net}^{max}', '[mmol/gDW/h]'})
+hYLabel = get(gca,'YLabel');
+set(hYLabel,'rotation',0,'HorizontalAlignment','left',...
+    'VerticalAlignment', 'middle', 'Position', [ylab_x_pos 0.5*y_lim(2)],...
+    'Units', 'normalized')
+xticks(NaN)
+
+set(gca, 'FontSize', axis_fz, 'FontName', 'Arial', 'YScale', 'log',...
+    'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
+yticks = logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 7);
+set(gca, 'YTick', logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 7),...
+    'YTickLabel', strtrim(cellstr(num2str(round(log10(yticks(:))), '10^{%d}'))))
+text(letter_coords(1), letter_coords(2), 'c', 'units', 'normalized',...
+    'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
+axh = gca();
+axh.Position([1 3 4]) = plot_pos;
+axh.Position(2) = axh.Position(2) + 0.08;
+
 % maximum CO2 fixation
-nexttile
+subplot(5,1,4)
 bar(max_co2_cons(nz_idx), 'FaceColor', [.3 .4 .6])
-ylabel({'Maximum CO_2 fixation', '[mmol/gDW/h]'})
+y_lim = get(gca, 'YLim');
+ylabel({'A_{net}^{max}', '[mmol/gDW/h]'})
+hYLabel = get(gca,'YLabel');
+set(hYLabel,'rotation',0,'HorizontalAlignment','left',...
+    'VerticalAlignment', 'middle', 'Position', [ylab_x_pos 0.5*y_lim(2)],...
+    'Units', 'normalized')
+xticks(NaN)
+y_lim(2) = 1.3*max(max_co2_cons(nz_idx));
+ylim(y_lim)
+set(gca, 'FontSize', axis_fz, 'FontName', 'Arial', 'YScale', 'log',...
+    'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
+yticks = logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 8);
+set(gca, 'YTick', logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 8),...
+    'YTickLabel', strtrim(cellstr(num2str(round(log10(yticks(:))), '10^{%d}'))))
+text(letter_coords(1), letter_coords(2), 'd', 'units', 'normalized',...
+    'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
+axh = gca();
+axh.Position([1 3 4]) = plot_pos;
+axh.Position(2) = axh.Position(2) + 0.08;
+
+% growth respiration
+subplot(5,1,5)
+bar(growth_respiration(nz_idx), 'FaceColor', [.3 .4 .6])
+y_lim = get(gca, 'YLim');
+ylabel({'R_g', '[mmol/gDW/h]'})
+hYLabel = get(gca,'YLabel');
+set(hYLabel,'rotation',0,'HorizontalAlignment','left',...
+    'VerticalAlignment', 'middle', 'Position', [ylab_x_pos 0.5*y_lim(2)],...
+    'Units', 'normalized')
 xticks(1:sum(nz_idx))
 xticklabels(x_lab)
 xtickangle(45)
-y_lim = get(gca, 'YLim');
-y_lim(1) = 1;
 y_lim(2) = 1.3*max(max_co2_cons(nz_idx));
 ylim(y_lim)
-set(gca, 'FontSize', 14, 'FontName', 'Arial', 'YScale', 'log',...
+set(gca, 'FontSize', axis_fz, 'FontName', 'Arial', 'YScale', 'log',...
     'Box', 'off', 'Color', bg, 'linewidth', lw, 'TickLength', tl)
-text(letter_coords(1), letter_coords(2), 'd', 'units', 'normalized',...
+yticks = logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 8);
+set(gca, 'YTick', logspace(log10(y_lim(1)+1e-6),log10(y_lim(2)), 8),...
+    'YTickLabel', strtrim(cellstr(num2str(round(log10(yticks(:))), '10^{%d}'))))
+text(letter_coords(1), letter_coords(2), 'e', 'units', 'normalized',...
     'FontSize', letter_fz, 'FontWeight', 'bold', 'FontName', 'Arial')
+axh = gca();
+axh.Position([1 3 4]) = plot_pos;
+axh.Position(2) = axh.Position(2) + 0.08;
 
-set(gcf, 'OuterPosition', [159.6667 -103.6667  951.3333  808.0000])
+set(gcf, 'OuterPosition', [589.0000   45.6667  464.0000  653.3333])
+exportgraphics(gcf, fullfile('..', '..', 'figures', 'resp_anet_cue_models.png'))

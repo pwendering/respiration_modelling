@@ -239,6 +239,30 @@ set(gca,...
     'Box', 'off',...
     'TickLength',[0.01, 0.01])
 
+%% heatmap
+labels = strrep(organisms_uniq(non_empty_idx), '_', ' ');
+labels_split = cellfun(@strsplit, labels, 'un', 0);
+for i=1:numel(labels)
+    labels{i} = ['{\it' strjoin(labels_split{i}([1 2]), ' ') '}'];
+    if numel(labels_split{i}) > 2
+        labels{i} = [labels{i} ' ' strjoin(labels_split{i}(3:end), ' ')];
+    end
+end
+
+figure
+lk = linkage(ec_ji_pairwise, 'average', 'cityblock');
+[~, ~, perm] = dendrogram(lk);
+
+subplot(1,2,2)
+heatmap(ec_ji_pairwise(numel(labels):-1:1,perm),...
+    'Colormap', summer, 'XDisplayLabels', labels(perm),...
+    'YDisplayLabels', repmat({''}, size(labels)))
+
+annotation('textarrow',[.926,.926],[0.95,0.95],'string','JI', ...
+      'HeadStyle','none','LineStyle','none','HorizontalAlignment',...
+      'center');
+exportgraphics(gcf, 'co2_perc_and_pairwise_ji_co2_ec.png', 'Resolution', 300)
+
 function mnx = getMNX(rxn_ids, source, db_table)
 
 if strcmp(source, 'kegg')

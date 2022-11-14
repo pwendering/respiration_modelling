@@ -158,6 +158,7 @@ bar(100*ec_perc(non_empty_idx),...
     'Horizontal', true)
 
 y_lab = strrep(organisms_uniq(non_empty_idx), '_', ' ');
+
 y_lab_split = cellfun(@strsplit, y_lab, 'un', 0);
 for i=1:numel(y_lab)
     y_lab{i} = ['{\it' strjoin(y_lab_split{i}([1 2]), ' ') '}'];
@@ -171,9 +172,11 @@ xticks(0:20:60)
 xlabel('Percentage')
 
 set(gca,...
-    'FontSize', 14,...
     'Box', 'off',...
     'TickLength',[0.01, 0.01])
+%'FontSize', 14,...
+
+
 
 function mnx = getMNX(rxn_ids, source, db_table)
 
