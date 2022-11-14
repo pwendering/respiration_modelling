@@ -6,12 +6,12 @@ import numpy as np
 from pathlib import Path
 
 
-class TissueGeneExpression:
+class TissueProteinExpression:
 
     def __init__(self, expr_file, tissue_dict_file, org_name="Arabidopsis thaliana", org_id_plantcyc="ARA"):
         self.expr_file = expr_file
         self.gene_file_name = 'pw_genes.csv'
-        self.tissue_expr_file = 'gene_expr_per_tissue.csv'
+        self.tissue_expr_file = 'prot_expr_per_tissue.csv'
         self.geneIDs = [
             ["At1g59900", "At5g50850", "At1g24180"],  # EC 1.2.4.1
             ["At1g30120", "At1g01090", "At2g34590"],  # EC 1.2.4.1
@@ -67,9 +67,9 @@ class TissueGeneExpression:
 
         tissues_uniq = list(set(self.tissue_dict.keys()))
 
-        # create dataframe with columns: gene_id, tpm, tissue, pathway
+        # create dataframe with columns: gene_id, ibaq, tissue, pathway
         gene_ids = []
-        tpm = []
+        ibaq = []
         tissues = []
         enzymes = []
 
@@ -83,17 +83,17 @@ class TissueGeneExpression:
                 if g_id in [x.lower() for x in self.geneIDs[j]]:
                     # loop over tissues
                     for k in range(0, len(tissues_uniq)):
-                        t_idx = df_orig.columns.str.fullmatch("TPM_" + tissues_uniq[k])
+                        t_idx = df_orig.columns.str.fullmatch("iBAQ_" + tissues_uniq[k])
                         ibaq_val = df_orig.iloc[i, t_idx][0]
 
                         if not np.isnan(ibaq_val):
                             gene_ids.append(g_id)
-                            tpm.append(ibaq_val)
+                            ibaq.append(ibaq_val)
                             enzymes.append(self.enzymes[j])
                             tissues.append(self.tissue_dict[tissues_uniq[k]])
 
         df_new = pd.DataFrame.from_dict({'gene_id': gene_ids,
-                                         'tpm': tpm,
+                                         'ibaq': ibaq,
                                          'tissue': tissues,
                                          'enzyme': enzymes})
 
@@ -110,8 +110,8 @@ class TissueGeneExpression:
 
                 row_idx = [enz_bool[idx] and ts_bool[idx] for idx in range(0, len(enz_bool))]
                 if np.any(row_idx):
-                    values = df.iloc[row_idx]['tpm']
-                    mat[i, j] = np.min(values)
+                    values = df.iloc[row_idx]['ibaq']
+                    mat[i, j] = np.min(np.power(2, values))
                 else:
                     mat[i, j] = 0  # np.nan
         return mat
@@ -137,7 +137,7 @@ class TissueGeneExpression:
 
         x0, _y0, _w, _h = ax.cbar_pos
         ax.ax_cbar.set_position([0.9, 0.15, ax.ax_row_dendrogram.get_position().width, 0.02])
-        ax.ax_cbar.set_title("row Z-score tpm")
+        ax.ax_cbar.set_title("row Z-score iBAQ")
         ax.ax_cbar.tick_params(axis='x', length=10)
         for spine in ax.ax_cbar.spines:
             ax.ax_cbar.spines[spine].set_color('crimson')
@@ -148,7 +148,7 @@ class TissueGeneExpression:
         # plt.subplots_adjust(left=0.5, bottom=0.33, right=0.9, top=0.9, wspace=0.2, hspace=0.2)
         ax.figure.tight_layout()
         # plt.show()
-        plt.savefig("tissue_gene_expression_z_score", dpi=300, bbox_inches='tight')
+        plt.savefig("tissue_prot_expression_z_score", dpi=300, bbox_inches='tight')
 
     def plot_diff_expr(self):
 
