@@ -3,10 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib as mpl
 from matplotlib import pyplot
-from collections import Counter
+from collections import Counter, OrderedDict
 import seaborn as sns
 import re
 from itertools import compress
+from wordcloud import WordCloud, STOPWORDS
 
 class GetCO2ProdRxnStats:
 
@@ -248,8 +249,7 @@ class GetCO2ProdRxnStats:
 
         ax.set_xlabel('EC class', fontsize=14)
         ax.get_legend().remove()
-        #pyplot.legend(loc='lower right',
-        #          frameon=False)
+
         pyplot.subplots_adjust(left=0.13, bottom=0.3, right=0.5, top=0.762, wspace=0.2, hspace=0.2)
 
         f = pyplot.gcf()
@@ -271,62 +271,51 @@ class GetCO2ProdRxnStats:
         all_locations = [sub_item for item in all_locations for sub_item in item]
         all_locations = [re.sub('\[.*\]:','',s) for s in all_locations]
 
-        '''comps = ['Cytoplasm', 'Mitochondrion', 'Endoplasmic reticulum lumen',
-                 'Endoplasmic reticulum membrane', 'Nucleus', 'Peroxisome', 'Secreted',
-                 'Chloroplast']'''
-        comps = ['Cytoplasm', 'Mitochondrion', 'Endoplasmic reticulum',
-                 'Membrane', 'Nucleus', 'Peroxisome', 'Secreted',
+        comps = ['Cytoplasm', 'Membrane', 'Mitochondrion', 'Endoplasmic reticulum',
+                 'Nucleus', 'Peroxisome', 'Secreted',
                  'Chloroplast']
-        for i in range(0,len(all_locations)):
+        all_locations_replaced = all_locations.copy()
+        for i in range(0,len(all_locations_replaced)):
             found = False
             for j in range(0,len(comps)):
-                if not found and (comps[j].lower() in all_locations[i].lower()):
-                    all_locations[i] = comps[j]
+                if not found and (comps[j].lower() in all_locations_replaced[i].lower()):
+                    all_locations_replaced[i] = comps[j]
                     found = True
 
-        c = Counter(all_locations)
+        c_all = Counter(all_locations)
 
-        print([(i, round(c[i] / len(all_locations) * 100.0, 2)) for i in c])
-
-        val = list(c.values())
-        lab = list(c.keys())
-
-        # sort again by grouping all membrane compartments together
-        m_lab = []
-        m_val = []
-        for i in range(0, len(val)):
-            if lab[i].lower().find('membrane') >= 0 and lab[i].lower().find('endoplasmic') < 0:
-                m_lab.insert(0, lab[i])
-                m_val.insert(0, val[i])
-            else:
-                m_lab.append(lab[i])
-                m_val.append(val[i])
-
-        # group ER localizations together
-        er_m_lab = []
-        er_m_val = []
-        for i in range(0, len(val)):
-            if m_lab[i].lower().find('endoplasmic reticulum') >= 0:
-                er_m_lab.insert(0, m_lab[i])
-                er_m_val.insert(0, m_val[i])
-            else:
-                er_m_lab.append(m_lab[i])
-                er_m_val.append(m_val[i])
-
-        er_m_lab = [er_m_lab[i] for i in range(0, len(er_m_val)) if er_m_val[i] > 1]
-        er_m_val = [x for x in er_m_val if x > 1]
+        c_all_rep = Counter(all_locations_replaced)
+        c_all_rep = OrderedDict(c_all_rep.most_common())
+        print([(i, round(c_all_rep[i] / len(all_locations_replaced) * 100.0, 2)) for i in c_all_rep])
+        val = list(c_all_rep.values())
+        lab = list(c_all_rep.keys())
 
         colors = sns.color_palette('pastel')[0:len(val)]
-        pyplot.pie(er_m_val,
-                   labels=er_m_lab,
-                   textprops={'fontsize': 10, 'fontname': 'Arial'},
-                   colors=colors,
-                   explode = [0 for i in range(len(er_m_val))])
+        ax = sns.barplot([val[i] for i in range(0, len(lab)) if val[i] > 1],
+                         [lab[i] for i in range(0, len(lab)) if val[i] > 1],
+                         palette=colors)
+        ax.set_xlabel("Number of Enzymes")
 
-        pyplot.tight_layout()
-        pyplot.gca().set_position([0, 0, 1, 1])
-        pyplot.savefig("co2_prod_localization.svg")
-        # pyplot.show()
+        pyplot.savefig("barplot_loc_all.svg", format="svg", bbox_inches='tight')
+        pyplot.close()
+
+        membrane_comps = []
+        for i in range(0, len(all_locations)):
+            if all_locations_replaced[i].lower().find('membrane') >= 0:
+                membrane_comps.append(all_locations[i])
+
+        c_mem = Counter(membrane_comps)
+        c_mem = OrderedDict(c_mem.most_common())
+        val = list(c_mem.values())
+        lab = list(c_mem.keys())
+        colors = sns.color_palette('pastel')[0:len(val)]
+        ax = sns.barplot([val[i] for i in range(0, len(lab)) if val[i] > 1],
+                         [lab[i] for i in range(0, len(lab)) if val[i] > 1],
+                         palette=colors)
+        ax.set_xlabel("Number of Enzymes")
+
+        pyplot.savefig("barplot_loc_membrane.svg", format="svg", bbox_inches='tight')
+        pyplot.close()
 
 def get_ec_level_1():
     return {
