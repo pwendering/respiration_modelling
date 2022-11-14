@@ -1,0 +1,31 @@
+tissue_name	tissue_short name
+Sepal	SP
+Petal	PT
+Stamen	ST
+Carpel	CP
+Silique	SQ
+Embryo	EB
+Seed	SD
+Seed imbibed	SDIMB
+Pollen	P
+Node	ND
+Internode	IND
+Cauline leaf	CLLF
+Leaf distal	LFD
+Leaf proximal	LFP
+Leaf petiole	LFPT
+Senescent leaf	SCLF
+Root	RT
+Flower pedicle	FLPD
+Flower	FL
+Silique septum	SQSP
+Silique valves	SQV
+Egg-cell like callus	RKD2
+Callus	CIM
+Cell culture early	CC3
+Cell culture late	CC10
+Cotyledons	CT
+Hypocotyl	HY
+Root tip	RTTP
+Root upper zone	RTUZ
+Shoot tip	CTSAM
