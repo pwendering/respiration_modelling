@@ -5,7 +5,6 @@ top_model_dir = fullfile('..', '..', 'models');
 
 tmp = load(fullfile(top_model_dir, 'models.mat'));
 [models, model_publications, organisms_uniq] = deal(tmp.models, tmp.model_publications, tmp.organisms_uniq);
-
 non_empty_idx = find(~cellfun(@isempty,models));
 
 ec_nums = cell(numel(non_empty_idx), 1);
@@ -150,8 +149,20 @@ end
 
 %% plot results
 % first subplot, the second one will be added by 'compare_ec_resp_models'
+
+% read phylogenetic tree based on rbcl sequences that is used to re-order the labels
+% and percentages
+tree = phytreeread(fullfile('..','..','data','rbcl_seqs','rbcl_tree.phylo.io.nwk'));
+tax_sorted_labels = regexprep(get(tree, 'LeafNames'), '^\d+_', '');
+tax_sorted_labels = strrep(tax_sorted_labels, 'Chlorella_vulgaris',...
+    'Chlorella_vulgaris_UTEX_395');
+tax_sorted_labels(ismember(tax_sorted_labels, setdiff(organisms_uniq,organisms_uniq(non_empty_idx)))) = [];
+reorder_idx = cellfun(@(x)find(contains(organisms_uniq(non_empty_idx),x)), tax_sorted_labels);
+reorder_idx = reorder_idx(numel(reorder_idx):-1:1);
+
 subplot(1,2,1)
-bar(100*ec_perc(non_empty_idx),...
+ec_perc_non_empty = ec_perc(non_empty_idx);
+bar(100*ec_perc_non_empty(reorder_idx),...
     'FaceColor', [.3 .4 .6],...
     'FaceAlpha', .8,...
     'EdgeColor', [.6 .6 .6],...
@@ -166,16 +177,16 @@ for i=1:numel(y_lab)
         y_lab{i} = [y_lab{i} ' ' strjoin(y_lab_split{i}(3:end), ' ')];
     end
 end
+
+
 yticks(1:numel(non_empty_idx))
-yticklabels(y_lab)
+yticklabels(y_lab(reorder_idx))
 xticks(0:20:60)
 xlabel('Percentage')
 
 set(gca,...
     'Box', 'off',...
     'TickLength',[0.01, 0.01])
-%'FontSize', 14,...
-
 
 
 function mnx = getMNX(rxn_ids, source, db_table)

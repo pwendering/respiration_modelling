@@ -4,9 +4,7 @@
 top_model_dir = fullfile('..', '..', 'models');
 tmp = load(fullfile(top_model_dir, 'models.mat'));
 [models, model_publications, organisms_uniq] = deal(tmp.models, tmp.model_publications, tmp.organisms_uniq);
-
 non_empty_idx = find(~cellfun(@isempty,models));
-
 
 % find CO2 ID in each model
 co2_ids = repmat({''}, numel(models), 1);
@@ -222,6 +220,7 @@ for i=1:numel(non_empty_idx)
 end
 
 %% plot results
+%{
 subplot(1,2,2)
 nan_idx = isnan(ec_ji);
 
@@ -238,7 +237,7 @@ set(gca,...
     'FontSize', 14,...
     'Box', 'off',...
     'TickLength',[0.01, 0.01])
-
+%}
 %% heatmap
 labels = strrep(organisms_uniq(non_empty_idx), '_', ' ');
 labels_split = cellfun(@strsplit, labels, 'un', 0);
@@ -249,19 +248,25 @@ for i=1:numel(labels)
     end
 end
 
-figure
-lk = linkage(ec_ji_pairwise, 'average', 'cityblock');
-[~, ~, perm] = dendrogram(lk);
+% figure
+
+% read phylogenetic tree based on rbcl sequences and re-order the labels
+tree = phytreeread(fullfile('..','..','data','rbcl_seqs','rbcl_tree.phylo.io.nwk'));
+tax_sorted_labels = regexprep(get(tree, 'LeafNames'), '^\d+_', '');
+tax_sorted_labels = strrep(tax_sorted_labels, 'Chlorella_vulgaris',...
+    'Chlorella_vulgaris_UTEX_395');
+tax_sorted_labels(ismember(tax_sorted_labels, setdiff(organisms_uniq,organisms_uniq(non_empty_idx)))) = [];
+reorder_idx = cellfun(@(x)find(contains(organisms_uniq(non_empty_idx),x)), tax_sorted_labels);
 
 subplot(1,2,2)
-heatmap(ec_ji_pairwise(numel(labels):-1:1,perm),...
-    'Colormap', summer, 'XDisplayLabels', labels(perm),...
+heatmap(ec_ji_pairwise(reorder_idx,reorder_idx),...
+    'Colormap', summer, 'XDisplayLabels', labels(reorder_idx),...
     'YDisplayLabels', repmat({''}, size(labels)))
 
 annotation('textarrow',[.926,.926],[0.95,0.95],'string','JI', ...
       'HeadStyle','none','LineStyle','none','HorizontalAlignment',...
       'center');
-exportgraphics(gcf, 'co2_perc_and_pairwise_ji_co2_ec.png', 'Resolution', 300)
+exportgraphics(gcf, '../../figures/co2_perc_and_pairwise_ji_co2_ec.png', 'Resolution', 300)
 
 function mnx = getMNX(rxn_ids, source, db_table)
 

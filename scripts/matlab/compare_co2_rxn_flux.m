@@ -54,7 +54,6 @@ v_c = {
     'RBPCh',...                                     Gerlin2022
     'RBPCh',...                                     Imam2015
     'RUBISC_h',...                                  Levering2016
-    'Ar0065',...                                    Klanchui2018
     'RBPCh'...                                      Loira2017
     'RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN_p',...   Moreira2019
     'META45956',...                                 Prigent2014
@@ -72,7 +71,6 @@ v_o = {
     'RBCh_1',...                                    Gerlin2022
     'RBCh',...                                      Imam2015
     'RUBISO_h',...                                  Levering2016
-    'Ar0066',...                                    Klanchui2018
     'RBCh',...                                      Loira2017
     'RXN-961_p',...                                 Moreira2019
     'META51505',...                                 Prigent2014
@@ -80,9 +78,6 @@ v_o = {
     'RXN-961_p',...                                 ShawCheung2019
     'RBCh',...                                      Zuniga2016
     };
-
-% Klanchui2018: Ar0064 is carboxylation and oxygenation combined with a
-% ratio
 
 %% constrain oxygenation to carboxylation ratio
 s_co = [
@@ -100,7 +95,7 @@ phi = mean(phi_array);
 phi_tol = 2 * std(phi_array);
 
 for i=1:numel(models)
-    if ~contains(organisms_uniq{i}, {'Chlamydomonas', 'Chlorella'})
+    if ~contains(organisms_uniq{i}, {'Chlamydomonas', 'Chlorella', 'Ectocarpus'})
         model = models{i};
         % fix ratio between RUBISCO carbocylation and oxygenation within a
         % tolerated range
