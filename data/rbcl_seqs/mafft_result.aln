@@ -1,0 +1,590 @@
+CLUSTAL format alignment by MAFFT (v7.511)
+
+
+Arabidopsi ------------------------------------------------------------
+Brassica_n ------------------------------------------------------------
+Glycine_ma ------------------------------------------------------------
+Populus_tr ------------------------------------------------------------
+Quercus_su atga--------------------------------------------------------
+Solanum_ly ------------------------------------------------------------
+Solanum_tu ------------------------------------------------------------
+Medicago_t ------------------------------------------------------------
+Oryza_sati ------------------------------------------------------------
+Saccharum_ ------------------------------------------------------------
+Sorghum_bi ------------------------------------------------------------
+Zea_mays   ------------------------------------------------------------
+Setaria_vi ------------------------------------------------------------
+Chlamydomo ------------------------------------------------------------
+Chlorella_ ------------------------------------------------------------
+Ectocarpus ------------------------------------------------------------
+Phaeodacty tttataatctatgttaaggatgttataatgttagttaaggttgttaagattaactcaacc
+Nannochlor ------------------------------------------------------------
+Nannochlor ------------------------------------------------------------
+                                                                       
+
+Arabidopsi ------------------------------------------------------------
+Brassica_n ------------------------------------------------------------
+Glycine_ma ------------------------------------------------------------
+Populus_tr ------------------------------------------------------------
+Quercus_su -----------------------------------------------------gtcgtag
+Solanum_ly ------------------------------------------------------------
+Solanum_tu ------------------------------------------------------------
+Medicago_t ------------------------------------------------------------
+Oryza_sati ------------------------------------------------------------
+Saccharum_ ------------------------------------------------------------
+Sorghum_bi ------------------------------------------------------------
+Zea_mays   ------------------------------------------------------------
+Setaria_vi ------------------------------------------------------------
+Chlamydomo ------------------------------------------------------------
+Chlorella_ ------------------------------------------------------------
+Ectocarpus ------------------------------------------------------------
+Phaeodacty gacagaactaattttttaaaattagttaaatatctactatatattgcctttttattccaa
+Nannochlor ------------------------------------------------------------
+Nannochlor ------------------------------------------------------------
+                                                                       
+
+Arabidopsi ----------atgtcaccacaaacagagactaaagc---------aagtgttgggttcaa
+Brassica_n ----------atgtcaccacaaacagagactaaagc---------aagtgttggattcaa
+Glycine_ma ----------atgtcaccacaaacagagactaaagc---------aagtgttgggttcaa
+Populus_tr ----------atgtcaccacaaacagagactaaagc---------aggtgttggattcaa
+Quercus_su ggagggacttatgtcaccacaaacagagactaaagc---------aagtgttggattcaa
+Solanum_ly ----------atgtcaccacaaacagagactaaagc---------aagtgttggattcaa
+Solanum_tu ----------atgtcaccacaaacagagactaaagc---------aagtgttggattcaa
+Medicago_t ----------atgtcaccacaaacagaaactaaagc---------aacggttgggttcaa
+Oryza_sati ----------atgtcaccacaaacagaaactaaagc---------aagtgttggatttaa
+Saccharum_ ----------atgtcaccacaaacagaaactaaagc---------aagtgttggatttaa
+Sorghum_bi ----------atgtcaccacaaacagaaactaaagc---------aagtgttggatttaa
+Zea_mays   ----------atgtcaccacaaacagaaactaaagc---------aagtgttggatttaa
+Setaria_vi ----------atgtcaccacaaacagaaactaaagc---------aagtgttggatttaa
+Chlamydomo ----------atggttccacaaacagaaactaaagc---------aggtgctggattcaa
+Chlorella_ ----------atgtctccacaaactgaaactaaagc---------aagggtgggtttcaa
+Ectocarpus ----------atgcctgaagatgtgcaaaatcgaactcgaataaaaagtgaacgttatga
+Phaeodacty ggagaaatcaatgtctcaatctgtatcagaacggactcgaattaaaagtgaccgttacga
+Nannochlor ----------atgtttcaatctgtagaagaaagaacacgtattaaaaacgaacgttatga
+Nannochlor ----------atgtttcaatctgtagaagaaagaacacgtattaaaaacgaacgttatga
+                     *** .   *   ..   ..   ...*         *.  *   * * ..*
+
+Arabidopsi agctggtgttaaagagta---taaattgacttactatactcctgaatatgaaaccaagga
+Brassica_n agctggtgttaaagagta---taaattgaattattatactcctgaatatgaaaccaagga
+Glycine_ma agctggtgttaaagatta---taaattgacttattatactcctgactatgaaaccaaaga
+Populus_tr ggctggtgttaaagatta---taaattgacttattatactcctgactatgaaaccaaaga
+Quercus_su agctggtgttaaagatta---taaattgacttattatactcctgactatcaaaccaaaga
+Solanum_ly agctggtgttaaagagta---caaattgacttattatactcctgagtaccaaaccaagga
+Solanum_tu agctggtgttaaagagta---caaattgacttattatactcctgagtaccaaaccaagga
+Medicago_t agctggtgttaaagatta---tcgattgacttattatactcctgactatgaaaccaaaga
+Oryza_sati agctggtgttaaggatta---taaattgacttactacaccccggagtacgaaaccaagga
+Saccharum_ agctggtgttaaggatta---taaattgacttactacaccccggagtacgaaaccaagga
+Sorghum_bi agctggtgttaaggatta---taaattgacttactacaccccggagtacgaaaccaagga
+Zea_mays   agctggtgttaaggatta---taaattgacttactacaccccggagtacgaaaccaagga
+Setaria_vi agctggtgttaaggatta---taaattgacttactacaccccggagtacgaaaccaagga
+Chlamydomo agccggtgtaaaagacta---ccgtttaacatactacacacctgattacgtagtaagaga
+Chlorella_ agcaggtgttaaagacta---ccgtttaacttactatactcctgattaccaaccaaaaga
+Ectocarpus atcaggtgttatcccatatgccaaaatgggatattgggatgctgattataacgttaaaga
+Phaeodacty atctggtgtaattccttatgctaagatgggttactgggatgctgcttatgcagtaaaaaa
+Nannochlor atcaggtgtaatcccttacgctgaaatgggttattgggatgcaaactacacaattaaaga
+Nannochlor atcaggtgtaatcccttacgctgaaatgggttattgggatgcaaactacacaattaaaga
+           . * ***** *     **   . .  *..  **.*. .   * .  **.    . *...*
+
+Arabidopsi tactgatatcttggcagcattccgagtaactcctcaacctggagttccacctgaagaagc
+Brassica_n tactgatatcttggcagcattccgagtaactcctcaacccggagttccacctgaagaagc
+Glycine_ma tactgatatcttggcagcattccgagtaactcctcaaccaggagttccgcctgaagaagc
+Populus_tr tactgatatcttggcagcattccgagtaactcctcaacctggagttccgcccgaggaagc
+Quercus_su tactgatatcttggcagccttccgagtaactcctcaacctggagttccgcccgaggaagc
+Solanum_ly tactgatatattagcagcattccgagtaactcctcaacctggagttccacctgaagaagc
+Solanum_tu tactgatatattggcagcattccgagtaactcctcaacctggagttccacctgaagaagc
+Medicago_t tactgatatcttggcagcattccgagtaagtcctcaacctggagttccggctgaagaagc
+Oryza_sati cactgatatcttggcagcattccgagtaactcctcagccgggggttccgcccgaagaagc
+Saccharum_ tactgatatcttggcagcattccgagtaactcctcagctcggggttccgcctgaagaagc
+Sorghum_bi tactgatatcttggcagcattccgagtaactcctcagctcggggttccgcctgaagaagc
+Zea_mays   tactgatatcttggcagcattccgagtaactcctcagctcggggttccgcctgaagaagc
+Setaria_vi tactgatatcttggcagcattccgagtaactcctcagcccggggttccgcctgaagaagc
+Chlamydomo tactgatattttagctgcattccgtatgactccacaactaggtgttccacctgaagaatg
+Chlorella_ cactgatattcttgcagcgttccgtatgactcctcaaccaggtgttccaccagaagaagc
+Ectocarpus tactgatattctagctctttttcgtatcactccacaaccaggcgtagatcccgttgaagc
+Phaeodacty cactgatgttttagcattattccgtatcacaccacaaccaggtgtagatccagtagaagc
+Nannochlor tactgatgtacttgcattattccgtattactccacaaccaggggttgatccaattgaagc
+Nannochlor tactgaagtacttgcattattccgtattactccacaaccaggggttgatccaattgaagc
+           .***** .* .* **  . **.** .* *  ** **.*. ** **     * .  ***  
+
+Arabidopsi aggggctgcggtagctgctgaatcttctactggtacatggacaactgtgtggaccgatgg
+Brassica_n aggggctgcggtagctgctgaatcttctactggtacatggacaactgtgtggaccgatgg
+Glycine_ma aggtgccgcggtagccgccgaatcttctactggtacatggacaactgtgtggaccgatgg
+Populus_tr aggggccgcagtagctgctgaatcttctactggtacatggacaactgtgtggaccgacgg
+Quercus_su aggggccgcggtagctgctgaatcttccactgggacatggacaactgtgtggactgacgg
+Solanum_ly aggggccgcggtagctgccgaatcttctactggtacatggacaactgtatggaccgatgg
+Solanum_tu aggggccgcggtagctgccgaatcttctactggtacatggacaactgtatggaccgatgg
+Medicago_t aggtgcagcggtagctgccgaatcttccactgggacatggacaaccgtgtggaccgatgg
+Oryza_sati aggggctgcagtagctgccgaatcttctactggtacatggacaactgtttggactgatgg
+Saccharum_ aggagctgcagtagctgcggaatcttctactggtacatggacaactgtttggactgatgg
+Sorghum_bi aggagctgcagtagctgcggaatcttctactggtacatggacaactgtttggactgatgg
+Zea_mays   aggagctgcagtagctgcggaatcttctactggtacatggacaactgtttggactgatgg
+Setaria_vi aggggctgcagtagctgcggaatcttctactggtacatggacaactgtttggactgatgg
+Chlamydomo tggtgctgctgtagctgctgaatcttcaacaggtacatggactacagtatggactgacgg
+Chlorella_ gggtgcggcagtagcagcagaatcatcaactggtacttggacgactgtatggactgatgg
+Ectocarpus tgcagcagctgttgccggtgaatcttctactgcaacatggacagtggtttggacagattt
+Phaeodacty tgctgcagctgtagctggtgaatcatctactgcaacatggactgttgtatggactgattt
+Nannochlor cgctgctgccatcgctggtgaatcttcaacagctacatggactgtagtatggactgactt
+Nannochlor cgctgctgccatcgttggtgaatcttcaacaggtacatggactgtagtatggactgactt
+            *  ** ** .* *. *  ***** ** ** *  ** ***** .. ** ***** **.  
+
+Arabidopsi gcttaccagccttgatcgttacaaaggacgatgctaccacatcgagcccgttccaggaga
+Brassica_n gcttaccagccttgaccgttacaaaggacgatgctaccacatcgagcccgttccaggaga
+Glycine_ma gcttaccagtcttgatcgttacaaagggcgatgctacggccttgaacctgttgctgggga
+Populus_tr gcttaccagtcttgatcgttataagggacgatgctacgacatcgagcccgttgctggaga
+Quercus_su gcttaccagtcttgatcgttacaaaggacgatgctaccacatcgagccggttgctggaga
+Solanum_ly acttaccagtcttgatcgttacaaagggcgatgctaccgcatcgagcgcgttgttggaga
+Solanum_tu acttaccagtcttgatcgttacaaagggcgatgctaccgcatcgagcgtgttgttggaga
+Medicago_t acttaccagtcttgatcgttataaaggacgctgctaccacatcgaacctgttgctggaga
+Oryza_sati acttaccagtcttgatcgttacaaaggccgatgctatcacatcgagcccgttgttgggga
+Saccharum_ acttaccagtcttgatcgttacaaaggacgatgctatcacatcgagcccgttcctgggga
+Sorghum_bi acttaccagtcttgatcgttacaaaggacgatgctatcacatcgagcccgttcctgggga
+Zea_mays   acttaccagtcttgatcgttacaaaggacgatgctatcacatcgagcccgttcctgggga
+Setaria_vi acttaccagtcttgatcgttacaaaggacgatgctatcacatcgagcccgttcctgggga
+Chlamydomo tttaacaagtcttgaccgttacaaaggtcgttgttacgatatcgaaccagttccgggtga
+Chlorella_ tttaactagtttagaccgttacaaaggtcgttgttatgacatcgagcctgttccaggtga
+Ectocarpus attaactgcttgtgatatctatagagcaaaagcatatagagtagatccagtaccaggcac
+Phaeodacty attaacagcttgtgatcgttaccgtgctaaagcttaccgtgtagatccagttccaaatac
+Nannochlor attaacagcttgtgatgtttacagagcaaaagcttataaagttgattcagttccaggtac
+Nannochlor attaacagcttgtgatgtttacagagcaaaagctaataaagttgattcagtttcaggtac
+            .* ** . ..  **.  .**. . *   .     *. .  * ** .  **  . .. . 
+
+Arabidopsi agaaactcaatttattgcgtatgtagcttatcccttagacctttttgaagaaggttcggt
+Brassica_n agaaactcaatttattgcgtatgtagcttacccattagacctttttgaagaagggtctgt
+Glycine_ma agaaaatcaatatattgcttatgtagcttatcccttagacctttttgaagaaggttctgt
+Populus_tr agaaaatcaatttattgcttatgtagcttaccccttagacctttttgaagaaggttctgt
+Quercus_su agaaaatcaatttattgcttatgtagcttaccccttagacctctttgaagaaggttctgt
+Solanum_ly aaaagatcaatatattgcttatgtagcttaccctttagacctttttgaagaaggttccgt
+Solanum_tu aaaagatcaatatattgcttatgtagcttaccctttagacctttttgaagaaggttccgt
+Medicago_t agagagtcaatttattgcttatgtagcttatcccttagacctttttgaagaaggttctgt
+Oryza_sati ggataatcaatatatcgcttatgtagcttatccattagacctatttgaagagggttctgt
+Saccharum_ cccagatcaatatatctgttatgtagcttatccattagacctatttgaagagggttctgt
+Sorghum_bi cccagatcaatatatctgttatgtagcttatccattagacctatttgaagagggttctgt
+Zea_mays   cccagatcaatatatctgttatgtagcttatccattagacctatttgaagagggttctgt
+Setaria_vi ggcagatcaatatatctgttatatagcttatccattagacctatttgaagagggttctgt
+Chlamydomo agacaaccaatacattgcttacgtagcttacccaatcgacttattcgaagaaggttcagt
+Chlorella_ agaaaatcaatacatcgcgtatattgcatatcctttagacctttttgaagaaggatctgt
+Ectocarpus aagtgatcaattctttgcttatatagcttatgaatgtgatttatttgaagaaggttctct
+Phaeodacty aactgatcaatacttcgcttttatcgcatatgaatgtgatttatttgaagaaggttcttt
+Nannochlor tagcgaccaattcttcggttacgttgcatatgaatgtgacctttttgaagaaggttcaat
+Nannochlor tagcgaccaattcttcggttacgttgcatatgaatgtgacctttttgaggaaggttcaat
+               . .**** . *.   * ..* ** **.      **..* **.**.**.** **  *
+
+Arabidopsi tactaacatgtttacctcgattgtgggtaatgtatttgggttcaaagccctggctgctct
+Brassica_n tactaacatgtttacctcaattgtgggtaacgtatttgggttcaaagccctggctgctct
+Glycine_ma tactaacatgtttacttccattgtcggtaatgtatttgggttcaaggccctgcgtgctct
+Populus_tr tactaacatgtttacttccattgtgggtaatgtatttgggttcaaagccctacgcgctct
+Quercus_su tactaacatgtttacttccattgtgggtaatgtatttggattcaaggccctgcgcgctct
+Solanum_ly taccaatatgtttacttccattgtaggtaacgtatttgggttcaaagccctgcgcgctct
+Solanum_tu taccaatatgcttacttccattgtaggtaacgtatttgggttcaaagccctgcgcgctct
+Medicago_t tactaacatgtttacctccattgtaggtaatgtatttgggttcaaggccttgcgtgctct
+Oryza_sati tactaacatgtttacttccattgtgggtaacgtatttggtttcaaagccctacgcgctct
+Saccharum_ tactaacatgtttacttccattgtgggtaacgtatttggtttcaaagccttacgcgctct
+Sorghum_bi tactaacatgtttacttccattgtgggtaacgtatttggtttcaaagccttacgcgctct
+Zea_mays   tactaacatgtttacttccattgtgggtaacgtatttggtttcaaagccttacgcgctct
+Setaria_vi tactaacatgtttacttccattgtgggtaacgtgtttggtttcaaagccctacgcgctct
+Chlamydomo aactaacatgttcacttctattgtaggtaacgtattcggtttcaaagctttacgtgctct
+Chlorella_ aacaaacttatttacttcaattgtagggaacgtttttggtttcaaagctcttcgtgcttt
+Ectocarpus tgctaacttaacagcatctattattggtaacgtttttgggttcaaagctgttaaagcgtt
+Phaeodacty agctaacttaacagcttctattattggtaacgtattcggtttcaaagctgtatctgcgtt
+Nannochlor cgctaacttaacggcttcaatcatcggtaacgtatttggattcaaagctgtaaaagcgtt
+Nannochlor cgataacttaacggcttcaatcatcggtaacgtatttggattcaaagctgtaaaagcgtt
+            .  **. *. . .* ** **..* ** **.** **.** *****.**. *    ** .*
+
+Arabidopsi acgtctagaggatctgcgaatccctcctgcttatactaaaactttccaaggaccacctca
+Brassica_n acgtctagaggatctgcgaatccctccggcttatactaaaactttccagggaccacctca
+Glycine_ma acgtctggaggatttgcgaatccctactgcttatattaaaactttccaaggtccgcctca
+Populus_tr acgtctggaggatttgcgaattcctcctgcttatgttaaaacttttcaaggcccacctca
+Quercus_su acgtctggaggatttgcgaatccctacttcttattctaaaactttccaaggtccgcctca
+Solanum_ly acgtctggaagatctgcgaatccctcctgcttatgttaaaactttccaaggtccgcctca
+Solanum_tu acgtctggaagatctgcgaatccctgttgcttatgttaaaactttccaaggcccgcctca
+Medicago_t acgtctggaagatttgcgaatccccgttgcttatgttaaaactttccaaggtcctcctca
+Oryza_sati acgtctggaggatctgcgaattccccctacttattcaaaaactttccaaggtccgcctca
+Saccharum_ acgtttggaggatctacgaattccccctgcttatgtaaaaactttccaaggtccgcctca
+Sorghum_bi acgtttggaggatctacgaattccccctgcttatgtaaaaactttccaaggtccgcctca
+Zea_mays   acgtttggaggatctacgaattccccctgcttattcaaaaactttccaaggtccgcctca
+Setaria_vi acgtttggaggatctacgaattcccactgcttatgcaaaaactttccaaggtccgcctca
+Chlamydomo acgtcttgaagaccttcgtattccacctgcttacgttaaaacattcgtaggtcctccaca
+Chlorella_ acgtttagaagatcttcgtattccaccagcatacgtgaaaactttccaaggtcctcctca
+Ectocarpus acgtttagaagatatgagaatcccttatgcttacttaaaaactttccaaggcccagcaac
+Phaeodacty acgtttagaagatatgcgtatccctcattcttacttaaaaacgttccaaggtcctgctac
+Nannochlor acgtcttgaagatatgcgtatgccttatgcttacttaaaaacattccaaggaccagctac
+Nannochlor acgtcttgaagatatgcgtatgccttatgcttacttaaaaacattccaaggaccagctac
+           ****.* **.**. *  * ** **     * **. . ***** **.  .** **  *   
+
+Arabidopsi tggtatccaagttgaaagagataaattgaacaagtatggacgtcccctattaggatgtac
+Brassica_n tggtatccaagttgaaagagataaattgaacaagtatggacgtcccctattaggatgtac
+Glycine_ma tggcatccaagttgagagagataaattgaacaagtatggtcgtcccctattaggatgtac
+Populus_tr tggtatccaagttgaaagagataaattgaacaagtatggtcgccccctattgggctgtac
+Quercus_su tggcatccaagttgagagggataaattaaacaagtatggccgccccctattaggatgtac
+Solanum_ly tgggatccaagttgaaagagataaattgaacaagtatggtcgtcccctgttgggatgtac
+Solanum_tu tgggatccaagttgaaagagataaattgaacaagtatggtcgtcccctgttgggatgtac
+Medicago_t cggaatccaagttgagagagataaattgaacaaatatggacgtcccctattgggatgtac
+Oryza_sati tggtatccaagttgaaagggataagttgaacaaatacggtcgtcctttattgggatgtac
+Saccharum_ cggtatccaagttgaaagggataagttgaacaagtacggtcgtcctttattgggatgtac
+Sorghum_bi cggtatccaagttgaaagggataagttgaacaagtacggtcgtcctttattgggatgtac
+Zea_mays   cggtatccaagttgaaagggataagttgaacaagtacggtcgtcctttattgggatgtac
+Setaria_vi cggtatccaagttgaaagggataagttgaacaagtatggtcgtcctttattgggatgtac
+Chlamydomo cggtattcaggtagaacgtgacaaattaaacaaatatggtcgtggtcttttaggttgtac
+Chlorella_ cggtattcaagtagaacgtgataaacttaacaaatacggtcgtggtttattaggttgtac
+Ectocarpus aggtgtggttgtggaaagagaaaggttagataaatttggtcgtccttttttaggagctac
+Phaeodacty tggtgtaattgtagaacgtgaacgtttaaacaaatatggtattccattattaggtgctac
+Nannochlor tggtgtgattgttgaacgtgagcgtttagacaaattcggacgtcctctattaggtgcaac
+Nannochlor tggtgtgattgttgaacgtgagcgtttagacaaattcggacgtcctctattaggtgcaac
+            ** .*    ** **. * **  . .* .*.**.* .**   .   .* **.**    **
+
+Arabidopsi tattaaaccaaaattggggttatccgcgaaaaactatggtagagcagtttatgaatgtct
+Brassica_n tattaaacctaagttggggttatccgcgaagaactatggtagagcagtttatgaatgtct
+Glycine_ma tattaaacctaaattggggttatccgctaagaattatggtagagctgtttatgaatgtct
+Populus_tr tattaaacctaaattggggttatccgctaagaattacggtagagcagtttatgaatgtct
+Quercus_su tattaaacctaaattgggattatccgctaagaattacggtagagcagtttatgaatgtct
+Solanum_ly tattaaacctaaattggggttatctgcaaaaaactacggtagagctgtttatgaatgtct
+Solanum_tu tattaaacctaaattggggttatctgcaaaaaactacggtagagctgtttatgaatgtct
+Medicago_t tattaaacctaaattgggtttatccgctaaaaattacggtagagcagtttatgaatgtct
+Oryza_sati tattaaaccaaaattgggattatctgcaaaaaattatggtagagcatgttatgagtgtct
+Saccharum_ tattaaaccaaaattgggattatccgcaaaaaattacggtagagcgtgttatgagtgtct
+Sorghum_bi tattaaaccaaaattgggattatccgcaaaaaattacggtagagcgtgttatgagtgtct
+Zea_mays   tattaaaccaaaattgggattatccgcaaaaaattacggtagagcgtgttatgagtgtct
+Setaria_vi tattaaaccaaaattgggattatccgcaaaaaattacggtagagcgtgttatgagtgtct
+Chlamydomo aatcaaacctaaattaggtctttcagctaaaaactacggtcgtgcagtttatgaatgttt
+Chlorella_ aattaaaccaaaattaggtctttcagctaaaaactacggtcgtgctgtatacgaatgttt
+Ectocarpus tgtaaaacctaaattaggtctttctggtaaaaactatggccgtgttgtttatgaaggttt
+Phaeodacty agtaaaacctaaattaggtttatctggtaaaaactatggtcgtgtagtttatgaaggttt
+Nannochlor tgtaaaaccaaaattaggtttatcaggtaaaaactatgggcgtgttgtttatgaaggttt
+Nannochlor tgtaaaaccaaaattaggtttatcaggtaaaaactatgggcgtgttgtttatgaaggttt
+            .* ***** **.**.** .* ** *  **.**.**.**  * *.    **.**. **.*
+
+Arabidopsi acgtggtggacttgattttaccaaagatgatgagaatgtgaactcccaaccatttatgcg
+Brassica_n acgtggtggacttgattttaccaaagatgatgagaatgtgaactctcaaccatttatgcg
+Glycine_ma tcgtgggggacttgattttaccaaagatgatgaaaatgtgaattcccaaccatttatgcg
+Populus_tr acgcggtggacttgattttaccaaagatgatgagaacgtgaactcccaaccatttatgcg
+Quercus_su ccgcggtgggcttgattttaccaaagatgatgagaacgttaattcccaaccatttatgcg
+Solanum_ly tcgcggtggacttgattttaccaaagatgatgagaacgtgaactcacaaccatttatgcg
+Solanum_tu tcgcggtggacttgattttaccaaagatgatgagaacgtgaactcacaaccatttatgcg
+Medicago_t acgtggtggacttgattttaccaaagatgatgaaaatgtgaactcccaaccatttatgcg
+Oryza_sati acgcggtggacttgattttaccaaagatgatgaaaacgtaaactcacaaccatttatgcg
+Saccharum_ acgcggtggacttgattttaccaaagatgatgaaaacgtaaactcacaaccatttatgcg
+Sorghum_bi acgcggtggacttgattttaccaaagatgatgaaaacgtaaactcacaaccatttatgcg
+Zea_mays   acgcggtggacttgattttaccaaagatgatgaaaacgtaaactcacaaccatttatgcg
+Setaria_vi acgcggtggacttgattttaccaaagatgatgaaaacgtaaactcacaaccatttatgcg
+Chlamydomo acgtggtggtcttgactttactaaagacgacgaaaacgtaaactcacaaccattcatgcg
+Chlorella_ acgtggtgggcttgatttcacaaaagatgatgaaaacgtaaactctcaaccatttatgcg
+Ectocarpus aacaggtggtcttgacttccttaaggatgatgaaaatattaattcacaaccatttatgcg
+Phaeodacty aaaaggtggtttagacttcttaaaagatgatgagaatattaactcacaacccttcatgcg
+Nannochlor aaaaggtggattagacttcttaaaagatgacgaaaacatcaactctcaaccattcatgcg
+Nannochlor aaaaggtggattagacttcttaaaagatgacgaaaacatcaactctcaaccattcatgcg
+               ** ** .* **.**. . **.**.**.**.**..* **.** ***** **.*****
+
+Arabidopsi ttggagagaccgtttcttattttgtgccgaagctatttataaatcacaggctgaaacagg
+Brassica_n ttggagagaccgtttcttattttgtgccgaagctatttataaatcacaggctgaaacagg
+Glycine_ma ttggagagaccgtttcttattttgtgccgaagccatttttaaatcacaggctgaaacagg
+Populus_tr ttggagagatcgtttcttattttgtgccgaagcactttataaagcacaggctgaaaccgg
+Quercus_su ttggagagaccgtttcctattttgtgccgaagcaatttataaagcgcaggctgaaacagg
+Solanum_ly ttggagagatcgtttcttattttgtgccgaagcactttttaaagcacagactgaaacagg
+Solanum_tu ttggagagatcgtttcttattttgtgccgaagcactttttaaagcacaggctgaaacagg
+Medicago_t ttggagagaccgtttcttattttgtgccgaagctatttataaagcacaggccgaaactgg
+Oryza_sati ttggagggaccgttttgtcttttgtgccgaagctatttataaatcacaggccgaaaccgg
+Saccharum_ ctggagagaccgttttgtcttttgtgccgaagcaatttataaagcacaagccgaaaccgg
+Sorghum_bi ctggagagaccgttttgtcttttgtgccgaagcaatttataaagcacaagccgaaaccgg
+Zea_mays   ctggagagaccgtttcgtcttttgtgccgaagcaatttataaagcacaagccgaaactgg
+Setaria_vi ctggagagaccgttttgtcttttgtgctgaagcaatttataaagcacaagcagaaactgg
+Chlamydomo ttggcgtgaccgtttccttttcgttgctgaagctatttacaaagctcaagcagaaacagg
+Chlorella_ ttggagagatcgtttcttatttgttgctgaagctatttacaaatctcaagctgaaactgg
+Ectocarpus ttggaaggaacgtttcttatactgtatggaaggtgttaaccgggctgcagctgcaacagg
+Phaeodacty ttggagagaacgtttcttatactgtatggaaggtattaatcgcgcttctgcagctacagg
+Nannochlor ctggcgcgaacgtttctcttatgtaatggaaggtgttaacagatcagcagcagcttctgg
+Nannochlor ctggcgcgaacgtttctcttatgtaatggaaggtgttaacagatcagcagcagcttctgg
+           .*** . ** *****. . * .   .. ****   **  . .  *    .* *   * **
+
+Arabidopsi tgaaatcaaagggcattatttgaatgctactgcgggtacatgcgaagaaatgatcaaaag
+Brassica_n tgaaatcaaaggacattatttgaatgctactgcgggtacatgcgaagaaatgatgaaaag
+Glycine_ma tgaaatcaaagggcattacttgaatgcaactgcgggtacatgcgaagaaatgatgaaaag
+Populus_tr tgaaatcaaagggcattatttaaacgctactgcaggtacatgcgaagaaatgatcaaaag
+Quercus_su cgaaatcaaagggcattacttgaatgctactgcaggtacatgcgaagaaatgatcaaaag
+Solanum_ly tgaaatcaaagggcattacttgaatgctactgcaggtacatgcgaagaaatgatcaaaag
+Solanum_tu tgaaatcaaagggcattacttgaatgctactgcaggtacatgcgaagaaatgatgaaaag
+Medicago_t tgaaatcaaaggacattatttgaatgctactgcgggcacctgtgaagacatgatgaaaag
+Oryza_sati tgaaattaaggggcattacttgaatgcgactgcaggtacatgcgaagaaatgattaaaag
+Saccharum_ tgaaatcaaggggcattacttgaatgcgactgcaggtacatgcgaagaaatgattaagag
+Sorghum_bi tgaaatcaaggggcattacttgaatgcgactgcaggtacatgcgaagaaatgattaagag
+Zea_mays   tgaaatcaaggggcattacttgaatgcgactgcaggtacatgcgaagaaatgattaagag
+Setaria_vi tgaaattaaggggcattacttgaatgcgactgcaggtacatgcgaagaaatgattaagag
+Chlamydomo tgaagttaaaggtcactacttaaacgctactgctggtacttgtgaagaaatgatgaaacg
+Chlorella_ tgaaattaaaggtcactatttaaacgcaacggcagctacagcagaagcaatgatgcaacg
+Ectocarpus tgaagttaaaggttcttatcttaacattacagctgcaactgtagagcaaatgtatgaacg
+Phaeodacty tgaaactaaaggttcatacctaaacatcacagctggtactatggaagaagtttacaaacg
+Nannochlor cgaagttaaaggttcttaccttaatgttacagcggctactatggaagaaatgtatgaacg
+Nannochlor tgaagttaaaggttcttaccttaatgttacagcagccactatggaagaaatgtacgaacg
+           .***...**.** .  **..* **... ** ** *  **    **.   .*     *. *
+
+Arabidopsi agctgtatttgccagagaattgggagttcctatcgtaatgcatgactacttaacaggggg
+Brassica_n agctatatttgccagagaattgggagttcctatcgtaatgcatgactacttaacaggggg
+Glycine_ma agctgtatttgccagagaattaggcgttcctatcgtaatgcatgattatttaacgggggg
+Populus_tr ggctgtatttgccagagaattgggagttcctatcgtaatgcatgactacttaacaggggg
+Quercus_su ggctgtatttgccagagaactgggagctcccatcgtaatgcatgactacttaaccggagg
+Solanum_ly agctgtatttgctagagaattgggcgttccgatcgtaatgcatgactacttaacgggggg
+Solanum_tu agctgtatttgctagagaattgggcactccgatcgtaatgcatgactacttaacgggggg
+Medicago_t agctgtatttgctagagaattgggcgtgcctatcgtaatgcatgactacttaaccggtgg
+Oryza_sati agctgtatttgcgagggaattaggggttcctattgtaatgcatgactacttaaccggggg
+Saccharum_ agctgtatttgcaaaggaattaggggttcctattgtaatgcatgactacttaacaggagg
+Sorghum_bi agctgtatttgcaaaggaattaggggttcctattgtaatgcatgactacttaacaggagg
+Zea_mays   agctgtatttgcaagggaattaggggttcctattgtaatgcatgactacttaacaggagg
+Setaria_vi agctgcatttgcaagggaattaggggttcctattgtaatgcatgactacttaactggagg
+Chlamydomo tgcagtatgtgctaaagaattaggtgtacctattattatgcacgactacttaacaggtgg
+Chlorella_ tgctgaatgtgcgaaagatttaggtgtacctattattatgcacgattacttaactggtgg
+Ectocarpus tgcagaatatgctcatgcgattggttcagttattgttatgatcg---atttagttattgg
+Phaeodacty tgcagaatatgctaaaacagtaggttctatcgttgttatgatcg---atttagttatggg
+Nannochlor tgctgaatttgcgaaacttattggttcagtaattatcatgattg---acttagtgattgg
+Nannochlor tgctgaatttgcaaaacttattggttcagtaattatcatgatcg---acttagtgattgg
+            ** . ** ***  .     * **  .  . .*..* ***  .*   *.***.. .  **
+
+Arabidopsi attcaccgcaaatactagtttgtctcattattgccgagataatggcctacttcttcacat
+Brassica_n attcaccgcaaatactagtttggctcattattgccgagataatggcctacttcttcacat
+Glycine_ma attcactgcaaatactagcttggctcattattgccgagataatggtctacttcttcatat
+Populus_tr attcaccgcaaacactagtttggctcattattgccgagataatggtttacttcttcacat
+Quercus_su gttcactgcaaatactagcttggctcattattgccgagataatggtctacttcttcacat
+Solanum_ly atttaccgcaaatactaccttggctcattattgccgagataatggtctacttcttcacat
+Solanum_tu attcaccgcaaatactaccttggctcattattgccgagataatggtctacttcttcacat
+Medicago_t attcactgcaaatactaccttggctcactattgccgcgataatggtctacttcttcatat
+Oryza_sati attcaccgcaaatactagtttggctcattattgccgcgacaacggcctacttcttcacat
+Saccharum_ attcaccgcaaatactactttgtctcattattgccgcgacaacggcctacttcttcacat
+Sorghum_bi attcaccgcaaatactactttgtctcattattgccgcgacaacggcctacttcttcacat
+Zea_mays   attcaccgcaaatactactttgtctcattattgccgcgacaacggcctacttcttcacat
+Setaria_vi attcaccgcaaatactagtttgtcttattattgccgcgacaacggcctacttcttcacat
+Chlamydomo tttcacagctaacacttcattagctatctactgtcgtgacaacggtcttcttctacacat
+Chlorella_ ttttacagcaaacacaagtttatctcattattgtcgtgataatggtcttcttttacacat
+Ectocarpus ttatacagcaattcaaagtatggcaatttgggcacgaaaagctgaaatgattttacattt
+Phaeodacty ttatactgcaatccaatcagctgcgatttgggcgcgtgataatgatttaattttacattt
+Nannochlor ttacactgcaattcaatcaatggcaatttggtctcgtaaaaatgacatgatccttcacct
+Nannochlor ttacactgcaattcaatcaatggcaatttggtctcgtaaaaatgacatgatccttcactt
+            * .** ** * .       .  *   .*.    ** .* . .*.  *  *..* **. *
+
+Arabidopsi ccaccgtgcaatgcacgctgttattgatagacagaagaatcatggtatgcacttccgtgt
+Brassica_n ccaccgtgcaatgcacgctgttattgatagacagaagaatcatggtatgcacttccgtgt
+Glycine_ma acaccgtgcaatgcatgcagttatcgacagacaaaagaatcatggtatgcactttcgtgt
+Populus_tr ccatcgcgcaatgcatgcagttattgatagacagaaaaatcatggtatacactttcgtgt
+Quercus_su ccatcgtgcaatgcatgcagttattgatcgacagaagaatcatggtatacactttcgtgt
+Solanum_ly ccaccgtgcaatgcatgcggttattgatagacagaagaatcatggtatccacttccgggt
+Solanum_tu ccaccgtgcaatgcatgcggttattgatagacagaagaatcatggtatgcacttccgggt
+Medicago_t ccaccgtgcaatgcatgcagttattgatagacagaaaaatcatggtatgcactttcgtgt
+Oryza_sati tcaccgagcaatgcatgcagttattgatagacagaaaaatcatggtatgcatttccgtgt
+Saccharum_ tcaccgagcaatgcatgcagttattgatagacagaaaaatcatggtatgcatttccgtgt
+Sorghum_bi tcaccgagcaatgcatgcagttattgatagacagaaaaatcatggtatgcatttccgtgt
+Zea_mays   tcaccgagcaatgcatgcagttattgatagacagaaaaatcatggtatgcatttccgtgt
+Setaria_vi tcaccgagcaatgcatgcagttattgatagacagaaaaatcatggtatgcatttccgtgt
+Chlamydomo ccaccgtgctatgcacgcggttattgaccgtcaacgtaaccacggtattcacttccgtgt
+Chlorella_ tcaccgtgcaatgcacgctgtaattgaccgtcaaagaaatcatggtatcaccttccgtgt
+Ectocarpus acatcgtgctggtaactctacttatgcccgtcaaaaaaaccatggtattaatttcagagt
+Phaeodacty acaccgtgctggtaactcaacttacgcgcgtcaaaaaaatcatggtatcaacttccgtgt
+Nannochlor acaccgtgcaggtaactcggcatatgctcgtcaaaaaaatcatggtattaacttccgtgt
+Nannochlor acaccgtgcaggtaactcggcatatgctcgtcaaaaaaatcatggtattaacttccgtgt
+            **.** ** .   *. * ..   .*   * **. . **.**.*****   .**. * **
+
+Arabidopsi actagctaaagctttacgtctatctggtggagatcatattcacgcgggtacagtagtagg
+Brassica_n actagctaaagctttacgtctatcgggtggagatcatgttcacgcgggtacagtagtagg
+Glycine_ma actagctaaagcattacgtttgtctggtggagatcatgttcacgccggtaccgtagtagg
+Populus_tr actagctaaggcattacgtatgtctggtggagatcatattcactctggtaccgtagtagg
+Quercus_su actagctaaagcattacgtatgtctggtggagatcatattcatgccggtaccgtagtagg
+Solanum_ly attagcaaaagcgttacgtatgtctggtggagatcatattcactctggtaccgtagtagg
+Solanum_tu attagcaaaagcgttacgtatgtctggtggagatcatattcactctggtaccgtagtagg
+Medicago_t attagctaaagcgttacgtatgtcaggtggagatcatattcacgctggtactgtagtagg
+Oryza_sati attagctaaagcattgcgtatgtctgggggagatcatatccacgctggtacagtagtagg
+Saccharum_ attagctaaagcattgcgtatgtcggggggagatcatatccactccggtacagtagtagg
+Sorghum_bi attagctaaagcattgcgtatgtcggggggagatcatatccactccggtacagtagtagg
+Zea_mays   attagctaaagcattgcgtatgtcggggggagatcatatccactccggtacagtagtagg
+Setaria_vi attagctaaagcattgcgtatgtcggggggagatcatatccactccggtacagtagtagg
+Chlamydomo tcttgctaaagctcttcgtatgtctggtggtgaccaccttcactctggtactgttgtagg
+Chlorella_ tttagcaaaagctcttcgtttatctggtggtgatcacttacattctggtacagttgtagg
+Ectocarpus tatctgtaaatggatgcgtatgtgtggtgtagaccatatccatgcaggtactgtagttgg
+Phaeodacty tatttgtaaatggatgcgtatgtgtggtgtggatcatatccatgctggtacagttgtagg
+Nannochlor aatttgtaaatggatgcgtatggctggtgttgaccatattcacgcgggtactgttgtagg
+Nannochlor aatttgtaaatggatgcgtatggctggtgttgaccatattcacgcgggtactgttgtagg
+             *    **.    * *** *.   ** *  **.**. * **. * ***** ** ** **
+
+Arabidopsi taaacttgaaggagacagggagtcaactttgggctttgttgatttactgcgcgatgatta
+Brassica_n taaacttgaaggagacagggagtcaactttgggctttgttgatttactgcgcgatgatta
+Glycine_ma taaacttgaaggggaaagagaaatcactttaggttttgttgatttactacgtgatgattt
+Populus_tr taaacttgaaggggaaagagacataactttgggttttgttgatttactgcgtgatgattt
+Quercus_su taaacttgaaggggaaagagaaatcactttaggctttgttgatttactacgtgatgatta
+Solanum_ly taaacttgaaggtgaaagagacataactttgggctttgttgatttactgcgtgatgattt
+Solanum_tu taaacttgaaggtgaaagagacataactttgggctttgttgatttactgcgtgatgattt
+Medicago_t taaactggaaggagaaagggatattactttaggttttgttgatttactacgtgatgattt
+Oryza_sati taagttagaaggggaacgcgaaatgactttaggttttgttgatttattgcgcgatgattt
+Saccharum_ taagttagaaggggaacgcgaaataactttaggttttgttgatttattgcgcgatgattt
+Sorghum_bi taagttagaaggggaacgcgaaataactttaggttttgttgatttattgcgcgatgattt
+Zea_mays   taagttagaaggggaacgcgaaataactttaggttttgttgatttattgcgcgatgattt
+Setaria_vi taagttagaaggggaacgcgaaataactttaggttttgttgatttattgcgcgatgattt
+Chlamydomo taaactagaaggtgaacgtgaagttactctaggtttcgtagacttaatgcgtgatgacta
+Chlorella_ gaaactagaaggtgaacgtgaagtaacattaggtttcgttgatttaatgcgtgatgatta
+Ectocarpus taaactagaaggagaccctttaatggttaaaggattctacaacagtttattattaactca
+Phaeodacty taaattagaaggcgatcctttaatgattaaaggtttctacgatactttattactaactca
+Nannochlor taaattagaaggtgatcctttaatggttaaaggtttctacaatacactattacaaactag
+Nannochlor taaactagaaggtgatcctttaatggttaaaggtttctataatacattattgcaaactag
+            **..* ***** **        . ..   .** **.   .*.    *..     . .  
+
+Arabidopsi tgttgaaaaagatcgaagccgcggtatctttttcactcaagattgggtctcactacctgg
+Brassica_n tgttgaaaaagaccgaagtcgtggtatctttttcactcaagattgggtctcactaccagg
+Glycine_ma tgttgaaaaagatcgaagtcgcggtatttatttcactcaggattgggtttctctaccagg
+Populus_tr tgttgaaaaagatcgaagccgcggtatttatttcactcaagattgggtctctctaccggg
+Quercus_su tattgaaaaagatcgaagccgcggtatttatttcactcaagattgggtctctttaccagg
+Solanum_ly tgttgaacaagatagaagtcgcggtatttatttcactcaagattgggtctctttaccagg
+Solanum_tu tattgaacaagatagaagtcgcggtatttatttcactcaagattgggtctctttaccagg
+Medicago_t tgttgaaaaagatagaagtcgcggtatttttttcactcaggattgggtttctttacctgg
+Oryza_sati tattgaaaaagatcgtgctcgcggtatctttttcactcaggactgggtatccatgccagg
+Saccharum_ tattgaaaaagatcgttctcgcggtatctttttcactcaggactgggtatccatgccagg
+Sorghum_bi tattgaaaaagatcgttctcgcggtatctttttcactcaggactgggtatccatgccagg
+Zea_mays   tattgaaaaagatcgttctcgcggtatctttttcactcaggactgggtatccatgccagg
+Setaria_vi tattgaaaaagatcgttctcgcggtatctttttcactcaggactgggcatccatgccagg
+Chlamydomo cgttgaaaaagaccgtagccgtggtatttacttcactcaagactggtgttcaatgccagg
+Chlorella_ cattgaaaaagatcgtagtcgtggtatttatttcactcaagattgggtttctttaccagg
+Ectocarpus tttacaaattaatttagctgaaggcttattctttgatatggattgggcatctcttagaaa
+Phaeodacty tttaaatgttaatttaccatacggtattttcttcgaaatgacttgggcaagtttacgtaa
+Nannochlor cttaaacattaacttaccacaaggtattttctttgaacaggactgggcttctttaagaaa
+Nannochlor tttagacattaacttaccacaaggtattttctttgaacaggactgggcttctttaagaaa
+           . *  *    .*.       . **. * * .**..    .. .***       *    ..
+
+Arabidopsi tgttctgcctgtggcttcagggggtattcacgtttggcatatgcctgctttgaccgagat
+Brassica_n tgttctacctgtggcttcagggggtattcacgtttggcatatgcctgctttgaccgagat
+Glycine_ma tgttttgcctgtagcttcgggaggtattcacgtttggcatatgcctgctctgaccgagat
+Populus_tr tgttctacccgtggcttcggggggtattcacgtttggcatatgcctgctctgaccgagat
+Quercus_su tgttctgcccgtggcttcagggggtattcacgtttggcatatgcctgctctgaccgaaat
+Solanum_ly tgttctacctgtggcttcaggaggtattcacgtttggcatatgcctgctctgaccgagat
+Solanum_tu tgttctacctgtggcttcaggaggtattcacgtttggcatatgcctgctctgaccgagat
+Medicago_t tgttctgcctgttgcttcaggtggtattcatgtttggcatatgcctgctctgaccgagat
+Oryza_sati tgttataccggtggcttcagggggtattcatgtttggcatatgccagctctgaccgaaat
+Saccharum_ tgttataccggtggcttcagggggtattcatgtttggcatatgccagctctgaccgaaat
+Sorghum_bi tgttataccggtggcttcagggggtattcatgtttggcatatgccagctctgaccgaaat
+Zea_mays   tgttataccggtggcttctgggggtattcatgtttggcatatgccagctctgaccgaaat
+Setaria_vi tgttataccggtggcttcagggggtattcatgtttggcatatgccagctctgaccgaaat
+Chlamydomo tgttatgccagttgcttcaggcggtattcacgtatggcacatgccagctttagttgaaat
+Chlorella_ tacaatgccagtagcttctggtggtattcacgtatggcacatgccagctctggttgaaat
+Ectocarpus atgtgttccagtagcttctgggggaatccattgtggtcaaatgcaccaacttatttatta
+Phaeodacty atgtatgcctgttgcttctggtggtatccactgtggtcaaatgcaccaattagttcatta
+Nannochlor aactctacctgtagcctctggtggtatccactgtggacaaatgcaccaattacttaacta
+Nannochlor aactctacctgtagcctctggtggtatccactgtggacaaatgcaccaattacttaacta
+                * ** ** **.** ** ** **.**.    * ** ****     .*  .. *   
+
+Arabidopsi ctttggagatgattctgtactacaattcggtggaggaactttaggccacccttggggaaa
+Brassica_n ctttggagatgattccgtactacaatttggtggcggaactttaggccacccttggggaaa
+Glycine_ma ctttggggatgattctgtactccaatttggcggaggaactttaggacacccttggggaaa
+Populus_tr ctttggagatgattccgtactacaattcggtggaggaactttagggcacccttggggaaa
+Quercus_su ctttggagatgattccgtactacaatttggcggaggaactttggggcacccttggggaaa
+Solanum_ly ctttggggatgattccgtactacagttcggtggaggaactttaggacatccttggggtaa
+Solanum_tu ctttggggatgattccgtactacagttcggtggaggaactttaggacatccttggggtaa
+Medicago_t atttggagatgattctgtacttcaattcggtggaggaactttaggacacccttggggaaa
+Oryza_sati ctttggagatgattctgtattgcaatttggtggaggaactttaggacatccttggggtaa
+Saccharum_ ctttggagatgattccgtattacaatttggtggaggaactttaggacatccttggggaaa
+Sorghum_bi ctttggagatgattccgtattacaatttggtggaggaactttaggacatccttggggaaa
+Zea_mays   ctttggagatgattccgtattacaatttggtggaggaactttaggacatccttggggaaa
+Setaria_vi ctttggagacgattctgtattacaatttggtggaggaactttaggacatccttggggaaa
+Chlamydomo cttcggtgatgacgcatgtcttcagttcggtggtggtactctaggtcacccttggggtaa
+Chlorella_ tttcggtgatgatgcttgtttacaattcggtggtggtactttaggtcacccttgggggaa
+Ectocarpus cttaggtgatgatgtagttctacaatttggtggtggtactattggtcatccagatggtat
+Phaeodacty tttaggtgatgatgtagtattacaattcggtggtggtacaattggtcatccagatggtat
+Nannochlor cttaggtgaagactgtgtattacaatttggtggtggtacaattggtcaccctgatggtat
+Nannochlor cttaggtgaagactgtgtattacaatttggtggtggtacaattggtcaccctgatggtat
+            ** ** ** **.      .* **.**.**.** ** **  * ** **.**  . ** * 
+
+Arabidopsi tgcaccgggtgccgtagccaaccgagtagctctggaagcatgtgtacaagctcgtaatga
+Brassica_n tgcaccgggtgccgtagctaaccgagtagctctagaagcatgtgtacaagctcgtaatga
+Glycine_ma tgcaccaggtgctgtagctaatcgagtagctcttgaagcatgtgtgcaggctcgaaatga
+Populus_tr tgcacccggtgccgttgctaatcgagtagctctagaagcatgtgtacaagctcgtaatga
+Quercus_su tgcacctggtgccgtagctaatcgagtagctctagaagcatgtgtacaagctcgtaatga
+Solanum_ly tgcgccaggtgccgtagctaatcgagtagctctagaagcatgtgtaaaagctcgtaatga
+Solanum_tu tgcgccaggtgccgtagctaatcgagtagctctagaagcatgtgtaaaagctcgtaatga
+Medicago_t tgcacctggtgccgtagcgaatcgagtagctctggaagcatgtgtacaagctcgtaatga
+Oryza_sati tgcacctggtgcagcagctaatcgggtggctttagaagcctgtgtacaagctcgtaacga
+Saccharum_ tgcacctggtgcagcagctaatcgtgtggctttagaagcctgtgtacaagctcgtaacga
+Sorghum_bi tgcacctggtgcagcagctaatcgtgtggctttagaagcctgtgtacaagctcgtaacga
+Zea_mays   tgcacctggtgcagcagctaatcgtgtggctttagaagcctgtgtacaagctcgtaacga
+Setaria_vi tgcacctggtgcagcagctaatcgtgtggctttagaagcctgtgtacaagcccgtaacga
+Chlamydomo cgctccaggtgctgcagctaaccgtgtagctcttgaagcttgtactcaagctcgtaacga
+Chlorella_ tgctccaggtgctgctgcaaaccgtgttgctttagaagcttgtactcaagcacgtaatga
+Ectocarpus tcaatcaggtgcgacagctaaccgtgttgctttagaatctatggttctagctcgtaatga
+Phaeodacty tcaagctggtgctacagctaatcgtgttgcgttagaagcaatgattttagctcgtaacga
+Nannochlor cgcttctggtgcaacagcgaatcgtgtggctatggaatgtgtacttttagctaaatacga
+Nannochlor cgcttctggtgcaacagcgaatcgtgtggctatggaatgtgtacttttagctaaatacga
+           .    * ***** .. ** **.** ** **  * ***       .   .**  .  *.**
+
+Arabidopsi gggacgtgatcttgcagtcga------gggtaatgaaattatccgtgaagcttgcaaatg
+Brassica_n gggacgtgatcttgcagtcga------gggtaatgaaattatccgtgaggcttgcaaatg
+Glycine_ma aggacgcgatcttgctcgtga------aggtaatgaaattatccgtgaggctagcaaatg
+Populus_tr gggacgtgatcttgctcgtga------gggtaatgaaattatccgtgaagctagcaaatg
+Quercus_su gggacgtgatcttgctcgtga------gggtaatgaaattattcgtgaggctgctaaatg
+Solanum_ly aggacgtgatcttgctcggga------aggtaatgagattattcgcgaggcttgcaaatg
+Solanum_tu aggacgtgatcttgctcggga------aggtaatgagattattcgcgaggctgccaaatg
+Medicago_t aggacgtgatcttgctcgtga------gggtaatgaaattatccgtgaagctaccaaatg
+Oryza_sati agggcgcgatcttgctcgtga------aggtaatgaaattatccgatcagcttgcaaatg
+Saccharum_ agggcgcgatcttgctcgtga------aggtaatgaaattatcaaagcagcttgcaaatg
+Sorghum_bi agggcgcgatcttgctcgtga------aggtaatgaaattatcaaagcagcttgtaaatg
+Zea_mays   agggcgcgatcttgctcgtga------aggtaatgaaattatcaaagcagcttgcaaatg
+Setaria_vi agggcgcgatcttgctcgtga------aggtaatgaaattatcaaagcagcttgcaaatg
+Chlamydomo aggtcgtgaccttgctcgtga------aggtggcgacgtaattcgttcagcttgtaaatg
+Chlorella_ aggtcgtgatcttgctcgtga------aggcggtgatgtaatccgtgcagcgtgcaaatg
+Ectocarpus aggtcgtgattatgtaggcga------aggtcctgagattttacgtagagcagcaactac
+Phaeodacty aggtgctgattactttaatagtgatattggtcctcaaattttacgcaacgctgcgaaaac
+Nannochlor aggtaaagattacattaacga------aggaccaaaaattttacgtgctgctgcagaaag
+Nannochlor aggtaaagattatattaacga------aggaccaaaaatcttacgtgctgctgcagaaag
+           .**    **.. . .    ..       **     * .*  *  .    **    .    
+
+Arabidopsi gagtcctgaactagctgctgcttgtgaagtatggaaagagatcacatttaa---cttccc
+Brassica_n gagtcctgaactagctgctgcttgtgaagtatggaaggagatcacatttaa---cttccc
+Glycine_ma gagtcctgaattagctgctgcttgtgaagtatggaaggagatcaaatttga---attcga
+Populus_tr gagccctgaactagctgctgcttgtgaagtatggaaggagattaaatttga---attcca
+Quercus_su gagtcctgagctagctgctgcttgtgaagtatggaaagagatcaaatttga---attccc
+Solanum_ly gagcccggaactagctgctgcttgtgaggtatggaaagagatcgtatttaa---ttttgc
+Solanum_tu gagcccggaactagctgctgcttgtgaggtatggaaagagatcgtatttaa---ttttgc
+Medicago_t gagtcctgaattagctgctgcttgtgaagtctggaaggagatcaaatttga---attccc
+Oryza_sati gagtcctgaactagccgcagcttgtgaaatatggaaagcgatcaaattcga---gttcga
+Saccharum_ gagtgctgaactagccgcagcttgtgaaatatggaaggggatcaaatttgatactttcaa
+Sorghum_bi gagtgctgaactagccgcagcttgtgaaatatggaaggagatcaaatttgatactttcaa
+Zea_mays   gagtgctgaactagccgcagcttgtgaaatatggaaggagatcaaatttgatggtttcaa
+Setaria_vi gagtcctgaactagccgcagcttgtgaagtatggaaggagatcaaatttga---gttcga
+Chlamydomo gtctccagaacttgctgctgcatgtgaagtttggaaagaaattaaattcga---atttga
+Chlorella_ gagtcctgaattagctgcagcgtgtgaagtttggaaagaaattaaatttga---attcga
+Ectocarpus ttgtggtcctttaaaagcggctttagatttatggaaagatattacttttga---ttatac
+Phaeodacty atgtggtcctttacaaacagctttagatttatggaaagatattagttttaa---ctatac
+Nannochlor ctgtgctccattacgtactgctttagatctttggaaagatattgctttcaa---ctatac
+Nannochlor ctgtgctccattacgtactgctttagatctttggaaagatattgctttcaa---ctatac
+              .      .*    .* ** *  **  * *****.*  **..  **..*    * .  
+
+Arabidopsi aaccatcgataaattagat------------------------------------ggcca
+Brassica_n aaccatcgataaattagat------------------------------------ggcca
+Glycine_ma agcaatggatactttgtaa-----------------------------------------
+Populus_tr agcaatggatacgttgtaa-----------------------------------------
+Quercus_su agcaatggatactttgtaatccagtaattaccgctcgttctcttaattgaattgtaatta
+Solanum_ly agcagtggacgttttggat------------------------------------aagta
+Solanum_tu agcaatggacgttttggat------------------------------------aagta
+Medicago_t agcaatggatactatttaa-----------------------------------------
+Oryza_sati gccggtagataaactagat------------------------------------agcta
+Saccharum_ agcgatggataccttatag-----------------------------------------
+Sorghum_bi agcgatggataccttatag-----------------------------------------
+Zea_mays   agcgatggataccatataa-----------------------------------------
+Setaria_vi agcgatggataccctatag-----------------------------------------
+Chlamydomo tactattgacaaactttaa-----------------------------------------
+Chlorella_ aacaatcgatactctttaa-----------------------------------------
+Ectocarpus ttcaacggatactccggatttcgtaga----------------------agttgcaacag
+Phaeodacty atctacagatacatctgatttctctgt----------------------tacaccaacag
+Nannochlor atcaacagatactgcagattacgttga----------------------aacaacaacta
+Nannochlor atcaacagatactgcagattacgttga----------------------aacaacaacta
+             * .. **..   .  *                                          
+
+Arabidopsi ag----------------agtag
+Brassica_n ag----------------actag
+Glycine_ma -----------------------
+Populus_tr -----------------------
+Quercus_su aactcggcccaatcttttactaa
+Solanum_ly a----------------------
+Solanum_tu a----------------------
+Medicago_t -----------------------
+Oryza_sati g----------------------
+Saccharum_ -----------------------
+Sorghum_bi -----------------------
+Zea_mays   -----------------------
+Setaria_vi -----------------------
+Chlamydomo -----------------------
+Chlorella_ -----------------------
+Ectocarpus gaagtaga------------taa
+Phaeodacty caaacgta------------taa
+Nannochlor aacagtaa---------------
+Nannochlor aacagtaa---------------
+                                  
