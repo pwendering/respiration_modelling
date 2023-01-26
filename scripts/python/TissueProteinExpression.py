@@ -128,7 +128,7 @@ class TissueProteinExpression:
         df_plot = pd.DataFrame(expr_mat, columns=list(self.tissue_dict.values()), index=self.enzymes)
 
         plt.rcParams['font.family'] = "Arial"
-        plt.rcParams['font.size'] = 14
+        plt.rcParams['font.size'] = 20
         kws = dict(cbar_kws=dict(orientation='horizontal', ticks=[-3, -2, -1, 0, 1, 2, 3, 4]))
         ax = sb.clustermap(df_plot, cmap="crest", figsize=(15, 7), z_score=0,
                            row_cluster=False, col_cluster=True, **kws)
@@ -144,7 +144,8 @@ class TissueProteinExpression:
         ax.ax_row_dendrogram.set_visible(False)
         ax.ax_col_dendrogram.set_visible(False)
         ax.figure.tight_layout()
-        plt.savefig("tissue_prot_expression_z_score", dpi=300, bbox_inches='tight')
+        plt.savefig("tissue_prot_expression_z_score.pdf", dpi=400, bbox_inches='tight')
+        plt.savefig("tissue_prot_expression_z_score.png", dpi=400, bbox_inches='tight')
 
 
 def cm2inch(cm):
