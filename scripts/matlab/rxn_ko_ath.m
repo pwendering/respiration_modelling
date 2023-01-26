@@ -204,6 +204,7 @@ imagesc(plot_mat,'AlphaData',alpha_data)
 colormap('summer')
 cb = colorbar('Location', 'northoutside');
 cb.Title.String = '\lambda_{ko} / \lambda_{wt}';
+cb.Title.Position = [194.5830 28 0];
 hold on
 growth_respiration_red_sort = growth_respiration_red(sort_idx, sort_idx);
 
@@ -228,7 +229,10 @@ xtickangle(90)
 yticks(1:sum(nz_cols))
 yticklabels(names(sort_idx))
 
-set(gcf, 'OuterPosition', [-3.6667   78.3333  946.6667  620.6667]);
+set(gca,...
+    'FontName', 'Arial',...
+    'FontSize', 12)
+set(gcf, 'OuterPosition', 1000*[0.0877   -0.0483    1.0820    0.7653]);
 
 h = zeros(3,1);
 h(1) = scatter(NaN, NaN, 'filled', 'MarkerFaceColor', [.2 .3 .8],...
@@ -258,6 +262,9 @@ errorbar(av_cl_scaled_red_sorted,numel(av_cl_scaled_red_sorted):-1:1,...
     'LineStyle', 'none', 'Color', 'k')
 xlabel('Average \lambda_{ko} / \lambda_{wt}')
 
-set(gca, 'color', 'none')
+set(gca,...
+    'color', 'none',...
+    'FontName', 'Arial',...
+    'FontSize', 12)
 
 exportgraphics(gcf, fullfile('..', '..', 'figures', 'ko_growth_resp_top_10_pct.png'))

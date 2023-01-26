@@ -96,7 +96,7 @@ conf_labels = {'unspecific', 'lineage', 'substrate', 'lineage + substrate'};
 colors = lines(numel(conf_labels));
 for i=1:numel(resp_rxns)
     marker = markers{conf_resp(i)+1};
-    scatter(log10(kcats_vitro(idx_resp_vitro(i))), log10(kcats_vivo(idx_resp_vivo(i))), 80, ...
+    scatter(log10(kcats_vitro(idx_resp_vitro(i))), log10(kcats_vivo(idx_resp_vivo(i))), 130, ...
         'filled', ...
         'Marker', marker,...
         'MarkerFaceColor', colors(conf_resp(i)+1,:),...
@@ -104,14 +104,14 @@ for i=1:numel(resp_rxns)
     hold on
 end
 
-line([-3 7], [-3 7], 'Color', [.7 .7 .7], 'linestyle', '--')
-ylim([-3 7])
-xlim([-3 7])
+line([-3 5.5], [-3 5.5], 'Color', [.7 .7 .7], 'linestyle', '--')
+ylim([-3 5.5])
+xlim([-3 5.5])
 
 
 h = zeros(numel(markers), 1);
 for i=1:numel(markers)
-    h(i) = scatter(NaN,NaN,'filled', ...
+    h(i) = scatter(NaN,NaN,130,'filled', ...
         'Marker', markers{i},...
         'MarkerFaceColor', colors(i,:),...
         'MarkerEdgeColor', [.2 .2 .2]);
@@ -119,17 +119,17 @@ end
 hold off
 
 legend(h, conf_labels,...
-    'location', 'southeast',...
+    'location', 'southwest',...
     'box', 'off',...
-    'Fontsize', 14)
+    'Fontsize', 20)
 
-xlabel('log_{10} {\it in vitro} k_{cat} [s^{-1}]', 'FontSize', 24, 'FontName', 'Arial')
-ylabel('log_{10} {\it in vivo} k_{cat} [s^{-1}]', 'FontSize', 24, 'FontName', 'Arial')
+xlabel('log_{10} {\it in vitro} k_{cat} [s^{-1}]', 'FontName', 'Arial')
+ylabel('log_{10} {\it in vivo} k_{cat} [s^{-1}]', 'FontName', 'Arial')
 
 set(gca, 'Box' ,'on', 'LineWidth', 1.5,...
-    'FontName', 'Arial', 'FontSize', 14)
-
-% exportgraphics(gca, 'kcats_resp_vivo_vitro_aracore.png')
+    'FontName', 'Arial', 'FontSize', 18)
+set(gcf, 'OuterPosition', [353.6667  187.0000  514.0000  512.0000])
+exportgraphics(gca, '../../figures/kcats_resp_vivo_vitro_aracore.png', 'Resolution', 400)
 
 %% write result table
 kcat_resp_tab = cell2table([...

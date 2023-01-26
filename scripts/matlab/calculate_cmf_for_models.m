@@ -39,9 +39,14 @@ bar(cmf(valid_cmf_idx))
 xticks(1:sum(valid_cmf_idx))
 xticklabels(x_lab(valid_cmf_idx))
 xtickangle(90)
-ylabel('Carbon molar fraction [mmol/gDW]')
-set(gcf, 'OuterPosition', [785.6667  179.0000  385.3333  506.0000])
+ylabel({'Carbon molar fraction', '[mmol/gDW]'})
+set(gca,...
+    'box', 'on',...
+    'linewidth', 1.3,...
+    'fontsize', 14,...
+    'fontname', 'Arial')
+set(gcf, 'OuterPosition', [337.6667   95.6667  476.6667  625.3333])
 exportgraphics(gcf, fullfile('..', '..', 'figures', 'carbon_model_fraction_si.png'),...
-    'Resolution', 300);
+    'Resolution', 400);
 
 

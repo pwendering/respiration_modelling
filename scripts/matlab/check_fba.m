@@ -46,7 +46,6 @@ bio_rxn_ids = {...
     {'Biomasssynth_u'}...             % B. napus (Hay2014)
     {'Biomass_Chlamy_auto'}...        % C. reinhardtii (Imam2015)
     {'bof_c'}...                      % P. tricornutum (Levering2016)
-    {'Ar0828'}...                     % A. plantensis C1 (Klanchui2018)
     {'Biomass_Nanno_auto'}...         % N. salina (Loira2017)
     models{15}.rxns(contains(models{15}.rxns, 'biomass', 'IgnoreCase', true))...
     ...                               % G. max (Moreira2019) [109 draw reactions]
@@ -61,6 +60,7 @@ bio_rxn_ids = {...
 
 %     {'R998'}...                       % H. vulgare (GrafahrendBelau2009)
 %     {'Biomass'}...                    % Mentha x piperita (Johnson2017)
+%     {'Ar0828'}...                     % A. plantensis C1 (Klanchui2018)
 
 fba_solutions = nan(size(models));
 for i=1:numel(models)

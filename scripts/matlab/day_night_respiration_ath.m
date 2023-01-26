@@ -54,7 +54,7 @@ model_night = changeRxnBounds(model, night_tab.(1), night_tab.(2), 'l');
 model_night = changeRxnBounds(model_night, night_tab.(1), night_tab.(3), 'u');
 % allow for starch and glycine exchange
 model_night = addExchangeRxn(model_night, 'starch5[h]', -1000, 1000);
-model_night = changeRxnBounds(model_night, 'Ex_Gly_c', -1000, 'l');
+model_night = changeRxnBounds(model_night, 'Ex_Gly_h', -1000, 'l');
 % disable glucose uptake
 model_night = changeRxnBounds(model_night, 'Ex_Glc', 0, 'b');
 
@@ -83,6 +83,7 @@ co2_prod_rxns_day = model_day.rxns(co2_prod_idx);
 
 fba_sol = optimizeCbModel(model_day, 'max', 'one', false);
 day_rgr = fba_sol.f;
+fba_sol.x(fba_sol.x<1e-9) = 0;
 c_rxn_flux_day = fba_sol.x(co2_prod_idx);
 day_growth_respiration = sum(c_rxn_flux_day);
 day_growth_respiration_scaled = day_growth_respiration / fba_sol.f / cmf;
@@ -96,6 +97,7 @@ co2_prod_rxns_night = model_night.rxns(co2_prod_idx);
 
 fba_sol = optimizeCbModel(model_night, 'max', 'one', false);
 
+fba_sol.x(fba_sol.x<1e-9) = 0;
 c_rxn_flux_night = fba_sol.x(co2_prod_idx);
 night_growth_respiration = sum(c_rxn_flux_night);
 night_growth_respiration_scaled = night_growth_respiration / fba_sol.f / cmf;
@@ -127,6 +129,14 @@ bar(sqrt([c_rxn_flux_day(ia) c_rxn_flux_night(ib)]))
 xticks(1:numel(plot_rxns))
 xticklabels(names)
 xtickangle(90)
-ylabel('flux [mmol/gDW/h]')
-legend({'day', 'night'})
-exportgraphics(gca, fullfile('..', '..', 'figures', 'day_night_flux_diff_bar.png'))
+ylabel('Flux [mmol/gDW/h]')
+legend({'day', 'night'}, 'Box', 'off')
+set(gca,...
+    'Box', 'on',...
+    'LineWidth', 1.3,...
+    'FontSize', 16,...
+    'FontName', 'Arial',...
+    'TickLength', [0 0])
+set(gcf, 'OuterPosition', 1000*[0.0830    0.0957    1.1120    0.6253])
+exportgraphics(gca, fullfile('..', '..', 'figures', 'day_night_flux_diff_bar.png'),...
+    'Resolution', 400)
