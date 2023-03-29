@@ -1,3 +1,3 @@
 # Supporting analyses for
 
-**Wendering P, Nikoloski Z** (2022) Towards mechanistic modelling and rational engineering of plant respiration Plant Physiol XX: YY-ZZ
+Philipp Wendering, Zoran Nikoloski, Toward mechanistic modeling and rational engineering of plant respiration, _Plant Physiology_, 2023;, kiad054, https://doi.org/10.1093/plphys/kiad054
